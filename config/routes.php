@@ -4,6 +4,7 @@
 
     $router->get('/', array('controller' => 'HomeController', 'action' => 'index'));
     $router->get('/sobre', array('controller' => 'AboutController', 'action' => 'index'));
-
+    $router->get('/fale-conosco', array('controller' => 'ContactsController', 'action' => '_new'));
+    $router->post('/fale-conosco',array('controller' => 'ContactsController' , 'action' => 'send'));
     $router->load();
 ?>

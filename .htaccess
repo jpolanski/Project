@@ -6,7 +6,7 @@ php_flag display_errors on
 
 # Logger Options
 php_flag log_errors on
-php_value error_log /var/www/estrutura_mvc/logs/php_errors.log
+php_value error_log /var/www/hotel/logs/php_errors.log
 
 #ErrorDocument 500 "Sorry, our script crashed. Oh dear"
 
@@ -14,7 +14,7 @@ php_value error_log /var/www/estrutura_mvc/logs/php_errors.log
 RewriteEngine On
 
 # Diretório base para sobreescrições
-RewriteBase /estrutura_mvc/
+RewriteBase /hotel/
 
 # Não aplica a condição para arquivos que existam. Isso significa que as imagens, CSS, JS e outros arquivos que já existem continuarão funcionando perfeitamente.
 RewriteCond %{REQUEST_FILENAME} !-f

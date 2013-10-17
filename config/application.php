@@ -1,6 +1,6 @@
 <?php
   define('APP_NAME', 'Hotel Campeão' );
-  define('SITE_ROOT', '/estrutura_mvc' ); # com barras
+  define('SITE_ROOT', '/hotel' ); # com barras
   define('APP_ROOT_FOLDER', $_SERVER['DOCUMENT_ROOT'] . '/' . SITE_ROOT );
 
   define('ASSETS_FOLDER', SITE_ROOT .  '/app/assets');
