@@ -28,7 +28,8 @@
   <!-- Collect the nav links, forms, and other content for toggling -->
   <div class="collapse navbar-collapse navbar-ex1-collapse">
     <ul class="nav navbar-nav">
-    <li class="<?= activeClass('/sobre') ?>"><a href="#">Sobre</a></li>
+    <li class="<?= activeClass('/acomodacoes')?>"><?= link_to('/acomodacoes', 'Acomodações')?></li>
+    <li class="<?= activeClass('/sobre') ?>"><?= link_to ('/sobre', "Sobre") ?></li>
       <li><a href="#">Localização</a></li>
       <li class="<?= activeClass('/fale-conosco') ?>"><?= link_to('/fale-conosco', 'Fale Conosco') ?></li> 
       
@@ -50,5 +51,8 @@
     </div>
 
     <?php javascript_include_tag('jquery-1.10.2.min.js', '/bootstrap/js/bootstrap.min.js', 'application.js') ?>
+    <script src='http://code.jquery.com/ui/1.10.3/jquery-ui.js' type='text/JavaScript'>    
+    </script>
+    
   </body>
 </html>
