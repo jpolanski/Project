@@ -67,4 +67,20 @@
 
     return '';
   }
+
+  /* Função para adicionar imagens as páginas
+   *  by: Vinícius A.
+   */   
+
+   function add_image ($name = null, $path = null,$options = '') {
+       if ($name != null && $path != null) {        
+            $path = IMAGES_PATH .'/' . $path .'/' . $name ; 
+            $img = "<img src='{$path}' {$options} />" ;
+       }
+       else {
+        exit () ;
+       }
+
+       return $img ;
+   }
 ?>
