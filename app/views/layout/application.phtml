@@ -12,8 +12,7 @@
     <![endif]-->
 </head>
   <body>
-
-   <nav class="navbar navbar-default" role="navigation">
+       <nav class="navbar navbar-default" role="navigation">
   <!-- Brand and toggle get grouped for better mobile display -->
   <div class="navbar-header">
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -28,10 +27,12 @@
   <!-- Collect the nav links, forms, and other content for toggling -->
   <div class="collapse navbar-collapse navbar-ex1-collapse">
     <ul class="nav navbar-nav">
-    <li class="<?= activeClass('/acomodacoes')?>"><?= link_to('/acomodacoes', 'Acomodações')?></li>
-    <li class="<?= activeClass('/sobre') ?>"><?= link_to ('/sobre', "Sobre") ?></li>
+      <li class="<?= activeClass('/acomodacoes')?>"><?= link_to('/acomodacoes', 'Acomodações')?></li>
+      <li class="<?= activeClass('/sobre') ?>"><?= link_to ('/sobre', "Sobre") ?></li>
       <li><a href="#">Localização</a></li>
       <li class="<?= activeClass('/fale-conosco') ?>"><?= link_to('/fale-conosco', 'Fale Conosco') ?></li> 
+      <li><?php $img = add_image ('lock.gif','icons'); echo link_to ('/admin',$img . '  Area restrita') ;?></li>  
+
       
     </ul>
  </div><!-- /.navbar-collapse -->
@@ -53,6 +54,7 @@
     <?php javascript_include_tag('jquery-1.10.2.min.js', '/bootstrap/js/bootstrap.min.js', 'application.js') ?>
     <script src='http://code.jquery.com/ui/1.10.3/jquery-ui.js' type='text/JavaScript'>    
     </script>
-    
+
+   
   </body>
 </html>

@@ -106,3 +106,10 @@ hr {
   padding-left: 15px;
 }
 
+
+/*Página inicial
+ * -----------*/
+
+.col-md-4 p {
+    width: 100px ;
+}
