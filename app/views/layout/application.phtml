@@ -27,12 +27,24 @@
   <!-- Collect the nav links, forms, and other content for toggling -->
   <div class="collapse navbar-collapse navbar-ex1-collapse">
     <ul class="nav navbar-nav">
-      <li class="<?= activeClass('/acomodacoes')?>"><?= link_to('/acomodacoes', 'Acomodações')?></li>
+    <!--     
+ <li class="<?= activeClass('/acomodacoes')?>"><?= link_to('/acomodacoes', 'Acomodações')?></li>
+-->
+    <li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Acomodações<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+          <li><?= link_to('/acomodacoes/','Individual')?></li>
+          <li><?= link_to('/acomodacoes/','Duplo')?></li>
+          <li><?= link_to('/acomodacoes/','Triplo')?></li>
+        </ul>
+    </li>
+
+
       <li class="<?= activeClass('/sobre') ?>"><?= link_to ('/sobre', "Sobre") ?></li>
       <li><a href="#">Localização</a></li>
       <li class="<?= activeClass('/fale-conosco') ?>"><?= link_to('/fale-conosco', 'Fale Conosco') ?></li> 
       <li><?php $img = add_image ('lock.gif','icons'); echo link_to ('/admin',$img . '  Area restrita') ;?></li>  
-
+    
       
     </ul>
  </div><!-- /.navbar-collapse -->

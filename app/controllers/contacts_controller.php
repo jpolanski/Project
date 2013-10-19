@@ -11,6 +11,7 @@
         public function send () {
             $contact = new Contact ($_POST['contact']) ;
             if ($contact->isValid ()) {
+                $contact->save();
                 Flash::message('success', 'Mensagem enviada com sucesso') ;
                 $this->redirect_to ('/') ;
             }

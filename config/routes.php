@@ -11,5 +11,7 @@
     $router->get('/fale-conosco', array('controller' => 'ContactsController', 'action' => '_new'));
     $router->post('/fale-conosco',array('controller' => 'ContactsController' , 'action' => 'send'));
 
+    $router->get('/acomodacoes',array('controller' => 'RoomsController' , 'action' => 'index'));
+
     $router->load();
 ?>
