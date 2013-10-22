@@ -43,8 +43,12 @@
       <li class="<?= activeClass('/sobre') ?>"><?= link_to ('/sobre', "Sobre") ?></li>
       <li><a href="#">Localização</a></li>
       <li class="<?= activeClass('/fale-conosco') ?>"><?= link_to('/fale-conosco', 'Fale Conosco') ?></li> 
-      <?php ?>
-      <li><?php $img = add_image('lock.gif','icons'); echo link_to('/admin',$img . '  Area restrita') ;?></li>  
+      <?php if (@$this->currentUser()) {?>
+      <li><?= link_to('/admin','Área Administrativa') ?></li>
+      <li><?= link_to('/logout','Seja Bem Vindo(a) ' . $this->currentUser()->getName() . '| Logout')?></li>
+      <?php } else {?>
+      <li><?php $img = add_image('lock.gif','icons'); echo link_to('/login',$img . '  Area restrita') ;?></li> 
+       <?php }?>
     </ul>
  </div><!-- /.navbar-collapse -->
 </nav>

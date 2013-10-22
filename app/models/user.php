@@ -2,6 +2,7 @@
     private $name;
     private $email;
     private $password;
+    private $admin ;
 
     public function setName($name) {
       $this->name = $name;
@@ -19,6 +20,14 @@
 
     public function setPassword($password) {
       $this->password= $password;
+    }
+
+    public function setAdmin($admin){
+        $this->admin = $admin ;
+    }
+
+    public function getAdmin(){
+        return $this->admin ;
     }
 
     public function validates() {

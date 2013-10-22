@@ -13,11 +13,18 @@
 
     $router->get('/acomodacoes/:type',array('controller' => 'RoomsController' , 'action' => 'index'));
 
-    // Admin
+    //Login e Logout
    $router->get('/login',array('controller' => 'SessionsController' , 'action' => '_new'));
    $router->post('/login',array('controller' => 'SessionsController' , 'action' => 'create'));
-   
+   $router->get('/logout',array('controller' => 'SessionsController' , 'action' => 'destroy'));
 
+   //Admin
+   $router->get('/admin',array('controller' => 'AdminController' , 'action' => 'index')); 
+
+   //Cadastrar
+
+   $router->get('/admin/cadastrar',array('controller' => 'RegisterController' , 'action' => 'index')); 
+   $router->get('/admin/cadastrar/:form',array('controller' => 'RegisterController' , 'action' => 'index')); 
 
     $router->load();
 ?>

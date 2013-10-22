@@ -1,1 +1,23 @@
-<h1>Àrea Administrativa</h1>
+<section>
+    <header>
+        <h1>Área Administrativa</h1>
+        
+    </header>
+<article>
+    <div class="col-md-3">
+        <ul class="nav nav-pills nav-stacked">
+            <li><?= link_to('/admin/cadastrar','Cadastrar')?></li>
+            <li><a href="#">Hospedagens</a></li>
+            <li><a href="#">Relatórios</a></li>
+            <li><a href="#">Mensagens</a></li>
+        </ul>
+
+    </div>
+
+    <div class="col-md-9">
+        <h4>Olá <?= $this->currentUser()->getName()?> , bem vindo a sua área administrativa, aqui você manda ;)</h4>
+        <h5>No menu ao lado, estão algumas ações que você pode tomar</h5>
+    </div>
+</article>
+
+</section>

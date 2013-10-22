@@ -46,12 +46,11 @@
   }
 
   public function beforeAction($action) {
-    if (sizeof($this->beforeAction) >= 2) {
-      $actions = explode(';', $this->beforeAction[0]);
-      $method = $this->beforeAction[1];
-
-      if (in_array('all', $actions) || in_array($action, $actions)) {
-        $this->$method();
+    if (is_array($this->beforeAction)) {
+      foreach ($this->beforeAction as $method => $actions) {
+        if ($actions === 'all' || in_array($action, $actions)) {
+          $this->$method();
+        }
       }
     }
   }
