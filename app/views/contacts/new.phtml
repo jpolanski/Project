@@ -1,0 +1,31 @@
+<section class="contacts">
+  <header class='page-header'>
+      <h1>Formulário de Contato</h1>
+  </header>
+    
+  <form role="form" action='<?= url_for('/fale-conosco') ?>' method='POST'>
+
+    <div class="form-group <?= $contact->errors('name') ? 'has-error' : '' ?>">
+      <label class="control-label" for="contact_name">Nome:*</label>
+      <input type="text" class="form-control" name="contact[name]" value="<?= $contact->getName() ?>"
+             id="contact_name" placeholder="Seu nome">
+      <p class="help-block"><?= $contact->errors('name') ?></p>
+    </div>
+
+    <div class="form-group <?= $contact->errors('email') ? 'has-error' : '' ?>">
+      <label class="control-label" for="contact_email">Email:*</label>
+      <input type="text" class="form-control" name="contact[email]" value="<?= $contact->getEmail() ?>"
+             id="contact_email" placeholder="Seu nome">
+      <p class="help-block"><?= $contact->errors('email') ?></p>
+    </div>
+
+
+    <div class="form-group <?= $contact->errors('content') ? 'has-error' : '' ?>">
+      <label class="control-label" for="contact_content">Texto:*</label>
+      <textarea id="contact_content" class="form-control" name='contact[content]'><?= $contact->getContent()?></textarea>
+      <p class="help-block"><?= $contact->errors('content') ?></p>
+    </div>
+
+    <input type='submit' value='Enviar' class='btn btn-primary'/>
+  </form>
+</section>

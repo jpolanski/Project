@@ -1,0 +1,26 @@
+<div class="col-md-4">
+<?php while($img = pg_fetch_assoc($photos)) {?>
+    <?= add_image($img['photo'],'rooms');?>
+<?php }?>
+</div>
+
+<div class="col-md-4">
+<table class="table">
+    <tr>
+        <td>Tipo</td>
+        <td>Descrição</td>
+        <td>Diária</td>        
+    </tr>
+    <tr>
+
+    <?php while($row = pg_fetch_assoc($room)) {?>
+        <td><?= $row['type'] ?></td>
+        <td><?= $row['description'] ?></td>
+        <td><?= $row['daily_value']?></td>
+        
+    </tr>
+    <?php }?>
+
+</table>
+</div>
+

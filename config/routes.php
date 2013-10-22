@@ -11,7 +11,13 @@
     $router->get('/fale-conosco', array('controller' => 'ContactsController', 'action' => '_new'));
     $router->post('/fale-conosco',array('controller' => 'ContactsController' , 'action' => 'send'));
 
-    $router->get('/acomodacoes',array('controller' => 'RoomsController' , 'action' => 'index'));
+    $router->get('/acomodacoes/:type',array('controller' => 'RoomsController' , 'action' => 'index'));
+
+    // Admin
+   $router->get('/login',array('controller' => 'SessionsController' , 'action' => '_new'));
+   $router->post('/login',array('controller' => 'SessionsController' , 'action' => 'create'));
+   
+
 
     $router->load();
 ?>

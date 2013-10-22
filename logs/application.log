@@ -7682,3 +7682,1956 @@ LINE 1: insert into contacts (name, email, content, createdAt) value...
 [17.10.2013 - 13:12:05][NOTICE] - match: /fale-conosco with /fale-conosco
 [17.10.2013 - 13:12:05][NOTICE] - /hotel/
 [17.10.2013 - 13:12:05][NOTICE] - match: / with /
+[17.10.2013 - 14:04:50][NOTICE] - /hotel/
+[17.10.2013 - 14:04:50][NOTICE] - match: / with /
+[17.10.2013 - 14:04:55][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:04:55][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:13:19][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:13:19][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:15:08][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:15:08][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:15:09][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:15:09][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:20:08][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:20:08][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:20:09][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:20:09][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:20:18][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:20:18][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:20:19][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:20:19][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:26:48][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:26:48][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:31:04][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:31:04][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:31:06][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:31:06][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:32:31][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:32:31][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:32:32][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:32:32][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:33:04][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:33:04][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:34:02][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:34:02][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:34:02][NOTICE] - /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:34:02][!!ERROR!!] - URL NOT FOUND: /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:34:02][NOTICE] - /hotel/
+[17.10.2013 - 14:34:02][NOTICE] - match: / with /
+[17.10.2013 - 14:34:41][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:34:41][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:34:41][NOTICE] - /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:34:41][!!ERROR!!] - URL NOT FOUND: /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:34:41][NOTICE] - /hotel/
+[17.10.2013 - 14:34:41][NOTICE] - match: / with /
+[17.10.2013 - 14:35:05][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:35:05][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:35:05][NOTICE] - /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:35:05][!!ERROR!!] - URL NOT FOUND: /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:35:05][NOTICE] - /hotel/
+[17.10.2013 - 14:35:05][NOTICE] - match: / with /
+[17.10.2013 - 14:36:39][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:36:39][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:36:39][NOTICE] - /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:36:39][!!ERROR!!] - URL NOT FOUND: /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:36:39][NOTICE] - /hotel/
+[17.10.2013 - 14:36:39][NOTICE] - match: / with /
+[17.10.2013 - 14:38:36][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:38:36][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:38:36][NOTICE] - /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:38:36][!!ERROR!!] - URL NOT FOUND: /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:38:36][NOTICE] - /hotel/
+[17.10.2013 - 14:38:36][NOTICE] - match: / with /
+[17.10.2013 - 14:38:41][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:38:41][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:38:50][NOTICE] - /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:38:50][!!ERROR!!] - URL NOT FOUND: /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:38:50][NOTICE] - /hotel/
+[17.10.2013 - 14:38:50][NOTICE] - match: / with /
+[17.10.2013 - 14:38:50][NOTICE] - /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:38:50][!!ERROR!!] - URL NOT FOUND: /hotel/app/assets/js/http://code.jquery.com/ui/1.10.3/jquery-ui.js
+[17.10.2013 - 14:38:50][NOTICE] - /hotel/
+[17.10.2013 - 14:38:50][NOTICE] - match: / with /
+[17.10.2013 - 14:41:34][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:41:34][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:41:38][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:41:38][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:42:32][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:42:32][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:44:22][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:44:22][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:44:34][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:44:34][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:45:35][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:45:35][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:45:37][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:45:37][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:45:40][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:45:40][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:45:41][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:45:41][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:47:22][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:47:22][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:47:22][NOTICE] - /hotel/
+[17.10.2013 - 14:47:22][NOTICE] - match: / with /
+[17.10.2013 - 14:47:24][NOTICE] - /hotel/
+[17.10.2013 - 14:47:24][NOTICE] - match: / with /
+[17.10.2013 - 14:47:26][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:47:26][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:47:27][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:47:27][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:47:54][NOTICE] - /hotel/
+[17.10.2013 - 14:47:54][NOTICE] - match: / with /
+[17.10.2013 - 14:47:57][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:47:57][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:50:14][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:50:14][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:50:23][NOTICE] - /hotel/
+[17.10.2013 - 14:50:23][NOTICE] - match: / with /
+[17.10.2013 - 14:50:24][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:50:24][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:50:48][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:50:48][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:50:50][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:50:50][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:51:46][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:51:46][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:52:07][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:52:07][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:53:23][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:53:23][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:54:15][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:54:15][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:54:16][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 14:54:16][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 14:54:16][NOTICE] - /hotel/
+[17.10.2013 - 14:54:16][NOTICE] - match: / with /
+[17.10.2013 - 14:54:17][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:54:17][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:54:32][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:54:32][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:54:33][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:54:33][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:54:34][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:54:34][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:54:38][NOTICE] - /hotel/
+[17.10.2013 - 14:54:38][NOTICE] - match: / with /
+[17.10.2013 - 14:57:16][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:57:16][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:57:18][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:57:18][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:57:19][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 14:57:19][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 14:57:19][NOTICE] - /hotel/
+[17.10.2013 - 14:57:19][NOTICE] - match: / with /
+[17.10.2013 - 14:57:19][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 14:57:19][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 14:57:19][NOTICE] - /hotel/
+[17.10.2013 - 14:57:19][NOTICE] - match: / with /
+[17.10.2013 - 14:57:24][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:57:24][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:57:24][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:57:24][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:57:25][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 14:57:25][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 14:57:28][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:57:28][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 14:58:38][NOTICE] - /hotel/sobre
+[17.10.2013 - 14:58:38][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:03:56][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:03:56][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:10:08][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:10:08][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:11:10][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:11:10][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:11:45][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:11:45][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:13:01][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:13:01][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:13:25][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:13:25][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:14:33][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:14:33][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:21:02][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:21:02][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:21:45][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:21:45][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:22:00][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:22:00][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:23:32][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:23:32][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:24:32][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:24:32][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:27:21][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:27:21][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:30:51][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:30:51][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:31:12][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:31:12][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:33:02][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:33:02][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:35:54][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:35:54][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:35:56][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 15:35:56][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 15:35:56][NOTICE] - /hotel/
+[17.10.2013 - 15:35:56][NOTICE] - match: / with /
+[17.10.2013 - 15:35:58][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 15:35:58][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 15:35:59][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:35:59][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:38:01][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:38:01][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:40:15][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:40:15][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:40:33][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:40:33][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:44:42][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:44:42][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:45:32][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:45:32][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:48:44][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:48:44][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:49:16][NOTICE] - /hotel/
+[17.10.2013 - 15:49:16][NOTICE] - match: / with /
+[17.10.2013 - 15:49:17][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 15:49:17][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 15:49:17][NOTICE] - /hotel/
+[17.10.2013 - 15:49:17][NOTICE] - match: / with /
+[17.10.2013 - 15:49:17][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:49:17][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:49:42][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 15:49:42][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 15:49:42][NOTICE] - /hotel/
+[17.10.2013 - 15:49:42][NOTICE] - match: / with /
+[17.10.2013 - 15:49:47][NOTICE] - /hotel/
+[17.10.2013 - 15:49:47][NOTICE] - match: / with /
+[17.10.2013 - 15:49:50][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 15:49:50][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 15:49:50][NOTICE] - /hotel/
+[17.10.2013 - 15:49:50][NOTICE] - match: / with /
+[17.10.2013 - 15:49:51][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:49:51][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 15:51:33][NOTICE] - /hotel/sobre
+[17.10.2013 - 15:51:33][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 16:00:04][NOTICE] - /hotel/sobre
+[17.10.2013 - 16:00:04][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 16:00:05][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 16:00:05][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 16:00:05][NOTICE] - /hotel/
+[17.10.2013 - 16:00:05][NOTICE] - match: / with /
+[17.10.2013 - 16:00:07][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 16:00:07][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 16:01:06][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 16:01:06][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 16:01:06][NOTICE] - /hotel/
+[17.10.2013 - 16:01:06][NOTICE] - match: / with /
+[17.10.2013 - 16:01:06][NOTICE] - /hotel/sobre
+[17.10.2013 - 16:01:06][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 16:01:08][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 16:01:08][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 16:01:08][NOTICE] - /hotel/
+[17.10.2013 - 16:01:08][NOTICE] - match: / with /
+[17.10.2013 - 16:06:24][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 16:06:24][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 16:06:24][NOTICE] - /hotel/
+[17.10.2013 - 16:06:24][NOTICE] - match: / with /
+[17.10.2013 - 16:06:25][NOTICE] - /hotel/sobre
+[17.10.2013 - 16:06:25][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 16:06:27][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 16:06:27][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 16:10:43][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 16:10:43][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 16:11:28][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 16:11:28][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 16:11:30][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 16:11:30][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 16:11:30][NOTICE] - /hotel/
+[17.10.2013 - 16:11:30][NOTICE] - match: / with /
+[17.10.2013 - 16:11:30][NOTICE] - /hotel/
+[17.10.2013 - 16:11:30][NOTICE] - match: / with /
+[17.10.2013 - 16:11:38][NOTICE] - /hotel/
+[17.10.2013 - 16:11:38][NOTICE] - match: / with /
+[17.10.2013 - 16:12:09][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 16:12:09][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 16:12:11][NOTICE] - /hotel/sobre
+[17.10.2013 - 16:12:11][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 16:12:12][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 16:12:12][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 16:12:12][NOTICE] - /hotel/
+[17.10.2013 - 16:12:12][NOTICE] - match: / with /
+[17.10.2013 - 16:12:16][NOTICE] - /hotel/
+[17.10.2013 - 16:12:16][NOTICE] - match: / with /
+[17.10.2013 - 16:13:00][NOTICE] - /hotel/
+[17.10.2013 - 16:13:00][NOTICE] - match: / with /
+[17.10.2013 - 16:13:10][NOTICE] - /hotel/
+[17.10.2013 - 16:13:10][NOTICE] - match: / with /
+[17.10.2013 - 16:13:25][NOTICE] - /hotel/
+[17.10.2013 - 16:13:25][NOTICE] - match: / with /
+[17.10.2013 - 16:23:12][NOTICE] - /hotel/
+[17.10.2013 - 16:23:12][NOTICE] - match: / with /
+[17.10.2013 - 16:23:13][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 16:23:13][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 16:23:13][NOTICE] - /hotel/
+[17.10.2013 - 16:23:13][NOTICE] - match: / with /
+[17.10.2013 - 16:23:14][NOTICE] - /hotel/sobre
+[17.10.2013 - 16:23:14][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 16:23:18][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 16:23:18][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 16:24:00][NOTICE] - /hotel/sobre
+[17.10.2013 - 16:24:00][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 16:24:01][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 16:24:01][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 16:24:01][NOTICE] - /hotel/
+[17.10.2013 - 16:24:01][NOTICE] - match: / with /
+[17.10.2013 - 16:32:12][NOTICE] - /hotel/
+[17.10.2013 - 16:32:12][NOTICE] - match: / with /
+[17.10.2013 - 16:32:12][NOTICE] - /hotel/
+[17.10.2013 - 16:32:12][NOTICE] - match: / with /
+[17.10.2013 - 16:32:24][NOTICE] - /hotel/
+[17.10.2013 - 16:32:24][NOTICE] - match: / with /
+[17.10.2013 - 16:32:27][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 16:32:27][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 16:32:27][NOTICE] - /hotel/
+[17.10.2013 - 16:32:27][NOTICE] - match: / with /
+[17.10.2013 - 16:32:29][NOTICE] - /hotel/sobre
+[17.10.2013 - 16:32:29][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 16:32:40][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 16:32:40][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 16:32:42][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 16:32:42][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 16:32:57][NOTICE] - /hotel/sobre
+[17.10.2013 - 16:32:57][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 16:32:59][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 16:32:59][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 16:36:06][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 16:36:06][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 16:36:12][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 16:36:12][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 16:36:12][NOTICE] - /hotel/
+[17.10.2013 - 16:36:12][NOTICE] - match: / with /
+[17.10.2013 - 16:36:12][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 16:36:12][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 16:36:12][NOTICE] - /hotel/
+[17.10.2013 - 16:36:12][NOTICE] - match: / with /
+[17.10.2013 - 16:46:03][NOTICE] - /hotel/
+[17.10.2013 - 16:46:03][NOTICE] - match: / with /
+[17.10.2013 - 16:46:10][NOTICE] - /hotel/sobre
+[17.10.2013 - 16:46:10][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 16:46:12][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 16:46:12][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 16:46:15][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 16:46:15][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 16:46:15][NOTICE] - /hotel/
+[17.10.2013 - 16:46:15][NOTICE] - match: / with /
+[17.10.2013 - 16:46:23][NOTICE] - /hotel/
+[17.10.2013 - 16:46:23][NOTICE] - match: / with /
+[17.10.2013 - 16:46:31][NOTICE] - /hotel/
+[17.10.2013 - 16:46:31][NOTICE] - match: / with /
+[17.10.2013 - 16:47:28][NOTICE] - /hotel/
+[17.10.2013 - 16:47:28][NOTICE] - match: / with /
+[17.10.2013 - 17:01:11][NOTICE] - /hotel/
+[17.10.2013 - 17:01:11][NOTICE] - match: / with /
+[17.10.2013 - 17:01:28][NOTICE] - /hotel/sobre
+[17.10.2013 - 17:01:28][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 17:01:29][NOTICE] - /hotel/
+[17.10.2013 - 17:01:29][NOTICE] - match: / with /
+[17.10.2013 - 17:05:59][NOTICE] - /hotel/
+[17.10.2013 - 17:05:59][NOTICE] - match: / with /
+[17.10.2013 - 17:08:13][NOTICE] - /hotel/
+[17.10.2013 - 17:08:13][NOTICE] - match: / with /
+[17.10.2013 - 17:09:46][NOTICE] - /hotel/sobre
+[17.10.2013 - 17:09:46][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 17:12:25][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 17:12:25][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 17:12:48][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 17:12:48][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 17:14:07][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 17:14:07][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 17:14:50][NOTICE] - /hotel/
+[17.10.2013 - 17:14:50][NOTICE] - match: / with /
+[17.10.2013 - 17:14:54][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 17:14:54][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 17:14:56][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 17:14:56][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 17:15:03][NOTICE] - /hotel/sobre
+[17.10.2013 - 17:15:03][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 17:16:06][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 17:16:06][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 17:16:06][NOTICE] - /hotel/
+[17.10.2013 - 17:16:06][NOTICE] - match: / with /
+[17.10.2013 - 17:16:18][NOTICE] - /hotel/sobre
+[17.10.2013 - 17:16:18][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 17:16:22][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 17:16:22][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 20:17:46][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 20:17:46][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 20:17:46][NOTICE] - /hotel/
+[17.10.2013 - 20:17:46][NOTICE] - match: / with /
+[17.10.2013 - 20:17:47][NOTICE] - /hotel/
+[17.10.2013 - 20:17:47][NOTICE] - match: / with /
+[17.10.2013 - 20:17:50][NOTICE] - /hotel/sobre
+[17.10.2013 - 20:17:50][NOTICE] - match: /sobre with /sobre
+[17.10.2013 - 20:18:27][NOTICE] - /hotel/acomodacoes
+[17.10.2013 - 20:18:27][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[17.10.2013 - 20:18:27][NOTICE] - /hotel/
+[17.10.2013 - 20:18:27][NOTICE] - match: / with /
+[17.10.2013 - 20:18:39][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 20:18:39][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 20:18:43][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 20:18:43][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 20:18:54][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 20:18:54][NOTICE] - match: /fale-conosco with /fale-conosco
+[17.10.2013 - 20:18:55][NOTICE] - /hotel/fale-conosco
+[17.10.2013 - 20:18:55][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 11:16:28][NOTICE] - /hotel/
+[18.10.2013 - 11:16:28][NOTICE] - match: / with /
+[18.10.2013 - 11:16:42][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 11:16:42][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[18.10.2013 - 11:16:42][NOTICE] - /hotel/
+[18.10.2013 - 11:16:42][NOTICE] - match: / with /
+[18.10.2013 - 11:16:43][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 11:16:43][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 11:16:45][NOTICE] - /hotel/sobre
+[18.10.2013 - 11:16:45][NOTICE] - match: /sobre with /sobre
+[18.10.2013 - 11:16:48][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 11:16:48][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[18.10.2013 - 11:16:48][NOTICE] - /hotel/
+[18.10.2013 - 11:16:48][NOTICE] - match: / with /
+[18.10.2013 - 14:05:53][NOTICE] - /hotel/
+[18.10.2013 - 14:05:53][NOTICE] - match: / with /
+[18.10.2013 - 14:06:48][NOTICE] - /hotel/
+[18.10.2013 - 14:06:48][NOTICE] - match: / with /
+[18.10.2013 - 14:06:49][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 14:06:49][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[18.10.2013 - 14:06:49][NOTICE] - /hotel/
+[18.10.2013 - 14:06:49][NOTICE] - match: / with /
+[18.10.2013 - 14:06:50][NOTICE] - /hotel/sobre
+[18.10.2013 - 14:06:50][NOTICE] - match: /sobre with /sobre
+[18.10.2013 - 14:06:52][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 14:06:52][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 14:06:54][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 14:06:54][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[18.10.2013 - 14:06:54][NOTICE] - /hotel/
+[18.10.2013 - 14:06:54][NOTICE] - match: / with /
+[18.10.2013 - 14:10:29][NOTICE] - /hotel/
+[18.10.2013 - 14:10:29][NOTICE] - match: / with /
+[18.10.2013 - 14:10:43][NOTICE] - /hotel/
+[18.10.2013 - 14:10:43][NOTICE] - match: / with /
+[18.10.2013 - 14:10:43][NOTICE] - /hotel/
+[18.10.2013 - 14:10:43][NOTICE] - match: / with /
+[18.10.2013 - 14:19:13][NOTICE] - /hotel/
+[18.10.2013 - 14:19:13][NOTICE] - match: / with /
+[18.10.2013 - 14:20:24][NOTICE] - /hotel/
+[18.10.2013 - 14:20:24][NOTICE] - match: / with /
+[18.10.2013 - 14:28:02][NOTICE] - /hotel/
+[18.10.2013 - 14:28:02][NOTICE] - match: / with /
+[18.10.2013 - 14:28:22][NOTICE] - /hotel/
+[18.10.2013 - 14:28:22][NOTICE] - match: / with /
+[18.10.2013 - 14:28:36][NOTICE] - /hotel/
+[18.10.2013 - 14:28:36][NOTICE] - match: / with /
+[18.10.2013 - 14:29:28][NOTICE] - /hotel/
+[18.10.2013 - 14:29:28][NOTICE] - match: / with /
+[18.10.2013 - 14:30:15][NOTICE] - /hotel/
+[18.10.2013 - 14:30:15][NOTICE] - match: / with /
+[18.10.2013 - 14:30:42][NOTICE] - /hotel/
+[18.10.2013 - 14:30:42][NOTICE] - match: / with /
+[18.10.2013 - 14:32:42][NOTICE] - /hotel/
+[18.10.2013 - 14:32:42][NOTICE] - match: / with /
+[18.10.2013 - 14:35:53][NOTICE] - /hotel/
+[18.10.2013 - 14:35:53][NOTICE] - match: / with /
+[18.10.2013 - 14:37:02][NOTICE] - /hotel/
+[18.10.2013 - 14:37:02][NOTICE] - match: / with /
+[18.10.2013 - 14:37:47][NOTICE] - /hotel/
+[18.10.2013 - 14:37:47][NOTICE] - match: / with /
+[18.10.2013 - 14:40:17][NOTICE] - /hotel/
+[18.10.2013 - 14:40:17][NOTICE] - match: / with /
+[18.10.2013 - 14:40:30][NOTICE] - /hotel/
+[18.10.2013 - 14:40:30][NOTICE] - match: / with /
+[18.10.2013 - 14:42:11][NOTICE] - /hotel/
+[18.10.2013 - 14:42:11][NOTICE] - match: / with /
+[18.10.2013 - 14:42:11][NOTICE] - /hotel/image.jpg
+[18.10.2013 - 14:42:11][!!ERROR!!] - URL NOT FOUND: /hotel/image.jpg
+[18.10.2013 - 14:42:11][NOTICE] - /hotel/
+[18.10.2013 - 14:42:11][NOTICE] - match: / with /
+[18.10.2013 - 14:42:13][NOTICE] - /hotel/
+[18.10.2013 - 14:42:13][NOTICE] - match: / with /
+[18.10.2013 - 14:42:13][NOTICE] - /hotel/image.jpg
+[18.10.2013 - 14:42:13][!!ERROR!!] - URL NOT FOUND: /hotel/image.jpg
+[18.10.2013 - 14:42:13][NOTICE] - /hotel/
+[18.10.2013 - 14:42:13][NOTICE] - match: / with /
+[18.10.2013 - 14:42:15][NOTICE] - /hotel/
+[18.10.2013 - 14:42:15][NOTICE] - match: / with /
+[18.10.2013 - 14:42:15][NOTICE] - /hotel/image.jpg
+[18.10.2013 - 14:42:15][!!ERROR!!] - URL NOT FOUND: /hotel/image.jpg
+[18.10.2013 - 14:42:15][NOTICE] - /hotel/
+[18.10.2013 - 14:42:15][NOTICE] - match: / with /
+[18.10.2013 - 14:46:27][NOTICE] - /hotel/
+[18.10.2013 - 14:46:27][NOTICE] - match: / with /
+[18.10.2013 - 14:46:27][NOTICE] - /hotel/image.jpg
+[18.10.2013 - 14:46:27][!!ERROR!!] - URL NOT FOUND: /hotel/image.jpg
+[18.10.2013 - 14:46:27][NOTICE] - /hotel/
+[18.10.2013 - 14:46:27][NOTICE] - match: / with /
+[18.10.2013 - 14:46:27][NOTICE] - /hotel/
+[18.10.2013 - 14:46:27][NOTICE] - match: / with /
+[18.10.2013 - 14:46:27][NOTICE] - /hotel/image.jpg
+[18.10.2013 - 14:46:27][!!ERROR!!] - URL NOT FOUND: /hotel/image.jpg
+[18.10.2013 - 14:46:27][NOTICE] - /hotel/
+[18.10.2013 - 14:46:27][NOTICE] - match: / with /
+[18.10.2013 - 14:48:45][NOTICE] - /hotel/
+[18.10.2013 - 14:48:45][NOTICE] - match: / with /
+[18.10.2013 - 14:48:45][NOTICE] - /hotel/image.jpg
+[18.10.2013 - 14:48:45][!!ERROR!!] - URL NOT FOUND: /hotel/image.jpg
+[18.10.2013 - 14:48:45][NOTICE] - /hotel/
+[18.10.2013 - 14:48:45][NOTICE] - match: / with /
+[18.10.2013 - 14:48:46][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 14:48:46][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[18.10.2013 - 14:48:46][NOTICE] - /hotel/
+[18.10.2013 - 14:48:46][NOTICE] - match: / with /
+[18.10.2013 - 14:48:46][NOTICE] - /hotel/image.jpg
+[18.10.2013 - 14:48:46][!!ERROR!!] - URL NOT FOUND: /hotel/image.jpg
+[18.10.2013 - 14:48:47][NOTICE] - /hotel/
+[18.10.2013 - 14:48:47][NOTICE] - match: / with /
+[18.10.2013 - 14:51:50][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 14:51:50][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 14:54:18][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 14:54:18][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 14:54:21][NOTICE] - /hotel/sobre
+[18.10.2013 - 14:54:21][NOTICE] - match: /sobre with /sobre
+[18.10.2013 - 14:54:22][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 14:54:22][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[18.10.2013 - 14:54:22][NOTICE] - /hotel/
+[18.10.2013 - 14:54:22][NOTICE] - match: / with /
+[18.10.2013 - 14:54:22][NOTICE] - /hotel/image.jpg
+[18.10.2013 - 14:54:22][!!ERROR!!] - URL NOT FOUND: /hotel/image.jpg
+[18.10.2013 - 14:54:22][NOTICE] - /hotel/
+[18.10.2013 - 14:54:22][NOTICE] - match: / with /
+[18.10.2013 - 14:54:22][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 14:54:22][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[18.10.2013 - 14:54:22][NOTICE] - /hotel/
+[18.10.2013 - 14:54:22][NOTICE] - match: / with /
+[18.10.2013 - 14:54:22][NOTICE] - /hotel/image.jpg
+[18.10.2013 - 14:54:22][!!ERROR!!] - URL NOT FOUND: /hotel/image.jpg
+[18.10.2013 - 14:54:22][NOTICE] - /hotel/
+[18.10.2013 - 14:54:22][NOTICE] - match: / with /
+[18.10.2013 - 15:04:35][NOTICE] - /hotel/
+[18.10.2013 - 15:04:35][NOTICE] - match: / with /
+[18.10.2013 - 15:04:35][NOTICE] - /hotel/%7BIMAGE_PATH%7D%20.%20icons%20.%20lock.gif
+[18.10.2013 - 15:04:35][!!ERROR!!] - URL NOT FOUND: /hotel/%7BIMAGE_PATH%7D%20.%20icons%20.%20lock.gif
+[18.10.2013 - 15:04:35][NOTICE] - /hotel/
+[18.10.2013 - 15:04:35][NOTICE] - match: / with /
+[18.10.2013 - 15:07:11][NOTICE] - /hotel/
+[18.10.2013 - 15:07:11][NOTICE] - match: / with /
+[18.10.2013 - 15:07:11][NOTICE] - /hotel/ASSETS_FOLDER/img/icons%20.%20lock.gif
+[18.10.2013 - 15:07:11][!!ERROR!!] - URL NOT FOUND: /hotel/ASSETS_FOLDER/img/icons%20.%20lock.gif
+[18.10.2013 - 15:07:11][NOTICE] - /hotel/
+[18.10.2013 - 15:07:11][NOTICE] - match: / with /
+[18.10.2013 - 15:08:09][NOTICE] - /hotel/
+[18.10.2013 - 15:08:09][NOTICE] - match: / with /
+[18.10.2013 - 15:08:09][NOTICE] - /hotel/app/assets/img/icons%20.%20lock.gif
+[18.10.2013 - 15:08:09][!!ERROR!!] - URL NOT FOUND: /hotel/app/assets/img/icons%20.%20lock.gif
+[18.10.2013 - 15:08:09][NOTICE] - /hotel/
+[18.10.2013 - 15:08:09][NOTICE] - match: / with /
+[18.10.2013 - 15:08:15][NOTICE] - /hotel/
+[18.10.2013 - 15:08:15][NOTICE] - match: / with /
+[18.10.2013 - 15:08:15][NOTICE] - /hotel/app/assets/img/icons%20.%20lock.gif
+[18.10.2013 - 15:08:15][!!ERROR!!] - URL NOT FOUND: /hotel/app/assets/img/icons%20.%20lock.gif
+[18.10.2013 - 15:08:15][NOTICE] - /hotel/
+[18.10.2013 - 15:08:15][NOTICE] - match: / with /
+[18.10.2013 - 15:08:38][NOTICE] - /hotel/
+[18.10.2013 - 15:08:38][NOTICE] - match: / with /
+[18.10.2013 - 15:08:38][NOTICE] - /hotel/app/assets/img/icons/%20.%20lock.gif
+[18.10.2013 - 15:08:38][!!ERROR!!] - URL NOT FOUND: /hotel/app/assets/img/icons/%20.%20lock.gif
+[18.10.2013 - 15:08:38][NOTICE] - /hotel/
+[18.10.2013 - 15:08:38][NOTICE] - match: / with /
+[18.10.2013 - 15:09:08][NOTICE] - /hotel/
+[18.10.2013 - 15:09:08][NOTICE] - match: / with /
+[18.10.2013 - 15:09:08][NOTICE] - /hotel/app/assets/img/icons/
+[18.10.2013 - 15:09:08][!!ERROR!!] - URL NOT FOUND: /hotel/app/assets/img/icons/
+[18.10.2013 - 15:09:08][NOTICE] - /hotel/
+[18.10.2013 - 15:09:08][NOTICE] - match: / with /
+[18.10.2013 - 15:09:34][NOTICE] - /hotel/
+[18.10.2013 - 15:09:34][NOTICE] - match: / with /
+[18.10.2013 - 15:12:39][NOTICE] - /hotel/
+[18.10.2013 - 15:12:39][NOTICE] - match: / with /
+[18.10.2013 - 15:13:03][NOTICE] - /hotel/
+[18.10.2013 - 15:13:03][NOTICE] - match: / with /
+[18.10.2013 - 15:13:15][NOTICE] - /hotel/
+[18.10.2013 - 15:13:15][NOTICE] - match: / with /
+[18.10.2013 - 15:13:33][NOTICE] - /hotel/
+[18.10.2013 - 15:13:33][NOTICE] - match: / with /
+[18.10.2013 - 15:18:37][NOTICE] - /hotel/
+[18.10.2013 - 15:18:37][NOTICE] - match: / with /
+[18.10.2013 - 15:21:02][NOTICE] - /hotel/
+[18.10.2013 - 15:21:02][NOTICE] - match: / with /
+[18.10.2013 - 15:21:34][NOTICE] - /hotel/
+[18.10.2013 - 15:21:34][NOTICE] - match: / with /
+[18.10.2013 - 15:22:17][NOTICE] - /hotel/
+[18.10.2013 - 15:22:17][NOTICE] - match: / with /
+[18.10.2013 - 15:22:56][NOTICE] - /hotel/
+[18.10.2013 - 15:22:56][NOTICE] - match: / with /
+[18.10.2013 - 15:22:58][NOTICE] - /hotel/
+[18.10.2013 - 15:22:58][NOTICE] - match: / with /
+[18.10.2013 - 15:30:50][NOTICE] - /hotel/
+[18.10.2013 - 15:30:50][NOTICE] - match: / with /
+[18.10.2013 - 15:31:26][NOTICE] - /hotel/
+[18.10.2013 - 15:31:26][NOTICE] - match: / with /
+[18.10.2013 - 15:38:06][NOTICE] - /hotel/
+[18.10.2013 - 15:38:06][NOTICE] - match: / with /
+[18.10.2013 - 15:43:52][NOTICE] - /hotel/
+[18.10.2013 - 15:43:52][NOTICE] - match: / with /
+[18.10.2013 - 15:44:10][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 15:44:10][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[18.10.2013 - 15:44:10][NOTICE] - /hotel/
+[18.10.2013 - 15:44:10][NOTICE] - match: / with /
+[18.10.2013 - 15:53:12][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 15:53:12][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[18.10.2013 - 15:53:12][NOTICE] - /hotel/
+[18.10.2013 - 15:53:12][NOTICE] - match: / with /
+[18.10.2013 - 16:01:00][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:01:00][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[18.10.2013 - 16:01:00][NOTICE] - /hotel/
+[18.10.2013 - 16:01:00][NOTICE] - match: / with /
+[18.10.2013 - 16:01:01][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:01:01][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[18.10.2013 - 16:01:01][NOTICE] - /hotel/
+[18.10.2013 - 16:01:01][NOTICE] - match: / with /
+[18.10.2013 - 16:01:08][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:01:08][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[18.10.2013 - 16:01:08][NOTICE] - /hotel/
+[18.10.2013 - 16:01:08][NOTICE] - match: / with /
+[18.10.2013 - 16:01:27][NOTICE] - /hotel/
+[18.10.2013 - 16:01:27][NOTICE] - match: / with /
+[18.10.2013 - 16:01:28][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:01:28][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 16:02:10][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:02:10][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 16:03:26][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:03:26][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 16:04:31][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:04:31][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 16:05:03][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:05:03][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 16:05:24][NOTICE] - /hotel/sobre
+[18.10.2013 - 16:05:24][NOTICE] - match: /sobre with /sobre
+[18.10.2013 - 16:05:25][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:05:25][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 16:09:31][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:09:31][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 16:10:15][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:10:15][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 16:10:31][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:10:31][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 16:14:55][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:14:55][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 16:16:28][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:16:28][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 16:17:02][NOTICE] - /hotel/admin
+[18.10.2013 - 16:17:02][!!ERROR!!] - URL NOT FOUND: /hotel/admin
+[18.10.2013 - 16:17:02][NOTICE] - /hotel/
+[18.10.2013 - 16:17:02][NOTICE] - match: / with /
+[18.10.2013 - 16:18:07][NOTICE] - /hotel/
+[18.10.2013 - 16:18:07][NOTICE] - match: / with /
+[18.10.2013 - 16:19:06][NOTICE] - /hotel/
+[18.10.2013 - 16:19:06][NOTICE] - match: / with /
+[18.10.2013 - 16:19:45][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 16:19:45][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 16:20:14][NOTICE] - /hotel/sobre
+[18.10.2013 - 16:20:14][NOTICE] - match: /sobre with /sobre
+[18.10.2013 - 16:21:49][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 16:21:49][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 16:21:51][NOTICE] - /hotel/sobre
+[18.10.2013 - 16:21:51][NOTICE] - match: /sobre with /sobre
+[18.10.2013 - 16:26:10][NOTICE] - /hotel/
+[18.10.2013 - 16:26:10][NOTICE] - match: / with /
+[18.10.2013 - 16:26:23][NOTICE] - /hotel/acomodacoes/
+[18.10.2013 - 16:26:23][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes/
+[18.10.2013 - 16:26:23][NOTICE] - /hotel/
+[18.10.2013 - 16:26:23][NOTICE] - match: / with /
+[18.10.2013 - 16:26:29][NOTICE] - /hotel/acomodacoes/
+[18.10.2013 - 16:26:29][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes/
+[18.10.2013 - 16:26:29][NOTICE] - /hotel/
+[18.10.2013 - 16:26:29][NOTICE] - match: / with /
+[18.10.2013 - 16:26:45][NOTICE] - /hotel/acomodacoes/
+[18.10.2013 - 16:26:45][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes/
+[18.10.2013 - 16:26:45][NOTICE] - /hotel/
+[18.10.2013 - 16:26:45][NOTICE] - match: / with /
+[18.10.2013 - 16:30:45][NOTICE] - /hotel/
+[18.10.2013 - 16:30:45][NOTICE] - match: / with /
+[18.10.2013 - 16:31:18][NOTICE] - /hotel/
+[18.10.2013 - 16:31:18][NOTICE] - match: / with /
+[18.10.2013 - 16:31:36][NOTICE] - /hotel/
+[18.10.2013 - 16:31:36][NOTICE] - match: / with /
+[18.10.2013 - 16:46:35][NOTICE] - /hotel/
+[18.10.2013 - 16:46:35][NOTICE] - match: / with /
+[18.10.2013 - 16:46:41][NOTICE] - /hotel/sobre
+[18.10.2013 - 16:46:41][NOTICE] - match: /sobre with /sobre
+[18.10.2013 - 16:46:41][NOTICE] - /hotel/sobre
+[18.10.2013 - 16:46:41][NOTICE] - match: /sobre with /sobre
+[18.10.2013 - 16:46:42][NOTICE] - /hotel/admin
+[18.10.2013 - 16:46:42][!!ERROR!!] - URL NOT FOUND: /hotel/admin
+[18.10.2013 - 16:46:42][NOTICE] - /hotel/
+[18.10.2013 - 16:46:42][NOTICE] - match: / with /
+[18.10.2013 - 16:46:43][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 16:46:43][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 16:46:44][NOTICE] - /hotel/sobre
+[18.10.2013 - 16:46:44][NOTICE] - match: /sobre with /sobre
+[18.10.2013 - 16:46:51][NOTICE] - /hotel/acomodacoes/
+[18.10.2013 - 16:46:51][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes/
+[18.10.2013 - 16:46:51][NOTICE] - /hotel/
+[18.10.2013 - 16:46:51][NOTICE] - match: / with /
+[18.10.2013 - 16:47:15][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 16:47:15][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 16:47:23][NOTICE] - /hotel/acomodacoes/
+[18.10.2013 - 16:47:23][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes/
+[18.10.2013 - 16:47:23][NOTICE] - /hotel/
+[18.10.2013 - 16:47:23][NOTICE] - match: / with /
+[18.10.2013 - 16:47:26][NOTICE] - /hotel/acomodacoes/
+[18.10.2013 - 16:47:26][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes/
+[18.10.2013 - 16:47:26][NOTICE] - /hotel/
+[18.10.2013 - 16:47:26][NOTICE] - match: / with /
+[18.10.2013 - 16:49:26][NOTICE] - /hotel/acomodacoes/
+[18.10.2013 - 16:49:26][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes/
+[18.10.2013 - 16:49:26][NOTICE] - /hotel/
+[18.10.2013 - 16:49:26][NOTICE] - match: / with /
+[18.10.2013 - 16:49:29][NOTICE] - /hotel/acomodacoes/
+[18.10.2013 - 16:49:29][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes/
+[18.10.2013 - 16:49:29][NOTICE] - /hotel/
+[18.10.2013 - 16:49:29][NOTICE] - match: / with /
+[18.10.2013 - 16:50:44][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 16:50:44][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 16:50:46][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 16:50:46][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 16:51:45][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 16:51:45][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 16:52:17][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 16:52:17][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 16:52:17][NOTICE] - /hotel/
+[18.10.2013 - 16:52:17][NOTICE] - match: / with /
+[18.10.2013 - 16:52:40][NOTICE] - /hotel/
+[18.10.2013 - 16:52:40][NOTICE] - match: / with /
+[18.10.2013 - 16:52:42][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 16:52:42][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 16:52:50][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 16:52:50][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 16:53:48][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 16:53:48][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 16:53:48][!!!FATAL!!!] - Falha na conexão com banco de dados!
+[18.10.2013 - 20:36:20][NOTICE] - /hotel/
+[18.10.2013 - 20:36:20][NOTICE] - match: / with /
+[18.10.2013 - 20:36:21][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:36:21][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:36:30][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:36:30][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:36:30][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 20:36:30][!!ERROR!!] - Falha para salvar o contato: Contact Object
+(
+    [name:Contact:private] => Vinicius
+    [email:Contact:private] => vba@hotmail.com
+    [content:Contact:private] => sadasdsaddaad
+    [id:protected] => 
+    [createdAt:protected] => 2013-10-18 20:36:30
+    [errors:protected] => Array
+        (
+        )
+
+)
+
+[18.10.2013 - 20:36:30][!!ERROR!!] - Error: Array
+(
+    [type] => 2
+    [message] => pg_query(): Query failed: ERROR:  relation &quot;contacts&quot; does not exist
+LINE 1: insert into contacts (name, email, content, created_at) valu...
+                    ^
+    [file] => /var/www/hotel/app/models/contact.php
+    [line] => 45
+)
+
+[18.10.2013 - 20:36:30][NOTICE] - /hotel/
+[18.10.2013 - 20:36:30][NOTICE] - match: / with /
+[18.10.2013 - 20:37:08][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:37:08][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:37:14][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:37:14][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:37:14][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 20:37:14][!!ERROR!!] - Falha para salvar o contato: Contact Object
+(
+    [name:Contact:private] => Vinicius
+    [email:Contact:private] => vba@hotmail.com
+    [content:Contact:private] => saddd
+    [id:protected] => 
+    [createdAt:protected] => 2013-10-18 20:37:14
+    [errors:protected] => Array
+        (
+        )
+
+)
+
+[18.10.2013 - 20:37:14][!!ERROR!!] - Error: Array
+(
+    [type] => 2
+    [message] => pg_query(): Query failed: ERROR:  column &quot;created_at&quot; of relation &quot;contacts&quot; does not exist
+LINE 1: insert into contacts (name, email, content, created_at) valu...
+                                                    ^
+    [file] => /var/www/hotel/app/models/contact.php
+    [line] => 45
+)
+
+[18.10.2013 - 20:37:14][NOTICE] - /hotel/
+[18.10.2013 - 20:37:14][NOTICE] - match: / with /
+[18.10.2013 - 20:41:13][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:41:13][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:41:21][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:41:21][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:41:21][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 20:41:21][!!ERROR!!] - Falha para salvar o contato: Contact Object
+(
+    [name:Contact:private] => Vinicius
+    [email:Contact:private] => vba@hotmail.com
+    [content:Contact:private] => dddddddddddddd
+    [id:protected] => 
+    [createdAt:protected] => 2013-10-18 20:41:21
+    [errors:protected] => Array
+        (
+        )
+
+)
+
+[18.10.2013 - 20:41:21][!!ERROR!!] - Error: Array
+(
+    [type] => 2
+    [message] => pg_query(): Query failed: ERROR:  column &quot;created_at&quot; of relation &quot;contacts&quot; does not exist
+LINE 1: insert into contacts (name, email, content, created_at) valu...
+                                                    ^
+    [file] => /var/www/hotel/app/models/contact.php
+    [line] => 45
+)
+
+[18.10.2013 - 20:41:21][NOTICE] - /hotel/
+[18.10.2013 - 20:41:21][NOTICE] - match: / with /
+[18.10.2013 - 20:41:41][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:41:41][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:41:44][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:41:44][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:46:32][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:46:32][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:46:32][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 20:46:32][!!ERROR!!] - Falha para salvar o contato: Contact Object
+(
+    [name:Contact:private] => Vinicius
+    [email:Contact:private] => vba@hotmail.com
+    [content:Contact:private] => dddddddddd
+    [id:protected] => 
+    [createdAt:protected] => 2013-10-18 20:46:32
+    [errors:protected] => Array
+        (
+        )
+
+)
+
+[18.10.2013 - 20:46:32][!!ERROR!!] - Error: Array
+(
+    [type] => 2
+    [message] => pg_query(): Query failed: ERROR:  column &quot;created_at&quot; of relation &quot;contacts&quot; does not exist
+LINE 1: insert into contacts (name, email, content, created_at) valu...
+                                                    ^
+    [file] => /var/www/hotel/app/models/contact.php
+    [line] => 45
+)
+
+[18.10.2013 - 20:46:32][NOTICE] - /hotel/
+[18.10.2013 - 20:46:32][NOTICE] - match: / with /
+[18.10.2013 - 20:47:35][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:47:35][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:47:40][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:47:40][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:47:40][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 20:47:40][!!ERROR!!] - Falha para salvar o contato: Contact Object
+(
+    [name:Contact:private] => Vinicius
+    [email:Contact:private] => vba@hotmail.com
+    [content:Contact:private] => cccccccccccccc
+    [id:protected] => 
+    [createdAt:protected] => 2013-10-18 20:47:40
+    [errors:protected] => Array
+        (
+        )
+
+)
+
+[18.10.2013 - 20:47:40][!!ERROR!!] - Error: Array
+(
+    [type] => 2
+    [message] => pg_query(): Query failed: ERROR:  column &quot;created_at&quot; of relation &quot;contacts&quot; does not exist
+LINE 1: insert into contacts (name, email, content, created_at) valu...
+                                                    ^
+    [file] => /var/www/hotel/app/models/contact.php
+    [line] => 45
+)
+
+[18.10.2013 - 20:47:40][NOTICE] - /hotel/
+[18.10.2013 - 20:47:40][NOTICE] - match: / with /
+[18.10.2013 - 20:48:25][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:48:25][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:48:30][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:48:30][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:48:30][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 20:48:30][NOTICE] - /hotel/
+[18.10.2013 - 20:48:30][NOTICE] - match: / with /
+[18.10.2013 - 20:48:59][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:48:59][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:49:04][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:49:04][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:49:04][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 20:49:05][NOTICE] - /hotel/
+[18.10.2013 - 20:49:05][NOTICE] - match: / with /
+[18.10.2013 - 20:50:31][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:50:31][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:50:58][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:50:58][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:50:58][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 20:50:58][NOTICE] - /hotel/
+[18.10.2013 - 20:50:58][NOTICE] - match: / with /
+[18.10.2013 - 20:51:17][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:51:17][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:51:28][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:51:28][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:51:28][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 20:51:28][NOTICE] - /hotel/
+[18.10.2013 - 20:51:28][NOTICE] - match: / with /
+[18.10.2013 - 20:53:32][NOTICE] - /hotel/admin
+[18.10.2013 - 20:53:32][!!ERROR!!] - URL NOT FOUND: /hotel/admin
+[18.10.2013 - 20:53:32][NOTICE] - /hotel/
+[18.10.2013 - 20:53:32][NOTICE] - match: / with /
+[18.10.2013 - 20:54:22][NOTICE] - /hotel/sobre
+[18.10.2013 - 20:54:22][NOTICE] - match: /sobre with /sobre
+[18.10.2013 - 20:54:26][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 20:54:26][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 20:54:34][NOTICE] - /hotel/sobre
+[18.10.2013 - 20:54:34][NOTICE] - match: /sobre with /sobre
+[18.10.2013 - 22:39:36][NOTICE] - /hotel/sobre
+[18.10.2013 - 22:39:36][NOTICE] - match: /sobre with /sobre
+[18.10.2013 - 22:39:44][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 22:39:44][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 22:39:49][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 22:39:49][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 22:39:54][NOTICE] - /hotel/sobre
+[18.10.2013 - 22:39:54][NOTICE] - match: /sobre with /sobre
+[18.10.2013 - 22:40:01][NOTICE] - /hotel/fale-conosco
+[18.10.2013 - 22:40:01][NOTICE] - match: /fale-conosco with /fale-conosco
+[18.10.2013 - 22:49:49][NOTICE] - /hotel/acomodacoes/
+[18.10.2013 - 22:49:49][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes/
+[18.10.2013 - 22:49:49][NOTICE] - /hotel/
+[18.10.2013 - 22:49:49][NOTICE] - match: / with /
+[18.10.2013 - 22:49:52][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 22:49:52][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 22:50:16][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 22:50:16][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 22:50:16][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 22:50:52][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 22:50:52][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 22:50:52][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 22:51:13][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 22:51:13][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 22:51:13][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 23:04:29][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 23:04:29][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 23:04:29][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 23:04:45][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 23:04:45][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 23:04:45][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 23:05:18][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 23:05:18][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 23:05:18][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 23:06:26][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 23:06:26][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 23:06:27][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 23:07:08][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 23:07:08][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 23:07:08][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 23:07:21][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 23:07:21][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 23:07:21][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 23:13:11][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 23:13:11][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 23:13:11][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 23:14:19][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 23:14:19][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 23:14:19][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 23:15:01][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 23:15:01][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 23:15:01][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 23:15:08][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 23:15:08][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 23:15:08][NOTICE] - Aberta conexão com banco de dados!
+[18.10.2013 - 23:15:42][NOTICE] - /hotel/acomodacoes
+[18.10.2013 - 23:15:42][NOTICE] - match: /acomodacoes with /acomodacoes
+[18.10.2013 - 23:15:42][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 14:08:25][NOTICE] - /hotel/
+[19.10.2013 - 14:08:25][NOTICE] - match: / with /
+[19.10.2013 - 14:08:31][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 14:08:31][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 14:08:31][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 14:09:07][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 14:09:07][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 14:09:07][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 14:09:25][NOTICE] - /hotel/fale-conosco
+[19.10.2013 - 14:09:25][NOTICE] - match: /fale-conosco with /fale-conosco
+[19.10.2013 - 14:09:27][NOTICE] - /hotel/fale-conosco
+[19.10.2013 - 14:09:27][NOTICE] - match: /fale-conosco with /fale-conosco
+[19.10.2013 - 14:10:27][NOTICE] - /hotel/fale-conosco
+[19.10.2013 - 14:10:27][NOTICE] - match: /fale-conosco with /fale-conosco
+[19.10.2013 - 14:10:27][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 14:10:27][NOTICE] - /hotel/
+[19.10.2013 - 14:10:27][NOTICE] - match: / with /
+[19.10.2013 - 14:26:53][NOTICE] - /hotel/
+[19.10.2013 - 14:26:53][NOTICE] - match: / with /
+[19.10.2013 - 14:26:54][NOTICE] - /hotel/sobre
+[19.10.2013 - 14:26:54][NOTICE] - match: /sobre with /sobre
+[19.10.2013 - 14:26:57][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 14:26:57][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[19.10.2013 - 14:26:57][NOTICE] - /hotel/
+[19.10.2013 - 14:26:57][NOTICE] - match: / with /
+[19.10.2013 - 14:29:16][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 14:29:16][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[19.10.2013 - 14:29:16][NOTICE] - /hotel/
+[19.10.2013 - 14:29:16][NOTICE] - match: / with /
+[19.10.2013 - 14:29:17][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 14:29:17][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[19.10.2013 - 14:29:17][NOTICE] - /hotel/
+[19.10.2013 - 14:29:17][NOTICE] - match: / with /
+[19.10.2013 - 14:29:19][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 14:29:19][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[19.10.2013 - 14:29:19][NOTICE] - /hotel/
+[19.10.2013 - 14:29:19][NOTICE] - match: / with /
+[19.10.2013 - 14:29:21][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 14:29:21][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[19.10.2013 - 14:29:21][NOTICE] - /hotel/
+[19.10.2013 - 14:29:21][NOTICE] - match: / with /
+[19.10.2013 - 14:29:25][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 14:29:25][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[19.10.2013 - 14:29:25][NOTICE] - /hotel/
+[19.10.2013 - 14:29:25][NOTICE] - match: / with /
+[19.10.2013 - 14:29:47][NOTICE] - /hotel/
+[19.10.2013 - 14:29:47][NOTICE] - match: / with /
+[19.10.2013 - 14:30:39][NOTICE] - /hotel/fale-conosco
+[19.10.2013 - 14:30:39][NOTICE] - match: /fale-conosco with /fale-conosco
+[19.10.2013 - 14:30:41][NOTICE] - /hotel/sobre
+[19.10.2013 - 14:30:41][NOTICE] - match: /sobre with /sobre
+[19.10.2013 - 14:31:04][NOTICE] - /hotel/acomodacoes/
+[19.10.2013 - 14:31:04][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes/
+[19.10.2013 - 14:31:04][NOTICE] - /hotel/
+[19.10.2013 - 14:31:04][NOTICE] - match: / with /
+[19.10.2013 - 14:31:08][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 14:31:08][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 14:31:08][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 14:43:00][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 14:43:00][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 14:43:00][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 14:43:01][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 14:43:01][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 14:43:01][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 14:52:33][NOTICE] - /hotel/fale-conosco
+[19.10.2013 - 14:52:33][NOTICE] - match: /fale-conosco with /fale-conosco
+[19.10.2013 - 14:52:43][NOTICE] - /hotel/sobre
+[19.10.2013 - 14:52:43][NOTICE] - match: /sobre with /sobre
+[19.10.2013 - 15:02:50][NOTICE] - /hotel/
+[19.10.2013 - 15:02:50][NOTICE] - match: / with /
+[19.10.2013 - 15:02:52][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 15:02:52][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 15:02:52][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:02:52][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:04:02][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 15:04:02][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 15:04:02][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:04:02][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:04:03][NOTICE] - /hotel/
+[19.10.2013 - 15:04:03][NOTICE] - match: / with /
+[19.10.2013 - 15:04:05][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 15:04:05][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 15:04:05][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:04:05][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:04:08][NOTICE] - /hotel/fale-conosco
+[19.10.2013 - 15:04:08][NOTICE] - match: /fale-conosco with /fale-conosco
+[19.10.2013 - 15:04:10][NOTICE] - /hotel/
+[19.10.2013 - 15:04:10][NOTICE] - match: / with /
+[19.10.2013 - 15:04:12][NOTICE] - /hotel/
+[19.10.2013 - 15:04:12][NOTICE] - match: / with /
+[19.10.2013 - 15:04:15][NOTICE] - /hotel/fale-conosco
+[19.10.2013 - 15:04:15][NOTICE] - match: /fale-conosco with /fale-conosco
+[19.10.2013 - 15:04:16][NOTICE] - /hotel/fale-conosco
+[19.10.2013 - 15:04:16][NOTICE] - match: /fale-conosco with /fale-conosco
+[19.10.2013 - 15:06:44][NOTICE] - /hotel/acomodacoes/
+[19.10.2013 - 15:06:44][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes/
+[19.10.2013 - 15:06:44][NOTICE] - /hotel/
+[19.10.2013 - 15:06:44][NOTICE] - match: / with /
+[19.10.2013 - 15:06:50][NOTICE] - /hotel/acomodacoes/
+[19.10.2013 - 15:06:50][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes/
+[19.10.2013 - 15:06:50][NOTICE] - /hotel/
+[19.10.2013 - 15:06:50][NOTICE] - match: / with /
+[19.10.2013 - 15:06:54][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 15:06:54][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 15:06:54][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:06:54][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:07:10][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 15:07:10][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 15:07:10][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:07:10][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:14:25][NOTICE] - /hotel/
+[19.10.2013 - 15:14:25][NOTICE] - match: / with /
+[19.10.2013 - 15:18:47][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 15:18:47][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 15:18:47][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:18:47][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:26:40][NOTICE] - /hotel/sobre
+[19.10.2013 - 15:26:40][NOTICE] - match: /sobre with /sobre
+[19.10.2013 - 15:26:42][NOTICE] - /hotel/fale-conosco
+[19.10.2013 - 15:26:42][NOTICE] - match: /fale-conosco with /fale-conosco
+[19.10.2013 - 15:27:43][NOTICE] - /hotel/acomodacoes/
+[19.10.2013 - 15:27:43][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes/
+[19.10.2013 - 15:27:43][NOTICE] - /hotel/
+[19.10.2013 - 15:27:43][NOTICE] - match: / with /
+[19.10.2013 - 15:27:46][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 15:27:46][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 15:27:46][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:27:46][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:32:04][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 15:32:04][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 15:32:04][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:32:04][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:33:25][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 15:33:25][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 15:33:25][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:33:25][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:34:00][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 15:34:00][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 15:34:00][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:34:00][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:34:03][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 15:34:03][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 15:34:03][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 15:34:03][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:32:25][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:32:25][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:32:25][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:32:25][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:34:35][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:34:35][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:34:35][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:34:35][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:34:35][NOTICE] - /hotel/...
+[19.10.2013 - 17:34:35][!!ERROR!!] - URL NOT FOUND: /hotel/...
+[19.10.2013 - 17:34:35][NOTICE] - /hotel/
+[19.10.2013 - 17:34:35][NOTICE] - match: / with /
+[19.10.2013 - 17:35:57][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:35:57][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:35:57][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:35:57][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:36:41][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:36:41][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:36:41][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:36:41][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:37:19][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:37:19][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:37:19][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:37:19][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:37:43][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:37:43][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:37:43][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:37:43][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:39:02][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:39:02][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:39:02][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:39:02][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:39:42][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:39:42][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:39:42][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:39:42][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:41:44][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:41:44][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:41:44][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:41:44][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:42:13][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:42:13][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:42:13][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:42:13][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:42:31][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:42:31][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:42:31][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:42:31][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:42:34][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:42:34][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:42:34][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:42:34][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:42:36][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:42:36][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:42:36][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:42:36][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:50:31][NOTICE] - /hotel/
+[19.10.2013 - 17:50:31][NOTICE] - match: / with /
+[19.10.2013 - 17:50:35][NOTICE] - /hotel/fale-conosco
+[19.10.2013 - 17:50:35][NOTICE] - match: /fale-conosco with /fale-conosco
+[19.10.2013 - 17:50:36][NOTICE] - /hotel/fale-conosco
+[19.10.2013 - 17:50:36][NOTICE] - match: /fale-conosco with /fale-conosco
+[19.10.2013 - 17:50:39][NOTICE] - /hotel/sobre
+[19.10.2013 - 17:50:39][NOTICE] - match: /sobre with /sobre
+[19.10.2013 - 17:50:41][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:50:41][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:50:41][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:50:41][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:50:45][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:50:45][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:50:45][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:50:45][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:53:32][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 17:53:32][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 17:53:32][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 17:53:32][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:04:52][NOTICE] - /hotel/fale-conosco
+[19.10.2013 - 18:04:52][NOTICE] - match: /fale-conosco with /fale-conosco
+[19.10.2013 - 18:04:56][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:04:56][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:04:56][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:04:56][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:15:09][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:15:09][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:15:09][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:15:09][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:18:36][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:18:36][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:18:36][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:18:36][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:19:04][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:19:04][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:19:04][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:19:04][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:19:48][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:19:48][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:19:48][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:19:48][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:21:19][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:21:19][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:21:19][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:21:19][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:21:38][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:21:38][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:21:38][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:21:38][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:23:35][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:23:35][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:23:35][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:23:35][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:25:44][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:25:44][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:25:44][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:25:44][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:26:02][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:26:02][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:26:02][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:26:02][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:26:14][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:26:14][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:26:14][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:26:14][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:26:16][NOTICE] - /hotel/
+[19.10.2013 - 18:26:16][NOTICE] - match: / with /
+[19.10.2013 - 18:26:17][NOTICE] - /hotel/
+[19.10.2013 - 18:26:17][NOTICE] - match: / with /
+[19.10.2013 - 18:26:19][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:26:19][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:26:19][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:26:19][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:26:39][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:26:39][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:26:39][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:26:39][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:26:58][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:26:58][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:26:58][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:26:58][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:27:09][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:27:09][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:27:09][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:27:09][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:31:17][NOTICE] - /hotel/fale-conosco
+[19.10.2013 - 18:31:17][NOTICE] - match: /fale-conosco with /fale-conosco
+[19.10.2013 - 18:31:19][NOTICE] - /hotel/sobre
+[19.10.2013 - 18:31:19][NOTICE] - match: /sobre with /sobre
+[19.10.2013 - 18:31:21][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:31:21][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:31:21][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:31:21][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:31:22][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:31:22][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:31:22][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:31:22][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:33:58][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:33:58][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:33:58][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:33:58][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:35:15][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:35:15][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:35:15][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:35:15][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:38:05][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:38:05][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:38:05][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:38:05][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:40:25][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:40:25][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:40:25][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:40:25][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:40:27][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:40:27][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:40:27][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:40:27][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:40:28][NOTICE] - /hotel/sobre
+[19.10.2013 - 18:40:28][NOTICE] - match: /sobre with /sobre
+[19.10.2013 - 18:40:28][NOTICE] - /hotel/sobre
+[19.10.2013 - 18:40:28][NOTICE] - match: /sobre with /sobre
+[19.10.2013 - 18:40:30][NOTICE] - /hotel/acomodacoes
+[19.10.2013 - 18:40:30][NOTICE] - match: /acomodacoes with /acomodacoes
+[19.10.2013 - 18:40:30][NOTICE] - Aberta conexão com banco de dados!
+[19.10.2013 - 18:40:30][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 03:47:07][NOTICE] - /hotel/acomodacoes
+[20.10.2013 - 03:47:07][NOTICE] - match: /acomodacoes with /acomodacoes
+[20.10.2013 - 03:47:07][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 03:47:07][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 03:47:33][NOTICE] - /hotel/acomodacoes
+[20.10.2013 - 03:47:33][NOTICE] - match: /acomodacoes with /acomodacoes
+[20.10.2013 - 03:47:33][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 03:47:33][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 03:48:48][NOTICE] - /hotel/acomodacoes
+[20.10.2013 - 03:48:48][NOTICE] - match: /acomodacoes with /acomodacoes
+[20.10.2013 - 03:48:48][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 03:48:48][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 19:19:41][NOTICE] - /hotel/
+[20.10.2013 - 19:19:41][NOTICE] - match: / with /
+[20.10.2013 - 19:19:48][NOTICE] - /hotel/fale-conosco
+[20.10.2013 - 19:19:48][NOTICE] - match: /fale-conosco with /fale-conosco
+[20.10.2013 - 19:19:50][NOTICE] - /hotel/sobre
+[20.10.2013 - 19:19:50][NOTICE] - match: /sobre with /sobre
+[20.10.2013 - 19:19:52][NOTICE] - /hotel/acomodacoes
+[20.10.2013 - 19:19:52][NOTICE] - match: /acomodacoes with /acomodacoes
+[20.10.2013 - 19:19:52][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 19:19:52][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 19:19:55][NOTICE] - /hotel/acomodacoes
+[20.10.2013 - 19:19:55][NOTICE] - match: /acomodacoes with /acomodacoes
+[20.10.2013 - 19:19:55][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 19:19:55][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 19:21:29][NOTICE] - /hotel/acomodacoes
+[20.10.2013 - 19:21:29][NOTICE] - match: /acomodacoes with /acomodacoes
+[20.10.2013 - 19:21:29][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 19:21:29][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 19:26:55][NOTICE] - /hotel/acomodacoes
+[20.10.2013 - 19:26:55][NOTICE] - match: /acomodacoes with /acomodacoes
+[20.10.2013 - 19:26:55][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 19:26:55][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 19:26:57][NOTICE] - /hotel/sobre
+[20.10.2013 - 19:26:57][NOTICE] - match: /sobre with /sobre
+[20.10.2013 - 19:47:05][NOTICE] - /hotel/
+[20.10.2013 - 19:47:05][NOTICE] - match: / with /
+[20.10.2013 - 19:47:07][NOTICE] - /hotel/acomodacoes
+[20.10.2013 - 19:47:07][NOTICE] - match: /acomodacoes with /acomodacoes
+[20.10.2013 - 19:47:07][NOTICE] - Aberta conexão com banco de dados!
+[20.10.2013 - 19:47:07][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:36:56][NOTICE] - /hotel/
+[21.10.2013 - 20:36:56][NOTICE] - match: / with /
+[21.10.2013 - 20:37:21][NOTICE] - /hotel/fale-conosco
+[21.10.2013 - 20:37:21][NOTICE] - match: /fale-conosco with /fale-conosco
+[21.10.2013 - 20:37:24][NOTICE] - /hotel/sobre
+[21.10.2013 - 20:37:24][NOTICE] - match: /sobre with /sobre
+[21.10.2013 - 20:37:37][NOTICE] - /hotel/acomodacoes
+[21.10.2013 - 20:37:37][NOTICE] - match: /acomodacoes with /acomodacoes
+[21.10.2013 - 20:37:37][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:37:38][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:40:18][NOTICE] - /hotel/acomodacoes
+[21.10.2013 - 20:40:18][NOTICE] - match: /acomodacoes with /acomodacoes
+[21.10.2013 - 20:40:18][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:40:18][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:40:36][NOTICE] - /hotel/acomodacoes
+[21.10.2013 - 20:40:36][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[21.10.2013 - 20:40:36][NOTICE] - /hotel/
+[21.10.2013 - 20:40:36][NOTICE] - match: / with /
+[21.10.2013 - 20:40:40][NOTICE] - /hotel/acomodacoes/1
+[21.10.2013 - 20:40:40][NOTICE] - match: /acomodacoes/:id with /acomodacoes/1
+[21.10.2013 - 20:40:40][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:40:40][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:40:45][NOTICE] - /hotel/acomodacoes/2
+[21.10.2013 - 20:40:45][NOTICE] - match: /acomodacoes/:id with /acomodacoes/2
+[21.10.2013 - 20:40:45][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:40:45][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:41:16][NOTICE] - /hotel/acomodacoes/2
+[21.10.2013 - 20:41:16][NOTICE] - match: /acomodacoes/:type with /acomodacoes/2
+[21.10.2013 - 20:41:16][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:41:16][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:41:18][NOTICE] - /hotel/acomodacoes
+[21.10.2013 - 20:41:18][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[21.10.2013 - 20:41:18][NOTICE] - /hotel/
+[21.10.2013 - 20:41:18][NOTICE] - match: / with /
+[21.10.2013 - 20:42:17][NOTICE] - /hotel/acomodacoes
+[21.10.2013 - 20:42:17][!!ERROR!!] - URL NOT FOUND: /hotel/acomodacoes
+[21.10.2013 - 20:42:17][NOTICE] - /hotel/
+[21.10.2013 - 20:42:17][NOTICE] - match: / with /
+[21.10.2013 - 20:42:20][NOTICE] - /hotel/acomodacoes/individual
+[21.10.2013 - 20:42:20][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[21.10.2013 - 20:42:20][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:42:20][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:43:21][NOTICE] - /hotel/acomodacoes/individual
+[21.10.2013 - 20:43:21][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[21.10.2013 - 20:43:21][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:43:21][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:43:39][NOTICE] - /hotel/acomodacoes/individual
+[21.10.2013 - 20:43:39][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[21.10.2013 - 20:43:39][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:43:39][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:43:41][NOTICE] - /hotel/acomodacoes/duplo
+[21.10.2013 - 20:43:41][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[21.10.2013 - 20:43:41][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:43:41][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:43:45][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 20:43:45][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 20:43:45][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:43:45][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:46:16][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 20:46:16][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 20:46:16][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:46:16][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:46:33][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 20:46:33][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 20:46:33][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:46:33][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:46:43][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 20:46:43][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 20:46:43][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:46:43][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:47:17][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 20:47:17][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 20:47:17][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:47:17][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:47:49][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 20:47:49][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 20:47:49][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:47:49][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:47:53][NOTICE] - /hotel/acomodacoes/Triplo
+[21.10.2013 - 20:47:53][NOTICE] - match: /acomodacoes/:type with /acomodacoes/Triplo
+[21.10.2013 - 20:47:53][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:47:53][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:48:34][NOTICE] - /hotel/acomodacoes/Triplo
+[21.10.2013 - 20:48:34][NOTICE] - match: /acomodacoes/:type with /acomodacoes/Triplo
+[21.10.2013 - 20:48:34][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:48:47][NOTICE] - /hotel/acomodacoes/Triplo
+[21.10.2013 - 20:48:47][NOTICE] - match: /acomodacoes/:type with /acomodacoes/Triplo
+[21.10.2013 - 20:48:47][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:49:10][NOTICE] - /hotel/acomodacoes/Triplo
+[21.10.2013 - 20:49:10][NOTICE] - match: /acomodacoes/:type with /acomodacoes/Triplo
+[21.10.2013 - 20:49:10][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:49:10][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:49:13][NOTICE] - /hotel/acomodacoes/duplo
+[21.10.2013 - 20:49:13][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[21.10.2013 - 20:49:13][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:49:13][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:49:17][NOTICE] - /hotel/acomodacoes/Duplo
+[21.10.2013 - 20:49:17][NOTICE] - match: /acomodacoes/:type with /acomodacoes/Duplo
+[21.10.2013 - 20:49:17][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:49:17][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:50:18][NOTICE] - /hotel/acomodacoes/Duplo
+[21.10.2013 - 20:50:18][NOTICE] - match: /acomodacoes/:type with /acomodacoes/Duplo
+[21.10.2013 - 20:50:18][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:50:18][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:50:21][NOTICE] - /hotel/acomodacoes/duplo
+[21.10.2013 - 20:50:21][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[21.10.2013 - 20:50:21][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:50:21][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:50:24][NOTICE] - /hotel/acomodacoes/individual
+[21.10.2013 - 20:50:24][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[21.10.2013 - 20:50:24][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:50:24][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:50:26][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 20:50:26][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 20:50:26][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:50:26][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:50:30][NOTICE] - /hotel/acomodacoes/duplo
+[21.10.2013 - 20:50:30][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[21.10.2013 - 20:50:30][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:50:30][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 20:50:36][NOTICE] - /hotel/sobre
+[21.10.2013 - 20:50:36][NOTICE] - match: /sobre with /sobre
+[21.10.2013 - 20:50:37][NOTICE] - /hotel/fale-conosco
+[21.10.2013 - 20:50:37][NOTICE] - match: /fale-conosco with /fale-conosco
+[21.10.2013 - 20:50:39][NOTICE] - /hotel/admin
+[21.10.2013 - 20:50:39][!!ERROR!!] - URL NOT FOUND: /hotel/admin
+[21.10.2013 - 20:50:39][NOTICE] - /hotel/
+[21.10.2013 - 20:50:39][NOTICE] - match: / with /
+[21.10.2013 - 20:50:42][NOTICE] - /hotel/sobre
+[21.10.2013 - 20:50:42][NOTICE] - match: /sobre with /sobre
+[21.10.2013 - 20:50:58][NOTICE] - /hotel/sobre
+[21.10.2013 - 20:50:58][NOTICE] - match: /sobre with /sobre
+[21.10.2013 - 20:50:59][NOTICE] - /hotel/sobre
+[21.10.2013 - 20:50:59][NOTICE] - match: /sobre with /sobre
+[21.10.2013 - 20:51:01][NOTICE] - /hotel/admin
+[21.10.2013 - 20:51:01][!!ERROR!!] - URL NOT FOUND: /hotel/admin
+[21.10.2013 - 20:51:01][NOTICE] - /hotel/
+[21.10.2013 - 20:51:01][NOTICE] - match: / with /
+[21.10.2013 - 20:52:28][NOTICE] - /hotel/
+[21.10.2013 - 20:52:28][NOTICE] - match: / with /
+[21.10.2013 - 20:52:32][NOTICE] - /hotel/acomodacoes/duplo
+[21.10.2013 - 20:52:32][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[21.10.2013 - 20:52:32][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:00:23][NOTICE] - /hotel/acomodacoes/duplo
+[21.10.2013 - 21:00:23][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[21.10.2013 - 21:00:23][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:00:23][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:00:25][NOTICE] - /hotel/acomodacoes/duplo
+[21.10.2013 - 21:00:25][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[21.10.2013 - 21:00:25][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:00:25][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:00:28][NOTICE] - /hotel/acomodacoes/individual
+[21.10.2013 - 21:00:28][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[21.10.2013 - 21:00:28][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:00:28][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:00:31][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 21:00:31][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 21:00:31][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:00:31][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:02:17][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 21:02:17][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 21:02:17][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:02:17][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:02:29][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 21:02:29][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 21:02:29][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:02:29][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:03:09][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 21:03:09][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 21:03:09][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:03:09][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:04:23][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 21:04:23][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 21:04:23][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:04:23][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:05:12][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 21:05:12][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 21:05:12][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:05:12][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:05:27][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 21:05:27][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 21:05:27][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:05:27][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:06:15][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 21:06:15][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 21:06:15][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:06:15][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:07:39][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 21:07:39][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 21:07:39][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:07:39][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:07:42][NOTICE] - /hotel/acomodacoes/individual
+[21.10.2013 - 21:07:42][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[21.10.2013 - 21:07:42][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:07:42][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:07:45][NOTICE] - /hotel/acomodacoes/duplo
+[21.10.2013 - 21:07:45][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[21.10.2013 - 21:07:45][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:07:45][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:07:56][NOTICE] - /hotel/
+[21.10.2013 - 21:07:56][NOTICE] - match: / with /
+[21.10.2013 - 21:08:00][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 21:08:00][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 21:08:00][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:08:00][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:08:03][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 21:08:03][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 21:08:03][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:08:03][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:08:05][NOTICE] - /hotel/acomodacoes/duplo
+[21.10.2013 - 21:08:05][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[21.10.2013 - 21:08:05][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:08:05][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:08:08][NOTICE] - /hotel/acomodacoes/individual
+[21.10.2013 - 21:08:08][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[21.10.2013 - 21:08:08][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:08:08][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 21:08:15][NOTICE] - /hotel/fale-conosco
+[21.10.2013 - 21:08:15][NOTICE] - match: /fale-conosco with /fale-conosco
+[21.10.2013 - 21:08:22][NOTICE] - /hotel/fale-conosco
+[21.10.2013 - 21:08:22][NOTICE] - match: /fale-conosco with /fale-conosco
+[21.10.2013 - 21:08:30][NOTICE] - /hotel/admin
+[21.10.2013 - 21:08:30][!!ERROR!!] - URL NOT FOUND: /hotel/admin
+[21.10.2013 - 21:08:30][NOTICE] - /hotel/
+[21.10.2013 - 21:08:30][NOTICE] - match: / with /
+[21.10.2013 - 21:09:08][NOTICE] - /hotel/
+[21.10.2013 - 21:09:08][NOTICE] - match: / with /
+[21.10.2013 - 21:09:12][NOTICE] - /hotel/fale-conosco
+[21.10.2013 - 21:09:12][NOTICE] - match: /fale-conosco with /fale-conosco
+[21.10.2013 - 21:09:12][NOTICE] - /hotel/fale-conosco
+[21.10.2013 - 21:09:12][NOTICE] - match: /fale-conosco with /fale-conosco
+[21.10.2013 - 21:09:14][NOTICE] - /hotel/admin
+[21.10.2013 - 21:09:14][!!ERROR!!] - URL NOT FOUND: /hotel/admin
+[21.10.2013 - 21:09:14][NOTICE] - /hotel/
+[21.10.2013 - 21:09:14][NOTICE] - match: / with /
+[21.10.2013 - 21:15:04][NOTICE] - /hotel/
+[21.10.2013 - 21:15:04][NOTICE] - match: / with /
+[21.10.2013 - 21:15:05][NOTICE] - /hotel/admin
+[21.10.2013 - 21:15:05][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:15:45][NOTICE] - /hotel/admin
+[21.10.2013 - 21:15:45][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:15:55][NOTICE] - /hotel/admin
+[21.10.2013 - 21:15:55][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:15:56][NOTICE] - /hotel/admin
+[21.10.2013 - 21:15:56][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:15:56][NOTICE] - /hotel/admin
+[21.10.2013 - 21:15:56][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:15:57][NOTICE] - /hotel/admin
+[21.10.2013 - 21:15:57][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:16:09][NOTICE] - /hotel/admin
+[21.10.2013 - 21:16:09][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:25:02][NOTICE] - /hotel/admin
+[21.10.2013 - 21:25:02][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:26:22][NOTICE] - /hotel/admin
+[21.10.2013 - 21:26:22][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:26:49][NOTICE] - /hotel/admin
+[21.10.2013 - 21:26:49][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:26:50][NOTICE] - /hotel/admin
+[21.10.2013 - 21:26:50][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:27:14][NOTICE] - /hotel/admin
+[21.10.2013 - 21:27:14][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:27:15][NOTICE] - /hotel/admin
+[21.10.2013 - 21:27:15][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:27:16][NOTICE] - /hotel/admin
+[21.10.2013 - 21:27:16][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:27:16][NOTICE] - /hotel/admin
+[21.10.2013 - 21:27:16][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:27:16][NOTICE] - /hotel/admin
+[21.10.2013 - 21:27:16][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:27:16][NOTICE] - /hotel/admin
+[21.10.2013 - 21:27:16][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:27:17][NOTICE] - /hotel/admin
+[21.10.2013 - 21:27:17][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:28:24][NOTICE] - /hotel/admin
+[21.10.2013 - 21:28:24][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:29:17][NOTICE] - /hotel/admin
+[21.10.2013 - 21:29:17][NOTICE] - match: /admin with /admin
+[21.10.2013 - 21:29:18][NOTICE] - /hotel/admin
+[21.10.2013 - 21:29:18][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:44:52][NOTICE] - /hotel/admin
+[21.10.2013 - 23:44:52][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:44:53][NOTICE] - /hotel/admin
+[21.10.2013 - 23:44:53][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:45:28][NOTICE] - /hotel/admin
+[21.10.2013 - 23:45:28][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:45:29][NOTICE] - /hotel/admin
+[21.10.2013 - 23:45:29][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:46:09][NOTICE] - /hotel/admin
+[21.10.2013 - 23:46:09][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:46:13][NOTICE] - /hotel/admin/
+[21.10.2013 - 23:46:13][!!ERROR!!] - URL NOT FOUND: /hotel/admin/
+[21.10.2013 - 23:46:13][NOTICE] - /hotel/
+[21.10.2013 - 23:46:13][NOTICE] - match: / with /
+[21.10.2013 - 23:46:16][NOTICE] - /hotel/acomodacoes/duplo
+[21.10.2013 - 23:46:16][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[21.10.2013 - 23:46:16][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 23:46:16][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 23:46:28][NOTICE] - /hotel/acomodacoes/individual
+[21.10.2013 - 23:46:28][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[21.10.2013 - 23:46:28][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 23:46:28][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 23:46:30][NOTICE] - /hotel/acomodacoes/triplo
+[21.10.2013 - 23:46:30][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[21.10.2013 - 23:46:30][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 23:46:30][NOTICE] - Aberta conexão com banco de dados!
+[21.10.2013 - 23:46:34][NOTICE] - /hotel/fale-conosco
+[21.10.2013 - 23:46:34][NOTICE] - match: /fale-conosco with /fale-conosco
+[21.10.2013 - 23:46:35][NOTICE] - /hotel/
+[21.10.2013 - 23:46:35][NOTICE] - match: / with /
+[21.10.2013 - 23:46:39][NOTICE] - /hotel/admin
+[21.10.2013 - 23:46:39][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:46:43][NOTICE] - /hotel/admin/
+[21.10.2013 - 23:46:43][!!ERROR!!] - URL NOT FOUND: /hotel/admin/
+[21.10.2013 - 23:46:43][NOTICE] - /hotel/
+[21.10.2013 - 23:46:43][NOTICE] - match: / with /
+[21.10.2013 - 23:48:36][NOTICE] - /hotel/
+[21.10.2013 - 23:48:36][NOTICE] - match: / with /
+[21.10.2013 - 23:48:38][NOTICE] - /hotel/admin
+[21.10.2013 - 23:48:38][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:49:20][NOTICE] - /hotel/admin
+[21.10.2013 - 23:49:20][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:49:31][NOTICE] - /hotel/admin
+[21.10.2013 - 23:49:31][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:49:32][NOTICE] - /hotel/admin
+[21.10.2013 - 23:49:32][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:49:33][NOTICE] - /hotel/admin
+[21.10.2013 - 23:49:33][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:49:33][NOTICE] - /hotel/admin
+[21.10.2013 - 23:49:33][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:49:33][NOTICE] - /hotel/admin
+[21.10.2013 - 23:49:33][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:49:33][NOTICE] - /hotel/admin
+[21.10.2013 - 23:49:33][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:49:33][NOTICE] - /hotel/admin
+[21.10.2013 - 23:49:33][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:49:34][NOTICE] - /hotel/admin
+[21.10.2013 - 23:49:34][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:49:34][NOTICE] - /hotel/admin
+[21.10.2013 - 23:49:34][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:49:48][NOTICE] - /hotel/admin
+[21.10.2013 - 23:49:48][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:49:58][NOTICE] - /hotel/admin
+[21.10.2013 - 23:49:58][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:49:59][NOTICE] - /hotel/
+[21.10.2013 - 23:49:59][NOTICE] - match: / with /
+[21.10.2013 - 23:50:02][NOTICE] - /hotel/admin
+[21.10.2013 - 23:50:02][NOTICE] - match: /admin with /admin
+[21.10.2013 - 23:56:14][NOTICE] - /hotel/admin
+[21.10.2013 - 23:56:14][NOTICE] - match: /admin with /admin
+[22.10.2013 - 14:14:47][NOTICE] - /hotel/
+[22.10.2013 - 14:14:47][NOTICE] - match: / with /
+[22.10.2013 - 14:14:50][NOTICE] - /hotel/fale-conosco
+[22.10.2013 - 14:14:50][NOTICE] - match: /fale-conosco with /fale-conosco
+[22.10.2013 - 14:14:52][NOTICE] - /hotel/sobre
+[22.10.2013 - 14:14:52][NOTICE] - match: /sobre with /sobre
+[22.10.2013 - 14:15:06][NOTICE] - /hotel/acomodacoes/individual
+[22.10.2013 - 14:15:06][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[22.10.2013 - 14:15:06][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:15:06][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:15:08][NOTICE] - /hotel/acomodacoes/duplo
+[22.10.2013 - 14:15:08][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[22.10.2013 - 14:15:08][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:15:08][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:15:10][NOTICE] - /hotel/acomodacoes/triplo
+[22.10.2013 - 14:15:10][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[22.10.2013 - 14:15:10][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:15:10][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:15:11][NOTICE] - /hotel/admin
+[22.10.2013 - 14:15:11][NOTICE] - match: /admin with /admin
+[22.10.2013 - 14:22:36][NOTICE] - /hotel/
+[22.10.2013 - 14:22:36][NOTICE] - match: / with /
+[22.10.2013 - 14:22:40][NOTICE] - /hotel/session
+[22.10.2013 - 14:22:40][!!ERROR!!] - URL NOT FOUND: /hotel/session
+[22.10.2013 - 14:22:40][NOTICE] - /hotel/
+[22.10.2013 - 14:22:40][NOTICE] - match: / with /
+[22.10.2013 - 14:22:45][NOTICE] - /hotel/sessao
+[22.10.2013 - 14:22:45][!!ERROR!!] - URL NOT FOUND: /hotel/sessao
+[22.10.2013 - 14:22:45][NOTICE] - /hotel/
+[22.10.2013 - 14:22:45][NOTICE] - match: / with /
+[22.10.2013 - 14:23:17][NOTICE] - /hotel/
+[22.10.2013 - 14:23:17][NOTICE] - match: / with /
+[22.10.2013 - 14:23:41][NOTICE] - /hotel/sessoes
+[22.10.2013 - 14:23:41][!!ERROR!!] - URL NOT FOUND: /hotel/sessoes
+[22.10.2013 - 14:23:41][NOTICE] - /hotel/
+[22.10.2013 - 14:23:41][NOTICE] - match: / with /
+[22.10.2013 - 14:24:01][NOTICE] - /hotel/session
+[22.10.2013 - 14:24:01][NOTICE] - match: /session with /session
+[22.10.2013 - 14:24:17][NOTICE] - /hotel/session
+[22.10.2013 - 14:24:17][NOTICE] - match: /session with /session
+[22.10.2013 - 14:25:19][NOTICE] - /hotel/session
+[22.10.2013 - 14:25:19][NOTICE] - match: /session with /session
+[22.10.2013 - 14:25:28][NOTICE] - /hotel/fale-conosco
+[22.10.2013 - 14:25:28][NOTICE] - match: /fale-conosco with /fale-conosco
+[22.10.2013 - 14:25:31][NOTICE] - /hotel/session
+[22.10.2013 - 14:25:31][NOTICE] - match: /session with /session
+[22.10.2013 - 14:25:35][NOTICE] - /hotel/registre-se
+[22.10.2013 - 14:25:35][!!ERROR!!] - URL NOT FOUND: /hotel/registre-se
+[22.10.2013 - 14:25:35][NOTICE] - /hotel/
+[22.10.2013 - 14:25:35][NOTICE] - match: / with /
+[22.10.2013 - 14:25:38][NOTICE] - /hotel/session
+[22.10.2013 - 14:25:38][NOTICE] - match: /session with /session
+[22.10.2013 - 14:28:02][NOTICE] - /hotel/login
+[22.10.2013 - 14:28:02][!!ERROR!!] - URL NOT FOUND: /hotel/login
+[22.10.2013 - 14:28:02][NOTICE] - /hotel/
+[22.10.2013 - 14:28:02][NOTICE] - match: / with /
+[22.10.2013 - 14:28:05][NOTICE] - /hotel/session
+[22.10.2013 - 14:28:05][NOTICE] - match: /session with /session
+[22.10.2013 - 14:29:15][NOTICE] - /hotel/login
+[22.10.2013 - 14:29:15][!!ERROR!!] - URL NOT FOUND: /hotel/login
+[22.10.2013 - 14:29:15][NOTICE] - /hotel/
+[22.10.2013 - 14:29:15][NOTICE] - match: / with /
+[22.10.2013 - 14:29:18][NOTICE] - /hotel/session
+[22.10.2013 - 14:29:18][NOTICE] - match: /session with /session
+[22.10.2013 - 14:30:58][NOTICE] - /hotel/session
+[22.10.2013 - 14:30:58][!!ERROR!!] - URL NOT FOUND: /hotel/session
+[22.10.2013 - 14:30:58][NOTICE] - /hotel/
+[22.10.2013 - 14:30:58][NOTICE] - match: / with /
+[22.10.2013 - 14:31:04][NOTICE] - /hotel/login
+[22.10.2013 - 14:31:04][NOTICE] - match: /login with /login
+[22.10.2013 - 14:31:07][NOTICE] - /hotel/login
+[22.10.2013 - 14:31:07][NOTICE] - match: /login with /login
+[22.10.2013 - 14:31:07][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:31:07][!!ERROR!!] - Login:Array
+(
+    [type] => 2
+    [message] => pg_query_params(): Query failed: ERROR:  relation &quot;users&quot; does not exist
+LINE 1: select id from users where email = $1 and password = $2
+                       ^
+    [file] => /var/www/hotel/app/models/user_session.php
+    [line] => 21
+)
+
+[22.10.2013 - 14:42:35][NOTICE] - /hotel/login
+[22.10.2013 - 14:42:35][NOTICE] - match: /login with /login
+[22.10.2013 - 14:42:35][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:42:35][!!ERROR!!] - Login:Array
+(
+    [type] => 2
+    [message] => pg_query_params(): Query failed: ERROR:  relation &quot;users&quot; does not exist
+LINE 1: select id from users where email = $1 and password = $2
+                       ^
+    [file] => /var/www/hotel/app/models/user_session.php
+    [line] => 21
+)
+
+[22.10.2013 - 14:42:42][NOTICE] - /hotel/login
+[22.10.2013 - 14:42:42][NOTICE] - match: /login with /login
+[22.10.2013 - 14:42:42][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:42:42][!!ERROR!!] - Login:Array
+(
+    [type] => 2
+    [message] => pg_query_params(): Query failed: ERROR:  relation &quot;users&quot; does not exist
+LINE 1: select id from users where email = $1 and password = $2
+                       ^
+    [file] => /var/www/hotel/app/models/user_session.php
+    [line] => 21
+)
+
+[22.10.2013 - 14:43:40][NOTICE] - /hotel/login
+[22.10.2013 - 14:43:40][NOTICE] - match: /login with /login
+[22.10.2013 - 14:43:40][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:43:40][!!ERROR!!] - Login:
+[22.10.2013 - 14:43:44][NOTICE] - /hotel/login
+[22.10.2013 - 14:43:44][NOTICE] - match: /login with /login
+[22.10.2013 - 14:43:44][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:43:44][!!ERROR!!] - Login:
+[22.10.2013 - 14:43:49][NOTICE] - /hotel/login
+[22.10.2013 - 14:43:49][NOTICE] - match: /login with /login
+[22.10.2013 - 14:43:49][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:43:49][!!ERROR!!] - Login:
+[22.10.2013 - 14:44:34][NOTICE] - /hotel/login
+[22.10.2013 - 14:44:34][NOTICE] - match: /login with /login
+[22.10.2013 - 14:44:35][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:44:35][!!ERROR!!] - Login:
+[22.10.2013 - 14:45:19][NOTICE] - /hotel/login
+[22.10.2013 - 14:45:19][NOTICE] - match: /login with /login
+[22.10.2013 - 14:45:19][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:45:19][!!ERROR!!] - Login:
+[22.10.2013 - 14:45:28][NOTICE] - /hotel/login
+[22.10.2013 - 14:45:28][NOTICE] - match: /login with /login
+[22.10.2013 - 14:45:28][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:45:28][NOTICE] - Usuário: 1 logou no sistema
+[22.10.2013 - 14:45:28][NOTICE] - /hotel/
+[22.10.2013 - 14:45:28][NOTICE] - match: / with /
+[22.10.2013 - 14:46:56][NOTICE] - /hotel/
+[22.10.2013 - 14:46:56][NOTICE] - match: / with /
+[22.10.2013 - 14:47:14][NOTICE] - /hotel/
+[22.10.2013 - 14:47:14][NOTICE] - match: / with /
+[22.10.2013 - 14:47:14][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:47:34][NOTICE] - /hotel/
+[22.10.2013 - 14:47:34][NOTICE] - match: / with /
+[22.10.2013 - 14:47:36][NOTICE] - /hotel/admin
+[22.10.2013 - 14:47:36][!!ERROR!!] - URL NOT FOUND: /hotel/admin
+[22.10.2013 - 14:47:36][NOTICE] - /hotel/
+[22.10.2013 - 14:47:36][NOTICE] - match: / with /
+[22.10.2013 - 14:48:25][NOTICE] - /hotel/sobre
+[22.10.2013 - 14:48:25][NOTICE] - match: /sobre with /sobre
+[22.10.2013 - 14:48:26][NOTICE] - /hotel/
+[22.10.2013 - 14:48:26][NOTICE] - match: / with /
+[22.10.2013 - 14:57:47][NOTICE] - /hotel/
+[22.10.2013 - 14:57:47][NOTICE] - match: / with /
+[22.10.2013 - 14:57:49][NOTICE] - /hotel/admin
+[22.10.2013 - 14:57:49][!!ERROR!!] - URL NOT FOUND: /hotel/admin
+[22.10.2013 - 14:57:49][NOTICE] - /hotel/
+[22.10.2013 - 14:57:49][NOTICE] - match: / with /
+[22.10.2013 - 14:57:52][NOTICE] - /hotel/login
+[22.10.2013 - 14:57:52][NOTICE] - match: /login with /login
+[22.10.2013 - 14:57:56][NOTICE] - /hotel/login
+[22.10.2013 - 14:57:56][NOTICE] - match: /login with /login
+[22.10.2013 - 14:57:56][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 14:57:56][NOTICE] - Usuário: 1 logou no sistema
+[22.10.2013 - 14:57:56][NOTICE] - /hotel/
+[22.10.2013 - 14:57:56][NOTICE] - match: / with /
+[22.10.2013 - 15:00:51][NOTICE] - /hotel/
+[22.10.2013 - 15:00:51][NOTICE] - match: / with /
+[22.10.2013 - 15:00:52][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:00:58][NOTICE] - /hotel/admin
+[22.10.2013 - 15:00:58][!!ERROR!!] - URL NOT FOUND: /hotel/admin
+[22.10.2013 - 15:00:58][NOTICE] - /hotel/
+[22.10.2013 - 15:00:58][NOTICE] - match: / with /
+[22.10.2013 - 15:00:58][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:01:35][NOTICE] - /hotel/
+[22.10.2013 - 15:01:35][NOTICE] - match: / with /
+[22.10.2013 - 15:01:35][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:01:36][NOTICE] - /hotel/
+[22.10.2013 - 15:01:36][NOTICE] - match: / with /
+[22.10.2013 - 15:01:36][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:01:38][NOTICE] - /hotel/
+[22.10.2013 - 15:01:38][NOTICE] - match: / with /
+[22.10.2013 - 15:01:38][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:01:41][NOTICE] - /hotel/
+[22.10.2013 - 15:01:41][NOTICE] - match: / with /
+[22.10.2013 - 15:01:41][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:01:48][NOTICE] - /hotel/
+[22.10.2013 - 15:01:48][NOTICE] - match: / with /
+[22.10.2013 - 15:01:48][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:02:30][NOTICE] - /hotel/
+[22.10.2013 - 15:02:30][NOTICE] - match: / with /
+[22.10.2013 - 15:02:34][NOTICE] - /hotel/acomodacoes/individual
+[22.10.2013 - 15:02:34][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[22.10.2013 - 15:02:34][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:02:34][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:02:35][NOTICE] - /hotel/acomodacoes/duplo
+[22.10.2013 - 15:02:35][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[22.10.2013 - 15:02:35][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:02:35][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:02:46][NOTICE] - /hotel/fale-conosco
+[22.10.2013 - 15:02:46][NOTICE] - match: /fale-conosco with /fale-conosco
+[22.10.2013 - 15:02:48][NOTICE] - /hotel/acomodacoes/individual
+[22.10.2013 - 15:02:48][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[22.10.2013 - 15:02:48][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:02:48][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:03:18][NOTICE] - /hotel/acomodacoes/individual
+[22.10.2013 - 15:03:18][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[22.10.2013 - 15:03:18][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:03:18][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:03:37][NOTICE] - /hotel/acomodacoes/duplo
+[22.10.2013 - 15:03:37][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[22.10.2013 - 15:03:37][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:03:37][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:03:39][NOTICE] - /hotel/acomodacoes/triplo
+[22.10.2013 - 15:03:39][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[22.10.2013 - 15:03:39][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:03:39][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:03:43][NOTICE] - /hotel/acomodacoes/individual
+[22.10.2013 - 15:03:43][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[22.10.2013 - 15:03:43][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:03:43][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:04:22][NOTICE] - /hotel/sobre
+[22.10.2013 - 15:04:22][NOTICE] - match: /sobre with /sobre
+[22.10.2013 - 15:04:24][NOTICE] - /hotel/fale-conosco
+[22.10.2013 - 15:04:24][NOTICE] - match: /fale-conosco with /fale-conosco
+[22.10.2013 - 15:04:26][NOTICE] - /hotel/acomodacoes/triplo
+[22.10.2013 - 15:04:26][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[22.10.2013 - 15:04:26][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:04:26][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:05:19][NOTICE] - /hotel/fale-conosco
+[22.10.2013 - 15:05:19][NOTICE] - match: /fale-conosco with /fale-conosco
+[22.10.2013 - 15:05:22][NOTICE] - /hotel/fale-conosco
+[22.10.2013 - 15:05:22][NOTICE] - match: /fale-conosco with /fale-conosco
+[22.10.2013 - 15:05:26][NOTICE] - /hotel/admin
+[22.10.2013 - 15:05:26][!!ERROR!!] - URL NOT FOUND: /hotel/admin
+[22.10.2013 - 15:05:26][NOTICE] - /hotel/
+[22.10.2013 - 15:05:26][NOTICE] - match: / with /
+[22.10.2013 - 15:07:46][NOTICE] - /hotel/
+[22.10.2013 - 15:07:46][NOTICE] - match: / with /
+[22.10.2013 - 15:09:05][NOTICE] - /hotel/acomodacoes/triplo
+[22.10.2013 - 15:09:05][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[22.10.2013 - 15:09:05][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:09:05][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 15:09:06][NOTICE] - /hotel/sobre
+[22.10.2013 - 15:09:06][NOTICE] - match: /sobre with /sobre
+[22.10.2013 - 15:09:08][NOTICE] - /hotel/fale-conosco
+[22.10.2013 - 15:09:08][NOTICE] - match: /fale-conosco with /fale-conosco
+[22.10.2013 - 15:09:27][NOTICE] - /hotel/fale-conosco
+[22.10.2013 - 15:09:27][NOTICE] - match: /fale-conosco with /fale-conosco
+[22.10.2013 - 15:09:28][NOTICE] - /hotel/admin
+[22.10.2013 - 15:09:28][!!ERROR!!] - URL NOT FOUND: /hotel/admin
+[22.10.2013 - 15:09:28][NOTICE] - /hotel/
+[22.10.2013 - 15:09:28][NOTICE] - match: / with /
