@@ -26,5 +26,8 @@
    $router->get('/admin/cadastrar',array('controller' => 'RegisterController' , 'action' => 'index')); 
    $router->get('/admin/cadastrar/:form',array('controller' => 'RegisterController' , 'action' => 'index')); 
 
+   //Efetuando cadastros especificos
+   $router->post('/admin/cadastrar/tipo-de-quarto',array('controller' => 'RoomController' , 'action' => 'create'));
+
     $router->load();
 ?>

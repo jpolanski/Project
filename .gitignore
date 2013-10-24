@@ -1,4 +1,4 @@
-.sql
-.sh
+*.sql
+*.sh
 database_config.php
 *.log
