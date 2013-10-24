@@ -1,0 +1,18 @@
+<table class="table">
+    <tr>
+        <?php foreach($fields as $field) {?>
+            <td><?= $field ?></td>
+        <?php }?>
+    </tr>   
+
+    <?php foreach($other as $values) {?>
+    <tr>
+        <?php foreach($values as $value) {?>
+        <td><?= $value ?></td>
+        <?php }?>    
+        <td><?= link_to(Presents::makeUrl('edit',$values['id']),'Editar')?></td>                   
+        <td><?= link_to(Presents::makeUrl('delete',$values['id']),'Deletar')?></td>
+    </tr>
+    <?php }?>
+</table>
+

@@ -1,0 +1,9 @@
+<?php
+    if($result != null) {
+    $fields = array('name' => 'Nome', 'email' => 'Email' , 'content' => 'Mensagem' ,'created_at' => 'Criação');    
+    Presents::table($result,$fields);
+} else {?>
+
+<h1>Não há mensagens</h1>
+
+<?php }?>

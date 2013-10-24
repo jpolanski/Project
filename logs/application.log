@@ -595,3 +595,1387 @@
 [22.10.2013 - 17:08:50][NOTICE] - /hotel/
 [22.10.2013 - 17:08:50][NOTICE] - match: / with /
 [22.10.2013 - 17:08:50][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:01:05][NOTICE] - /hotel/
+[22.10.2013 - 21:01:05][NOTICE] - match: / with /
+[22.10.2013 - 21:01:05][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:01:19][NOTICE] - /hotel/sobre
+[22.10.2013 - 21:01:19][NOTICE] - match: /sobre with /sobre
+[22.10.2013 - 21:01:19][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:01:22][NOTICE] - /hotel/fale-conosco
+[22.10.2013 - 21:01:22][NOTICE] - match: /fale-conosco with /fale-conosco
+[22.10.2013 - 21:01:22][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:01:23][NOTICE] - /hotel/login
+[22.10.2013 - 21:01:23][NOTICE] - match: /login with /login
+[22.10.2013 - 21:01:23][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:01:30][NOTICE] - /hotel/login
+[22.10.2013 - 21:01:30][NOTICE] - match: /login with /login
+[22.10.2013 - 21:01:30][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:01:30][NOTICE] - Usuário: 1 logou no sistema
+[22.10.2013 - 21:01:30][NOTICE] - /hotel/
+[22.10.2013 - 21:01:30][NOTICE] - match: / with /
+[22.10.2013 - 21:01:30][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:01:33][NOTICE] - /hotel/logout
+[22.10.2013 - 21:01:33][NOTICE] - match: /logout with /logout
+[22.10.2013 - 21:01:33][NOTICE] - /hotel/login
+[22.10.2013 - 21:01:33][NOTICE] - match: /login with /login
+[22.10.2013 - 21:01:33][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:01:35][NOTICE] - /hotel/
+[22.10.2013 - 21:01:35][NOTICE] - match: / with /
+[22.10.2013 - 21:01:35][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:01:51][NOTICE] - /hotel/login
+[22.10.2013 - 21:01:51][NOTICE] - match: /login with /login
+[22.10.2013 - 21:01:51][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:01:57][NOTICE] - /hotel/login
+[22.10.2013 - 21:01:57][NOTICE] - match: /login with /login
+[22.10.2013 - 21:01:57][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:01:57][NOTICE] - Usuário: 1 logou no sistema
+[22.10.2013 - 21:01:57][NOTICE] - /hotel/
+[22.10.2013 - 21:01:57][NOTICE] - match: / with /
+[22.10.2013 - 21:01:57][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:02:02][NOTICE] - /hotel/admin
+[22.10.2013 - 21:02:02][NOTICE] - match: /admin with /admin
+[22.10.2013 - 21:02:02][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:02:18][NOTICE] - /hotel/admin/cadastrar
+[22.10.2013 - 21:02:18][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[22.10.2013 - 21:02:19][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:02:19][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:02:19][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:02:19][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:02:21][NOTICE] - /hotel/admin/cadastrar/produto
+[22.10.2013 - 21:02:21][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/produto
+[22.10.2013 - 21:02:21][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:02:22][NOTICE] - /hotel/admin/cadastrar/servico
+[22.10.2013 - 21:02:22][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/servico
+[22.10.2013 - 21:02:22][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:02:23][NOTICE] - /hotel/admin/cadastrar/usuario
+[22.10.2013 - 21:02:23][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[22.10.2013 - 21:02:23][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:02:23][NOTICE] - /hotel/admin/cadastrar/cliente
+[22.10.2013 - 21:02:23][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/cliente
+[22.10.2013 - 21:02:23][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:15:33][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:15:33][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:15:33][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:15:34][NOTICE] - /hotel/admin/cadastrar/servico
+[22.10.2013 - 21:15:34][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/servico
+[22.10.2013 - 21:15:34][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:15:34][NOTICE] - /hotel/admin/cadastrar/produto
+[22.10.2013 - 21:15:34][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/produto
+[22.10.2013 - 21:15:34][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:15:35][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:15:35][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:15:35][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:19:03][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:19:03][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:19:03][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:32:11][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:32:11][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:32:11][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:36:04][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:36:04][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:36:04][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:37:28][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:37:28][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:37:28][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:40:29][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:40:29][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:40:29][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:41:30][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:41:30][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:41:30][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:43:21][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:43:21][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:43:22][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:43:55][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:43:55][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:43:55][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:44:56][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:44:56][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:44:57][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:45:10][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:45:10][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:45:10][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:45:44][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:45:44][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:45:44][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:47:28][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:47:28][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:47:28][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:47:56][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:47:56][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:47:56][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:48:06][NOTICE] - /hotel/admin/cadastrar/produto
+[22.10.2013 - 21:48:06][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/produto
+[22.10.2013 - 21:48:06][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:48:07][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:48:07][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:48:07][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:48:12][NOTICE] - /hotel/acomodacoes/duplo
+[22.10.2013 - 21:48:12][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[22.10.2013 - 21:48:12][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:48:12][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:48:12][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:48:16][NOTICE] - /hotel/admin
+[22.10.2013 - 21:48:16][NOTICE] - match: /admin with /admin
+[22.10.2013 - 21:48:16][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:48:17][NOTICE] - /hotel/admin/cadastrar
+[22.10.2013 - 21:48:17][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[22.10.2013 - 21:48:17][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:48:19][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:48:19][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:48:19][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:49:22][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:49:22][!!ERROR!!] - URL NOT FOUND: /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:49:22][NOTICE] - /hotel/
+[22.10.2013 - 21:49:22][NOTICE] - match: / with /
+[22.10.2013 - 21:49:22][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 21:49:23][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:49:23][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 21:49:23][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 22:09:50][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:09:50][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:09:50][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 22:10:25][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:10:25][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:10:26][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 22:10:33][NOTICE] - /hotel/admin/tipo-de-quarto
+[22.10.2013 - 22:10:33][!!ERROR!!] - URL NOT FOUND: /hotel/admin/tipo-de-quarto
+[22.10.2013 - 22:10:33][NOTICE] - /hotel/
+[22.10.2013 - 22:10:33][NOTICE] - match: / with /
+[22.10.2013 - 22:10:33][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 22:11:01][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:11:01][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:11:01][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 22:11:05][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:11:05][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:11:05][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 22:11:27][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:11:27][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:11:27][NOTICE] - Aberta conexão com banco de dados!
+[22.10.2013 - 22:11:34][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:11:34][NOTICE] - match: /admin/cadastrar/tipo-de-quarto with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:12:54][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:12:54][NOTICE] - match: /admin/cadastrar/tipo-de-quarto with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:13:24][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:13:24][NOTICE] - match: /admin/cadastrar/tipo-de-quarto with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:14:20][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:14:20][NOTICE] - match: /admin/cadastrar/tipo-de-quarto with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:15:11][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:15:11][NOTICE] - match: /admin/cadastrar/tipo-de-quarto with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:16:55][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:16:55][NOTICE] - match: /admin/cadastrar/tipo-de-quarto with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:17:03][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:17:03][NOTICE] - match: /admin/cadastrar/tipo-de-quarto with /admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:19:19][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[22.10.2013 - 22:19:19][NOTICE] - match: /admin/cadastrar/tipo-de-quarto with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 00:48:16][NOTICE] - /hotel/
+[23.10.2013 - 00:48:16][NOTICE] - match: / with /
+[23.10.2013 - 00:48:16][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:21][NOTICE] - /hotel/sobre
+[23.10.2013 - 00:48:21][NOTICE] - match: /sobre with /sobre
+[23.10.2013 - 00:48:21][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:36][NOTICE] - /hotel/acomodacoes/individual
+[23.10.2013 - 00:48:36][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[23.10.2013 - 00:48:36][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:36][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:36][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:38][NOTICE] - /hotel/acomodacoes/duplo
+[23.10.2013 - 00:48:38][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[23.10.2013 - 00:48:38][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:38][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:38][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:41][NOTICE] - /hotel/acomodacoes/triplo
+[23.10.2013 - 00:48:41][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[23.10.2013 - 00:48:41][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:41][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:41][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:42][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 00:48:42][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 00:48:42][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:43][NOTICE] - /hotel/login
+[23.10.2013 - 00:48:43][NOTICE] - match: /login with /login
+[23.10.2013 - 00:48:43][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:48][NOTICE] - /hotel/login
+[23.10.2013 - 00:48:48][NOTICE] - match: /login with /login
+[23.10.2013 - 00:48:48][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:48][NOTICE] - Usuário: 1 logou no sistema
+[23.10.2013 - 00:48:48][NOTICE] - /hotel/
+[23.10.2013 - 00:48:48][NOTICE] - match: / with /
+[23.10.2013 - 00:48:48][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:48:51][NOTICE] - /hotel/admin
+[23.10.2013 - 00:48:51][NOTICE] - match: /admin with /admin
+[23.10.2013 - 00:48:51][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:49:01][NOTICE] - /hotel/admin/cadastrar
+[23.10.2013 - 00:49:01][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[23.10.2013 - 00:49:01][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:49:03][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 00:49:03][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 00:49:03][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:49:05][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 00:49:05][NOTICE] - match: /admin/cadastrar/tipo-de-quarto with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 00:49:08][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 00:49:08][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 00:49:08][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 00:49:13][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 00:49:13][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 00:49:13][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:12:05][NOTICE] - /hotel/
+[23.10.2013 - 12:12:06][NOTICE] - match: / with /
+[23.10.2013 - 12:12:06][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:09][NOTICE] - /hotel/acomodacoes/duplo
+[23.10.2013 - 12:13:09][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[23.10.2013 - 12:13:09][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:10][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:10][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:16][NOTICE] - /hotel/acomodacoes/individual
+[23.10.2013 - 12:13:16][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[23.10.2013 - 12:13:16][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:16][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:16][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:19][NOTICE] - /hotel/acomodacoes/triplo
+[23.10.2013 - 12:13:19][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[23.10.2013 - 12:13:20][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:20][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:20][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:23][NOTICE] - /hotel/acomodacoes/individual
+[23.10.2013 - 12:13:23][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[23.10.2013 - 12:13:23][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:23][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:23][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:26][NOTICE] - /hotel/acomodacoes/duplo
+[23.10.2013 - 12:13:26][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[23.10.2013 - 12:13:26][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:26][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 12:13:26][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:11:41][NOTICE] - /hotel/
+[23.10.2013 - 14:11:41][NOTICE] - match: / with /
+[23.10.2013 - 14:11:41][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:11:44][NOTICE] - /hotel/login
+[23.10.2013 - 14:11:44][NOTICE] - match: /login with /login
+[23.10.2013 - 14:11:44][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:11:50][NOTICE] - /hotel/login
+[23.10.2013 - 14:11:50][NOTICE] - match: /login with /login
+[23.10.2013 - 14:11:50][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:11:50][NOTICE] - Usuário: 1 logou no sistema
+[23.10.2013 - 14:11:50][NOTICE] - /hotel/
+[23.10.2013 - 14:11:50][NOTICE] - match: / with /
+[23.10.2013 - 14:11:50][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:11:52][NOTICE] - /hotel/admin
+[23.10.2013 - 14:11:52][NOTICE] - match: /admin with /admin
+[23.10.2013 - 14:11:52][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:11:57][NOTICE] - /hotel/logout
+[23.10.2013 - 14:11:57][NOTICE] - match: /logout with /logout
+[23.10.2013 - 14:11:57][NOTICE] - /hotel/login
+[23.10.2013 - 14:11:57][NOTICE] - match: /login with /login
+[23.10.2013 - 14:11:57][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:11:59][NOTICE] - /hotel/login
+[23.10.2013 - 14:11:59][NOTICE] - match: /login with /login
+[23.10.2013 - 14:11:59][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:06][NOTICE] - /hotel/admin
+[23.10.2013 - 14:12:06][NOTICE] - match: /admin with /admin
+[23.10.2013 - 14:12:06][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:06][NOTICE] - /hotel/login
+[23.10.2013 - 14:12:06][NOTICE] - match: /login with /login
+[23.10.2013 - 14:12:06][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:12][NOTICE] - /hotel/login
+[23.10.2013 - 14:12:12][NOTICE] - match: /login with /login
+[23.10.2013 - 14:12:12][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:12][NOTICE] - Usuário: 1 logou no sistema
+[23.10.2013 - 14:12:12][NOTICE] - /hotel/
+[23.10.2013 - 14:12:12][NOTICE] - match: / with /
+[23.10.2013 - 14:12:12][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:14][NOTICE] - /hotel/admin
+[23.10.2013 - 14:12:14][NOTICE] - match: /admin with /admin
+[23.10.2013 - 14:12:14][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:16][NOTICE] - /hotel/admin/cadastrar
+[23.10.2013 - 14:12:16][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[23.10.2013 - 14:12:16][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:23][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 14:12:23][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 14:12:23][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:30][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 14:12:30][NOTICE] - match: /admin/cadastrar/tipo-de-quarto with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 14:12:31][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 14:12:31][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 14:12:31][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:35][NOTICE] - /hotel/admin/cadastrar/produto
+[23.10.2013 - 14:12:35][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/produto
+[23.10.2013 - 14:12:35][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:37][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 14:12:37][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 14:12:37][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:39][NOTICE] - /hotel/admin/cadastrar/produto
+[23.10.2013 - 14:12:39][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/produto
+[23.10.2013 - 14:12:39][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:40][NOTICE] - /hotel/admin/cadastrar/servico
+[23.10.2013 - 14:12:40][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/servico
+[23.10.2013 - 14:12:40][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:42][NOTICE] - /hotel/admin/cadastrar/produto
+[23.10.2013 - 14:12:42][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/produto
+[23.10.2013 - 14:12:42][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:43][NOTICE] - /hotel/admin/cadastrar/servico
+[23.10.2013 - 14:12:43][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/servico
+[23.10.2013 - 14:12:43][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:45][NOTICE] - /hotel/admin/cadastrar/usuario
+[23.10.2013 - 14:12:45][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[23.10.2013 - 14:12:45][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:45][NOTICE] - /hotel/admin/cadastrar/usuario
+[23.10.2013 - 14:12:45][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[23.10.2013 - 14:12:45][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:12:46][NOTICE] - /hotel/admin/cadastrar/cliente
+[23.10.2013 - 14:12:46][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/cliente
+[23.10.2013 - 14:12:46][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:19:13][NOTICE] - /hotel/sobre
+[23.10.2013 - 14:19:13][NOTICE] - match: /sobre with /sobre
+[23.10.2013 - 14:19:13][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:19:14][NOTICE] - /hotel/acomodacoes/individual
+[23.10.2013 - 14:19:14][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[23.10.2013 - 14:19:14][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:19:15][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:19:15][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:19:15][NOTICE] - /hotel/
+[23.10.2013 - 14:19:15][NOTICE] - match: / with /
+[23.10.2013 - 14:19:15][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:19:16][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 14:19:16][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 14:19:16][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 14:19:17][NOTICE] - /hotel/admin
+[23.10.2013 - 14:19:17][NOTICE] - match: /admin with /admin
+[23.10.2013 - 14:19:17][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:09:59][NOTICE] - /hotel/admin/cadastrar
+[23.10.2013 - 16:09:59][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[23.10.2013 - 16:09:59][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:10:15][NOTICE] - /hotel/admin/cadastrar/produto
+[23.10.2013 - 16:10:15][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/produto
+[23.10.2013 - 16:10:15][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:10:15][NOTICE] - /hotel/admin/cadastrar/servico
+[23.10.2013 - 16:10:15][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/servico
+[23.10.2013 - 16:10:15][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:10:17][NOTICE] - /hotel/admin/cadastrar/usuario
+[23.10.2013 - 16:10:17][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[23.10.2013 - 16:10:17][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:10:18][NOTICE] - /hotel/admin/cadastrar/servico
+[23.10.2013 - 16:10:18][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/servico
+[23.10.2013 - 16:10:18][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:10:21][NOTICE] - /hotel/admin/cadastrar/produto
+[23.10.2013 - 16:10:21][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/produto
+[23.10.2013 - 16:10:21][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:15:05][NOTICE] - /hotel/admin/cadastrar/produto
+[23.10.2013 - 16:15:05][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/produto
+[23.10.2013 - 16:15:05][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:15:07][NOTICE] - /hotel/
+[23.10.2013 - 16:15:07][NOTICE] - match: / with /
+[23.10.2013 - 16:15:07][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:15:09][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 16:15:09][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 16:15:09][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:15:10][NOTICE] - /hotel/login
+[23.10.2013 - 16:15:10][NOTICE] - match: /login with /login
+[23.10.2013 - 16:15:10][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:15:11][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 16:15:11][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 16:15:11][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:15:12][NOTICE] - /hotel/sobre
+[23.10.2013 - 16:15:12][NOTICE] - match: /sobre with /sobre
+[23.10.2013 - 16:15:12][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:15:14][NOTICE] - /hotel/acomodacoes/individual
+[23.10.2013 - 16:15:14][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[23.10.2013 - 16:15:14][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:15:14][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:15:14][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:15:15][NOTICE] - /hotel/
+[23.10.2013 - 16:15:15][NOTICE] - match: / with /
+[23.10.2013 - 16:15:15][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:15:20][NOTICE] - /hotel/
+[23.10.2013 - 16:15:20][NOTICE] - match: / with /
+[23.10.2013 - 16:15:20][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:25][NOTICE] - /hotel/
+[23.10.2013 - 16:18:25][NOTICE] - match: / with /
+[23.10.2013 - 16:18:25][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:26][NOTICE] - /hotel/
+[23.10.2013 - 16:18:26][NOTICE] - match: / with /
+[23.10.2013 - 16:18:26][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:26][NOTICE] - /hotel/
+[23.10.2013 - 16:18:26][NOTICE] - match: / with /
+[23.10.2013 - 16:18:26][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:28][NOTICE] - /hotel/acomodacoes/individual
+[23.10.2013 - 16:18:28][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[23.10.2013 - 16:18:28][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:28][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:28][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:31][NOTICE] - /hotel/acomodacoes/duplo
+[23.10.2013 - 16:18:31][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[23.10.2013 - 16:18:31][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:31][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:31][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:34][NOTICE] - /hotel/acomodacoes/triplo
+[23.10.2013 - 16:18:34][NOTICE] - match: /acomodacoes/:type with /acomodacoes/triplo
+[23.10.2013 - 16:18:34][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:34][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:34][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:35][NOTICE] - /hotel/sobre
+[23.10.2013 - 16:18:35][NOTICE] - match: /sobre with /sobre
+[23.10.2013 - 16:18:35][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:37][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 16:18:37][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 16:18:37][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:38][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 16:18:38][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 16:18:38][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:41][NOTICE] - /hotel/login
+[23.10.2013 - 16:18:41][NOTICE] - match: /login with /login
+[23.10.2013 - 16:18:41][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:45][NOTICE] - /hotel/login
+[23.10.2013 - 16:18:45][NOTICE] - match: /login with /login
+[23.10.2013 - 16:18:45][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:45][NOTICE] - Usuário: 1 logou no sistema
+[23.10.2013 - 16:18:45][NOTICE] - /hotel/
+[23.10.2013 - 16:18:45][NOTICE] - match: / with /
+[23.10.2013 - 16:18:45][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:18:47][NOTICE] - /hotel/admin
+[23.10.2013 - 16:18:47][NOTICE] - match: /admin with /admin
+[23.10.2013 - 16:18:47][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:26:12][NOTICE] - /hotel/admin
+[23.10.2013 - 16:26:12][NOTICE] - match: /admin with /admin
+[23.10.2013 - 16:26:12][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:26:25][NOTICE] - /hotel/admin
+[23.10.2013 - 16:26:25][NOTICE] - match: /admin with /admin
+[23.10.2013 - 16:26:25][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:26:25][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:27:50][NOTICE] - /hotel/admin
+[23.10.2013 - 16:27:50][NOTICE] - match: /admin with /admin
+[23.10.2013 - 16:27:50][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:27:50][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:33:15][NOTICE] - /hotel/admin
+[23.10.2013 - 16:33:15][NOTICE] - match: /admin with /admin
+[23.10.2013 - 16:33:15][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:33:15][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:33:15][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:33:26][NOTICE] - /hotel/logout
+[23.10.2013 - 16:33:26][NOTICE] - match: /logout with /logout
+[23.10.2013 - 16:33:26][NOTICE] - /hotel/login
+[23.10.2013 - 16:33:26][NOTICE] - match: /login with /login
+[23.10.2013 - 16:33:26][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:33:39][NOTICE] - /hotel/login
+[23.10.2013 - 16:33:39][NOTICE] - match: /login with /login
+[23.10.2013 - 16:33:39][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:33:39][!!ERROR!!] - Login:
+[23.10.2013 - 16:33:39][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:34:34][NOTICE] - /hotel/login
+[23.10.2013 - 16:34:34][NOTICE] - match: /login with /login
+[23.10.2013 - 16:34:34][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:34:34][NOTICE] - Usuário: 2 logou no sistema
+[23.10.2013 - 16:34:34][NOTICE] - /hotel/
+[23.10.2013 - 16:34:34][NOTICE] - match: / with /
+[23.10.2013 - 16:34:34][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:34:37][NOTICE] - /hotel/admin
+[23.10.2013 - 16:34:37][NOTICE] - match: /admin with /admin
+[23.10.2013 - 16:34:37][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:34:37][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:34:37][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:34:56][NOTICE] - /hotel/admin
+[23.10.2013 - 16:34:56][NOTICE] - match: /admin with /admin
+[23.10.2013 - 16:34:56][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:34:58][NOTICE] - /hotel/logout
+[23.10.2013 - 16:34:58][NOTICE] - match: /logout with /logout
+[23.10.2013 - 16:34:58][NOTICE] - /hotel/login
+[23.10.2013 - 16:34:58][NOTICE] - match: /login with /login
+[23.10.2013 - 16:34:58][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:36:08][NOTICE] - /hotel/login
+[23.10.2013 - 16:36:08][NOTICE] - match: /login with /login
+[23.10.2013 - 16:36:08][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:36:08][NOTICE] - Usuário: 1 logou no sistema
+[23.10.2013 - 16:36:08][NOTICE] - /hotel/
+[23.10.2013 - 16:36:08][NOTICE] - match: / with /
+[23.10.2013 - 16:36:08][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:36:12][NOTICE] - /hotel/admin
+[23.10.2013 - 16:36:12][NOTICE] - match: /admin with /admin
+[23.10.2013 - 16:36:12][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:36:13][NOTICE] - /hotel/logout
+[23.10.2013 - 16:36:13][NOTICE] - match: /logout with /logout
+[23.10.2013 - 16:36:13][NOTICE] - /hotel/login
+[23.10.2013 - 16:36:13][NOTICE] - match: /login with /login
+[23.10.2013 - 16:36:13][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:36:55][NOTICE] - /hotel/
+[23.10.2013 - 16:36:55][NOTICE] - match: / with /
+[23.10.2013 - 16:36:55][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:36:55][NOTICE] - /hotel/
+[23.10.2013 - 16:36:55][NOTICE] - match: / with /
+[23.10.2013 - 16:36:55][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:36:55][NOTICE] - /hotel/
+[23.10.2013 - 16:36:55][NOTICE] - match: / with /
+[23.10.2013 - 16:36:55][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:36:56][NOTICE] - /hotel/sobre
+[23.10.2013 - 16:36:56][NOTICE] - match: /sobre with /sobre
+[23.10.2013 - 16:36:56][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:36:57][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 16:36:57][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 16:36:57][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:36:59][NOTICE] - /hotel/sobre
+[23.10.2013 - 16:36:59][NOTICE] - match: /sobre with /sobre
+[23.10.2013 - 16:36:59][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:36:59][NOTICE] - /hotel/sobre
+[23.10.2013 - 16:36:59][NOTICE] - match: /sobre with /sobre
+[23.10.2013 - 16:36:59][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:37:31][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 16:37:31][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 16:37:31][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:37:32][NOTICE] - /hotel/login
+[23.10.2013 - 16:37:32][NOTICE] - match: /login with /login
+[23.10.2013 - 16:37:32][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:37:33][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 16:37:33][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 16:37:33][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:37:34][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 16:37:34][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 16:37:34][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:37:36][NOTICE] - /hotel/login
+[23.10.2013 - 16:37:36][NOTICE] - match: /login with /login
+[23.10.2013 - 16:37:36][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:37:41][NOTICE] - /hotel/login
+[23.10.2013 - 16:37:41][NOTICE] - match: /login with /login
+[23.10.2013 - 16:37:41][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:37:41][NOTICE] - Usuário: 1 logou no sistema
+[23.10.2013 - 16:37:41][NOTICE] - /hotel/
+[23.10.2013 - 16:37:41][NOTICE] - match: / with /
+[23.10.2013 - 16:37:41][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:37:42][NOTICE] - /hotel/admin
+[23.10.2013 - 16:37:42][NOTICE] - match: /admin with /admin
+[23.10.2013 - 16:37:43][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:38:28][NOTICE] - /hotel/admin
+[23.10.2013 - 16:38:28][NOTICE] - match: /admin with /admin
+[23.10.2013 - 16:38:29][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:38:32][NOTICE] - /hotel/
+[23.10.2013 - 16:38:32][NOTICE] - match: / with /
+[23.10.2013 - 16:38:32][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:38:34][NOTICE] - /hotel/logout
+[23.10.2013 - 16:38:34][NOTICE] - match: /logout with /logout
+[23.10.2013 - 16:38:34][NOTICE] - /hotel/login
+[23.10.2013 - 16:38:34][NOTICE] - match: /login with /login
+[23.10.2013 - 16:38:34][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:38:35][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 16:38:35][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 16:38:35][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:38:37][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 16:38:37][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 16:38:37][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:38:42][NOTICE] - /hotel/sobre
+[23.10.2013 - 16:38:42][NOTICE] - match: /sobre with /sobre
+[23.10.2013 - 16:38:42][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:39:35][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 16:39:35][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 16:39:35][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:39:37][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 16:39:37][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 16:39:37][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:39:40][NOTICE] - /hotel/
+[23.10.2013 - 16:39:40][NOTICE] - match: / with /
+[23.10.2013 - 16:39:40][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:39:42][NOTICE] - /hotel/acomodacoes/individual
+[23.10.2013 - 16:39:42][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[23.10.2013 - 16:39:42][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:39:42][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 16:39:42][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 20:40:38][NOTICE] - /hotel/
+[23.10.2013 - 20:40:38][NOTICE] - match: / with /
+[23.10.2013 - 20:40:38][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 20:40:42][NOTICE] - /hotel/login
+[23.10.2013 - 20:40:42][NOTICE] - match: /login with /login
+[23.10.2013 - 20:40:42][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 20:40:46][NOTICE] - /hotel/login
+[23.10.2013 - 20:40:46][NOTICE] - match: /login with /login
+[23.10.2013 - 20:40:46][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 20:40:46][NOTICE] - Usuário: 1 logou no sistema
+[23.10.2013 - 20:40:46][NOTICE] - /hotel/
+[23.10.2013 - 20:40:46][NOTICE] - match: / with /
+[23.10.2013 - 20:40:46][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 20:40:48][NOTICE] - /hotel/admin
+[23.10.2013 - 20:40:48][NOTICE] - match: /admin with /admin
+[23.10.2013 - 20:40:48][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 20:41:01][NOTICE] - /hotel/admin/cadastrar
+[23.10.2013 - 20:41:01][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[23.10.2013 - 20:41:01][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 20:41:03][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 20:41:03][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 20:41:03][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 20:41:05][NOTICE] - /hotel/admin/cadastrar/servico
+[23.10.2013 - 20:41:05][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/servico
+[23.10.2013 - 20:41:05][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 20:41:07][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 20:41:07][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 20:41:07][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 20:44:02][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 20:44:02][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 20:44:02][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 20:44:04][NOTICE] - /hotel/admin/cadastrar/produto
+[23.10.2013 - 20:44:04][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/produto
+[23.10.2013 - 20:44:04][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 20:44:06][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 20:44:06][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 20:44:06][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 21:02:05][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 21:02:05][NOTICE] - match: /admin/cadastrar/tipo-de-quarto with /admin/cadastrar/tipo-de-quarto
+[23.10.2013 - 21:41:04][NOTICE] - /hotel/
+[23.10.2013 - 21:41:04][NOTICE] - match: / with /
+[23.10.2013 - 21:41:04][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 21:41:10][NOTICE] - /hotel/acomodacoes/duplo
+[23.10.2013 - 21:41:10][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[23.10.2013 - 21:41:10][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 21:41:10][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 21:41:10][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 21:41:20][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 21:41:20][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 21:41:20][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 21:41:26][NOTICE] - /hotel/sobre
+[23.10.2013 - 21:41:26][NOTICE] - match: /sobre with /sobre
+[23.10.2013 - 21:41:26][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 21:41:27][NOTICE] - /hotel/login
+[23.10.2013 - 21:41:27][NOTICE] - match: /login with /login
+[23.10.2013 - 21:41:27][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 21:41:31][NOTICE] - /hotel/login
+[23.10.2013 - 21:41:31][NOTICE] - match: /login with /login
+[23.10.2013 - 21:41:31][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 21:41:31][NOTICE] - Usuário: 1 logou no sistema
+[23.10.2013 - 21:41:31][NOTICE] - /hotel/
+[23.10.2013 - 21:41:31][NOTICE] - match: / with /
+[23.10.2013 - 21:41:31][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 21:41:33][NOTICE] - /hotel/admin
+[23.10.2013 - 21:41:33][NOTICE] - match: /admin with /admin
+[23.10.2013 - 21:41:33][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 21:42:40][NOTICE] - /hotel/logout
+[23.10.2013 - 21:42:40][NOTICE] - match: /logout with /logout
+[23.10.2013 - 21:42:40][NOTICE] - /hotel/login
+[23.10.2013 - 21:42:40][NOTICE] - match: /login with /login
+[23.10.2013 - 21:42:40][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 21:42:42][NOTICE] - /hotel/fale-conosco
+[23.10.2013 - 21:42:42][NOTICE] - match: /fale-conosco with /fale-conosco
+[23.10.2013 - 21:42:42][NOTICE] - Aberta conexão com banco de dados!
+[23.10.2013 - 21:42:42][NOTICE] - /hotel/login
+[23.10.2013 - 21:42:42][NOTICE] - match: /login with /login
+[23.10.2013 - 21:42:43][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:27:12][NOTICE] - /hotel/
+[24.10.2013 - 01:27:12][NOTICE] - match: / with /
+[24.10.2013 - 01:27:12][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:27:14][NOTICE] - /hotel/login
+[24.10.2013 - 01:27:14][NOTICE] - match: /login with /login
+[24.10.2013 - 01:27:14][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:27:18][NOTICE] - /hotel/login
+[24.10.2013 - 01:27:18][NOTICE] - match: /login with /login
+[24.10.2013 - 01:27:18][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:27:18][NOTICE] - Usuário: 1 logou no sistema
+[24.10.2013 - 01:27:18][NOTICE] - /hotel/
+[24.10.2013 - 01:27:18][NOTICE] - match: / with /
+[24.10.2013 - 01:27:18][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:27:20][NOTICE] - /hotel/admin
+[24.10.2013 - 01:27:20][NOTICE] - match: /admin with /admin
+[24.10.2013 - 01:27:20][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:27:21][NOTICE] - /hotel/admin/cadastrar
+[24.10.2013 - 01:27:21][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[24.10.2013 - 01:27:55][NOTICE] - /hotel/admin/cadastrar
+[24.10.2013 - 01:27:55][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[24.10.2013 - 01:27:55][NOTICE] - /hotel/admin/cadastrar
+[24.10.2013 - 01:27:55][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[24.10.2013 - 01:28:09][NOTICE] - /hotel/admin/cadastrar
+[24.10.2013 - 01:28:09][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[24.10.2013 - 01:28:10][NOTICE] - /hotel/admin/cadastrar
+[24.10.2013 - 01:28:10][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[24.10.2013 - 01:28:33][NOTICE] - /hotel/admin/cadastrar
+[24.10.2013 - 01:28:33][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[24.10.2013 - 01:28:33][NOTICE] - /hotel/admin/cadastrar
+[24.10.2013 - 01:28:33][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[24.10.2013 - 01:31:12][NOTICE] - /hotel/admin/cadastrar
+[24.10.2013 - 01:31:12][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[24.10.2013 - 01:31:28][NOTICE] - /hotel/admin/cadastrar
+[24.10.2013 - 01:31:28][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[24.10.2013 - 01:31:28][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:31:30][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[24.10.2013 - 01:31:30][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[24.10.2013 - 01:31:30][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:31:31][NOTICE] - /hotel/admin/cadastrar/produto
+[24.10.2013 - 01:31:31][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/produto
+[24.10.2013 - 01:31:31][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:31:32][NOTICE] - /hotel/admin/cadastrar/servico
+[24.10.2013 - 01:31:32][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/servico
+[24.10.2013 - 01:31:32][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:31:33][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 01:31:33][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 01:31:33][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:31:36][NOTICE] - /hotel/admin/cadastrar/usuario0
+[24.10.2013 - 01:31:36][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario0
+[24.10.2013 - 01:31:36][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:31:40][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 01:31:40][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 01:31:40][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:31:44][NOTICE] - /hotel/acomodacoes/duplo
+[24.10.2013 - 01:31:44][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[24.10.2013 - 01:31:44][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:31:44][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:31:44][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:31:46][NOTICE] - /hotel/
+[24.10.2013 - 01:31:46][NOTICE] - match: / with /
+[24.10.2013 - 01:31:46][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:37:35][NOTICE] - /hotel/
+[24.10.2013 - 01:37:35][NOTICE] - match: / with /
+[24.10.2013 - 01:37:35][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:37:55][NOTICE] - /hotel/
+[24.10.2013 - 01:37:55][NOTICE] - match: / with /
+[24.10.2013 - 01:37:55][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:37:58][NOTICE] - /hotel/
+[24.10.2013 - 01:37:58][NOTICE] - match: / with /
+[24.10.2013 - 01:37:58][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:38:38][NOTICE] - /hotel/
+[24.10.2013 - 01:38:38][NOTICE] - match: / with /
+[24.10.2013 - 01:38:38][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:39:04][NOTICE] - /hotel/
+[24.10.2013 - 01:39:04][NOTICE] - match: / with /
+[24.10.2013 - 01:39:04][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:41:59][NOTICE] - /hotel/
+[24.10.2013 - 01:41:59][NOTICE] - match: / with /
+[24.10.2013 - 01:41:59][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:42:26][NOTICE] - /hotel/
+[24.10.2013 - 01:42:26][NOTICE] - match: / with /
+[24.10.2013 - 01:42:26][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:45:43][NOTICE] - /hotel/
+[24.10.2013 - 01:45:43][NOTICE] - match: / with /
+[24.10.2013 - 01:45:43][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:45:57][NOTICE] - /hotel/
+[24.10.2013 - 01:45:57][NOTICE] - match: / with /
+[24.10.2013 - 01:45:57][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:46:09][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 01:46:09][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 01:46:09][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:46:10][NOTICE] - /hotel/admin
+[24.10.2013 - 01:46:10][NOTICE] - match: /admin with /admin
+[24.10.2013 - 01:46:10][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:46:12][NOTICE] - /hotel/logout
+[24.10.2013 - 01:46:12][NOTICE] - match: /logout with /logout
+[24.10.2013 - 01:46:12][NOTICE] - /hotel/login
+[24.10.2013 - 01:46:12][NOTICE] - match: /login with /login
+[24.10.2013 - 01:46:12][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:46:16][NOTICE] - /hotel/admin
+[24.10.2013 - 01:46:16][NOTICE] - match: /admin with /admin
+[24.10.2013 - 01:46:16][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:46:16][NOTICE] - /hotel/login
+[24.10.2013 - 01:46:16][NOTICE] - match: /login with /login
+[24.10.2013 - 01:46:16][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:46:18][NOTICE] - /hotel/sobre
+[24.10.2013 - 01:46:18][NOTICE] - match: /sobre with /sobre
+[24.10.2013 - 01:46:18][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:46:27][NOTICE] - /hotel/acomodacoes/individual
+[24.10.2013 - 01:46:27][NOTICE] - match: /acomodacoes/:type with /acomodacoes/individual
+[24.10.2013 - 01:46:27][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:46:27][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:46:27][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:46:30][NOTICE] - /hotel/acomodacoes/duplo
+[24.10.2013 - 01:46:30][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[24.10.2013 - 01:46:30][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:46:30][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:46:30][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:46:33][NOTICE] - /hotel/login
+[24.10.2013 - 01:46:33][NOTICE] - match: /login with /login
+[24.10.2013 - 01:46:33][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:48:18][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 01:48:18][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 01:48:18][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:48:21][NOTICE] - /hotel/sobre
+[24.10.2013 - 01:48:21][NOTICE] - match: /sobre with /sobre
+[24.10.2013 - 01:48:21][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:48:22][NOTICE] - /hotel/acomodacoes/duplo
+[24.10.2013 - 01:48:22][NOTICE] - match: /acomodacoes/:type with /acomodacoes/duplo
+[24.10.2013 - 01:48:22][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:48:22][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:48:22][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:48:23][NOTICE] - /hotel/
+[24.10.2013 - 01:48:23][NOTICE] - match: / with /
+[24.10.2013 - 01:48:23][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:51:32][NOTICE] - /hotel/
+[24.10.2013 - 01:51:32][NOTICE] - match: / with /
+[24.10.2013 - 01:51:32][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:52:24][NOTICE] - /hotel/
+[24.10.2013 - 01:52:24][NOTICE] - match: / with /
+[24.10.2013 - 01:52:24][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:52:43][NOTICE] - /hotel/
+[24.10.2013 - 01:52:43][NOTICE] - match: / with /
+[24.10.2013 - 01:52:43][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:54:16][NOTICE] - /hotel/
+[24.10.2013 - 01:54:16][NOTICE] - match: / with /
+[24.10.2013 - 01:54:16][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 01:55:03][NOTICE] - /hotel/
+[24.10.2013 - 01:55:03][NOTICE] - match: / with /
+[24.10.2013 - 01:55:03][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 02:00:06][NOTICE] - /hotel/
+[24.10.2013 - 02:00:06][NOTICE] - match: / with /
+[24.10.2013 - 02:00:06][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:55:18][NOTICE] - /hotel/
+[24.10.2013 - 14:55:18][NOTICE] - match: / with /
+[24.10.2013 - 14:55:18][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:55:25][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 14:55:25][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 14:55:25][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:55:26][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 14:55:26][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 14:55:26][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:55:29][NOTICE] - /hotel/login
+[24.10.2013 - 14:55:29][NOTICE] - match: /login with /login
+[24.10.2013 - 14:55:29][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:55:35][NOTICE] - /hotel/login
+[24.10.2013 - 14:55:35][NOTICE] - match: /login with /login
+[24.10.2013 - 14:55:35][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:55:35][NOTICE] - Usuário: 1 logou no sistema
+[24.10.2013 - 14:55:35][NOTICE] - /hotel/
+[24.10.2013 - 14:55:35][NOTICE] - match: / with /
+[24.10.2013 - 14:55:35][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:55:37][NOTICE] - /hotel/admin
+[24.10.2013 - 14:55:37][NOTICE] - match: /admin with /admin
+[24.10.2013 - 14:55:37][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:56:02][NOTICE] - /hotel/admin
+[24.10.2013 - 14:56:02][NOTICE] - match: /admin with /admin
+[24.10.2013 - 14:56:02][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:56:04][NOTICE] - /hotel/admin/cadastrar
+[24.10.2013 - 14:56:04][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[24.10.2013 - 14:56:04][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:56:13][NOTICE] - /hotel/admin/cadastrar/tipo-de-quarto
+[24.10.2013 - 14:56:13][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/tipo-de-quarto
+[24.10.2013 - 14:56:13][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:56:16][NOTICE] - /hotel/admin/cadastrar/cliente
+[24.10.2013 - 14:56:16][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/cliente
+[24.10.2013 - 14:56:16][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:56:42][NOTICE] - /hotel/admin/cadastrar/cliente
+[24.10.2013 - 14:56:42][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/cliente
+[24.10.2013 - 14:56:42][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:56:44][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 14:56:44][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 14:56:44][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:56:45][NOTICE] - /hotel/admin/cadastrar/cliente
+[24.10.2013 - 14:56:45][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/cliente
+[24.10.2013 - 14:56:45][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:56:46][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 14:56:46][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 14:56:46][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:56:51][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 14:56:51][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 14:56:51][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:58:28][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 14:58:28][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 14:58:28][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 14:58:52][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 14:58:52][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 14:58:52][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:01:02][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:01:02][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:01:02][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:01:04][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:01:04][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:01:04][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:02:03][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:02:03][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:02:03][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:02:12][NOTICE] - /hotel/
+[24.10.2013 - 15:02:12][NOTICE] - match: / with /
+[24.10.2013 - 15:02:12][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:02:14][NOTICE] - /hotel/admin
+[24.10.2013 - 15:02:14][NOTICE] - match: /admin with /admin
+[24.10.2013 - 15:02:14][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:02:15][NOTICE] - /hotel/admin
+[24.10.2013 - 15:02:15][NOTICE] - match: /admin with /admin
+[24.10.2013 - 15:02:15][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:02:41][NOTICE] - /hotel/admin
+[24.10.2013 - 15:02:41][NOTICE] - match: /admin with /admin
+[24.10.2013 - 15:02:41][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:08:26][NOTICE] - /hotel/admin/cadastrar
+[24.10.2013 - 15:08:26][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[24.10.2013 - 15:08:26][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:08:28][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:08:28][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:08:28][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:08:51][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:08:51][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:08:51][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:08:51][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:14:42][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:14:42][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:14:42][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:14:42][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:15:05][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:15:05][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:15:05][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:15:05][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:15:57][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:15:57][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:15:57][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:15:57][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:16:20][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:16:20][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:16:20][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:16:20][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:17:17][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:17:17][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:17:17][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:17:17][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:17:34][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:17:34][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:17:34][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:17:34][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:17:52][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:17:52][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:17:52][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:17:52][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:20:10][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:20:10][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:20:10][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:20:10][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:20:28][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:20:28][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:20:28][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:20:28][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:22:29][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:22:29][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:22:29][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:22:29][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:22:42][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:22:42][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:22:42][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:22:42][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:24:16][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:24:16][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:24:16][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:25:31][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:25:31][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:25:31][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:27:41][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:27:41][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:27:41][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:27:42][NOTICE] - /hotel/admin/cadastrar/cliente
+[24.10.2013 - 15:27:42][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/cliente
+[24.10.2013 - 15:27:42][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:27:43][NOTICE] - /hotel/admin/cadastrar/usuario
+[24.10.2013 - 15:27:43][NOTICE] - match: /admin/cadastrar/:form with /admin/cadastrar/usuario
+[24.10.2013 - 15:27:43][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:27:45][NOTICE] - /hotel/admin/cadastrar
+[24.10.2013 - 15:27:45][NOTICE] - match: /admin/cadastrar with /admin/cadastrar
+[24.10.2013 - 15:27:45][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:27:49][NOTICE] - /hotel/admin
+[24.10.2013 - 15:27:49][NOTICE] - match: /admin with /admin
+[24.10.2013 - 15:27:49][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:32:51][NOTICE] - /hotel/admin
+[24.10.2013 - 15:32:51][NOTICE] - match: /admin with /admin
+[24.10.2013 - 15:32:51][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:32:55][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:32:55][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:36:17][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:36:17][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:37:36][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:37:36][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:37:59][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:37:59][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:39:11][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:39:11][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:39:36][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:39:36][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:42:12][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:42:12][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:43:28][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:43:28][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:44:26][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:44:26][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:44:39][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:44:39][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:44:39][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:44:39][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:46:48][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:46:48][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:46:48][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:46:48][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:46:59][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:46:59][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:46:59][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:46:59][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:50:07][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:50:07][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:50:07][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:50:07][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:51:34][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:51:34][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:51:34][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:51:34][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:51:48][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:51:48][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:51:48][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:51:48][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:52:52][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:52:52][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:52:52][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:52:52][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:52:56][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:52:56][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:52:56][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:52:56][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:53:31][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 15:53:31][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 15:53:31][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:53:42][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 15:53:42][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 15:53:42][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:53:42][NOTICE] - /hotel/
+[24.10.2013 - 15:53:42][NOTICE] - match: / with /
+[24.10.2013 - 15:53:42][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:53:44][NOTICE] - /hotel/admin
+[24.10.2013 - 15:53:44][NOTICE] - match: /admin with /admin
+[24.10.2013 - 15:53:44][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:53:52][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:53:52][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:53:52][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:53:52][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:54:08][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:54:08][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:54:08][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:54:08][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:54:55][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:54:55][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:54:55][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:54:55][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:55:14][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:55:14][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:55:14][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:55:14][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:55:15][NOTICE] - /hotel/sobre
+[24.10.2013 - 15:55:15][NOTICE] - match: /sobre with /sobre
+[24.10.2013 - 15:55:15][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:55:16][NOTICE] - /hotel/logout
+[24.10.2013 - 15:55:16][NOTICE] - match: /logout with /logout
+[24.10.2013 - 15:55:16][NOTICE] - /hotel/login
+[24.10.2013 - 15:55:16][NOTICE] - match: /login with /login
+[24.10.2013 - 15:55:16][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:56:33][NOTICE] - /hotel/login
+[24.10.2013 - 15:56:33][NOTICE] - match: /login with /login
+[24.10.2013 - 15:56:34][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:56:36][NOTICE] - /hotel/login
+[24.10.2013 - 15:56:36][NOTICE] - match: /login with /login
+[24.10.2013 - 15:56:36][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:56:39][NOTICE] - /hotel/login
+[24.10.2013 - 15:56:39][NOTICE] - match: /login with /login
+[24.10.2013 - 15:56:39][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:56:39][NOTICE] - Usuário: 1 logou no sistema
+[24.10.2013 - 15:56:39][NOTICE] - /hotel/
+[24.10.2013 - 15:56:39][NOTICE] - match: / with /
+[24.10.2013 - 15:56:39][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:56:41][NOTICE] - /hotel/admin
+[24.10.2013 - 15:56:41][NOTICE] - match: /admin with /admin
+[24.10.2013 - 15:56:41][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:56:46][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 15:56:46][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 15:56:46][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 15:56:46][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:03:10][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:03:10][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:03:10][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:03:10][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:04:33][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:04:33][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:04:33][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:04:33][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:07:50][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:07:50][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:07:50][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:07:50][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:09:30][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:09:30][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:09:30][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:09:30][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:10:00][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:10:00][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:10:00][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:10:00][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:11:05][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:11:05][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:11:05][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:11:05][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:11:37][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:11:37][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:11:37][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:11:37][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:11:44][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:11:44][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:11:44][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:11:44][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:11:57][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:11:57][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:11:57][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:11:57][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:12:28][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:12:28][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:12:28][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:12:28][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:13:26][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:13:26][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:13:26][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:13:26][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:14:27][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:14:27][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:14:27][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:14:27][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:15:59][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:15:59][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:15:59][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:15:59][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:16:03][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 16:16:03][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 16:16:03][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:16:16][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 16:16:16][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 16:16:16][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:16:16][NOTICE] - /hotel/
+[24.10.2013 - 16:16:16][NOTICE] - match: / with /
+[24.10.2013 - 16:16:16][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:16:22][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:16:22][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:16:22][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:16:22][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:16:54][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:16:54][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:16:54][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:16:54][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:18:07][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:18:07][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:18:07][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:18:07][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:19:18][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:19:18][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:19:18][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:19:18][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:19:29][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:19:29][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:19:29][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:19:29][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:20:05][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:20:05][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:20:05][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:20:05][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:21:06][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:21:06][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:21:06][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:21:06][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:22:07][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:22:07][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:22:07][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:22:07][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:22:27][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 16:22:27][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 16:22:27][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:22:42][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 16:22:42][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 16:22:42][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:22:43][NOTICE] - /hotel/
+[24.10.2013 - 16:22:43][NOTICE] - match: / with /
+[24.10.2013 - 16:22:43][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:22:44][NOTICE] - /hotel/admin
+[24.10.2013 - 16:22:44][NOTICE] - match: /admin with /admin
+[24.10.2013 - 16:22:44][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:22:47][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:22:47][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:22:47][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:22:47][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:24:49][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:24:49][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:24:49][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:24:49][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:26:45][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:26:45][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:26:45][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:26:45][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:33:23][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:33:23][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:33:23][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:33:23][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:49:39][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:49:39][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:49:39][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:49:39][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:49:42][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:49:42][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:49:42][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:49:42][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:49:46][NOTICE] - /hotel/
+[24.10.2013 - 16:49:46][NOTICE] - match: / with /
+[24.10.2013 - 16:49:46][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:49:50][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:49:50][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:49:50][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:49:50][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:50:27][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:50:27][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:50:27][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:50:27][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:51:21][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:51:21][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:51:21][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:51:21][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:52:01][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:52:01][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:52:01][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:52:01][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:52:41][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:52:41][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:52:41][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:52:41][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:53:35][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:53:35][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:53:35][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:53:35][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:54:10][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:54:10][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:54:10][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:54:10][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:54:34][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:54:34][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:54:34][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:54:34][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:54:58][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:54:58][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:54:58][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:54:58][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:55:22][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:55:22][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:55:22][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:55:22][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:55:32][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:55:32][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:55:32][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:55:32][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:55:34][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 16:55:34][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 16:55:34][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:55:36][NOTICE] - /hotel/admin
+[24.10.2013 - 16:55:36][NOTICE] - match: /admin with /admin
+[24.10.2013 - 16:55:36][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:55:40][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:55:40][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:55:40][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:55:40][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:56:33][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:56:33][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:56:33][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:56:33][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:56:50][NOTICE] - /hotel/
+[24.10.2013 - 16:56:50][NOTICE] - match: / with /
+[24.10.2013 - 16:56:50][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:56:51][NOTICE] - /hotel/
+[24.10.2013 - 16:56:51][NOTICE] - match: / with /
+[24.10.2013 - 16:56:51][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:56:52][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 16:56:52][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 16:56:52][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:56:58][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 16:56:58][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 16:56:58][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:56:58][NOTICE] - /hotel/
+[24.10.2013 - 16:56:58][NOTICE] - match: / with /
+[24.10.2013 - 16:56:58][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:57:00][NOTICE] - /hotel/admin
+[24.10.2013 - 16:57:00][NOTICE] - match: /admin with /admin
+[24.10.2013 - 16:57:00][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:57:05][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:57:05][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:57:05][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:57:05][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:59:32][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 16:59:32][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 16:59:32][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 16:59:32][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:06:03][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:06:03][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:06:03][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:06:03][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:06:29][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:06:29][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:06:29][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:06:29][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:06:47][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:06:47][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:06:47][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:06:47][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:07:07][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:07:07][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:07:07][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:07:07][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:07:24][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:07:24][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:07:24][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:07:24][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:08:38][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:08:38][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:08:38][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:08:38][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:09:09][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:09:09][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:09:09][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:09:09][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:09:17][NOTICE] - /hotel/admin/mensagens/edit/2
+[24.10.2013 - 17:09:17][!!ERROR!!] - URL NOT FOUND: /hotel/admin/mensagens/edit/2
+[24.10.2013 - 17:09:17][NOTICE] - /hotel/
+[24.10.2013 - 17:09:17][NOTICE] - match: / with /
+[24.10.2013 - 17:09:17][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:09:19][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:09:19][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:09:19][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:09:19][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:09:47][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:09:47][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:09:47][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:09:47][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:10:02][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:10:02][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:10:02][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:10:02][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:10:13][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:10:13][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:10:13][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:10:13][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:10:20][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 17:10:20][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 17:10:20][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:10:30][NOTICE] - /hotel/fale-conosco
+[24.10.2013 - 17:10:30][NOTICE] - match: /fale-conosco with /fale-conosco
+[24.10.2013 - 17:10:30][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:10:30][NOTICE] - /hotel/
+[24.10.2013 - 17:10:30][NOTICE] - match: / with /
+[24.10.2013 - 17:10:30][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:10:31][NOTICE] - /hotel/admin
+[24.10.2013 - 17:10:31][NOTICE] - match: /admin with /admin
+[24.10.2013 - 17:10:31][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:10:35][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:10:35][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:10:35][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:10:35][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:11:23][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:11:23][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:11:23][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:11:23][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:12:42][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:12:42][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:12:42][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:12:42][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:13:31][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:13:31][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:13:31][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:13:31][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:15:46][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:15:46][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:15:46][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:15:46][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:15:47][NOTICE] - /hotel/
+[24.10.2013 - 17:15:47][NOTICE] - match: / with /
+[24.10.2013 - 17:15:47][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:15:54][NOTICE] - /hotel/admin
+[24.10.2013 - 17:15:54][NOTICE] - match: /admin with /admin
+[24.10.2013 - 17:15:54][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:16:32][NOTICE] - /hotel/admin
+[24.10.2013 - 17:16:32][NOTICE] - match: /admin with /admin
+[24.10.2013 - 17:16:32][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:16:34][NOTICE] - /hotel/admin/mensagens
+[24.10.2013 - 17:16:34][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[24.10.2013 - 17:16:34][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:16:34][NOTICE] - Aberta conexão com banco de dados!
+[24.10.2013 - 17:16:45][NOTICE] - /hotel/
+[24.10.2013 - 17:16:45][NOTICE] - match: / with /
+[24.10.2013 - 17:16:45][NOTICE] - Aberta conexão com banco de dados!

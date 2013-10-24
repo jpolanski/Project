@@ -29,5 +29,9 @@
    //Efetuando cadastros especificos
    $router->post('/admin/cadastrar/tipo-de-quarto',array('controller' => 'RoomController' , 'action' => 'create'));
 
+
+    //Mensagens do admin
+   $router->get('/admin/mensagens',array('controller' => 'ContactsController' , 'action' => 'show')); 
+
     $router->load();
 ?>

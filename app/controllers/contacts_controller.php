@@ -22,5 +22,9 @@
             }
         }
     
+        public function show(){
+            $result = Interage::select('contacts',array('*'));
+            $this->render(array('view' => 'admin/contacts/index.phtml', 'result' => $result));
+        }
     }
 ?>

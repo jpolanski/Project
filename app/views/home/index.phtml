@@ -1,7 +1,55 @@
 <section>
-  <header>
+  <header class="col-md-12">
       <h2>Hotel Campeão</h2>
   </header>
+
+<article class="col-md-12">
+<div id="carousel-example-generic" class="carousel slide">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+<div class="item active">
+      <?= add_image('room_test.jpg','rooms') ?>
+      <div class="carousel-caption">
+        <h1>Hotel Familiar</h1>
+        <p>Não fique em um lugar apenas para dormir, faça parte da nossa família...</p>
+      </div>
+    </div>
+
+<div class="item">
+      <?= add_image('room_test.jpg','rooms') ?>
+      <div class="carousel-caption">
+        <h1>Conheça Guaraapuava</h1>
+        <p>A terra da neve</p>
+      </div>
+    </div>
+
+<div class="item">
+      <?= add_image('room_test.jpg','rooms') ?>
+      <div class="carousel-caption">
+        <h1>Boa localização</h1>
+        <p>Fique no centro de tudo </p>
+      </div>
+    </div>
+  
+  </div>
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+    <span class="icon-prev"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+    <span class="icon-next"></span>
+  </a>
+</div>
+</article>
+
+
 
   <article class="col-md-4">
         <h4>Título</h4>

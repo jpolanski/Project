@@ -1,4 +1,7 @@
 <?php
+    /* Classe responsável pela interação com o banco de dados
+    *  by: Vinícius Alonso
+    * ---------*/
     class Interage {
         
         public static function select($table,$attributes = array(),$where = null){

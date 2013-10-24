@@ -1,4 +1,4 @@
-<?php
+<?php // namespace admin ;
     class AdminController extends ApplicationController {
         /**
          * Verificações necessárias, verificar se o usuário está logado e se o usuário e administrador
