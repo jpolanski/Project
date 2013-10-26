@@ -14,7 +14,34 @@
         }    
     }
     
-    public static function table($content,$fieldsNew = null) {
+       //Função para preparar a url de edição e delete    
+    private static function makeUrl($action , $id){
+        $url = explode('/',$_SERVER['REQUEST_URI']) ;
+        $x = array_pop($url) ;
+        $y = array_pop($url) ;
+
+       return  "/{$y}/{$x}/{$action}/{$id}" ; 
+    }
+
+
+    //Função para fazer as ações da tabela
+
+    private static function actions($actions) {
+        foreach($actions as $action){            
+            if ($action['method'] == 'GET'){
+              echo link_to(Presents::makeUrl($action['url'],$values[$action['id']]),$action['view']) ;
+            }
+            else {
+              extract($action) ;
+              include 'templates/_form.phtml' ;
+            }
+        }        
+    }
+
+
+// Funções para apresentação de conteúdo
+
+ public static function table($content,$fieldsNew = null,$actions = null) {
 
             $columns = pg_num_fields($content) ;
             while($row = pg_fetch_assoc($content)) {
@@ -29,16 +56,8 @@
                 Presents::alterNameFields($fieldsNew,$fields) ;
             }
             require 'templates/_table.phtml' ;
-    }
+     }
 
-    //Função para preparar a url de edição e delete    
-    private static function makeUrl($action , $id){
-        $url = explode('/',$_SERVER['REQUEST_URI']) ;
-        $x = array_pop($url) ;
-        $y = array_pop($url) ;
-
-       return  "/{$y}/{$x}/{$action}/{$id}" ; 
-    }
    }
 
 ?>

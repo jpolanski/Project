@@ -52,4 +52,5 @@ class Contact extends Base {
       }
       return true;
     }
-} ?>
+
+   } ?>

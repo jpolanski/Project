@@ -31,7 +31,9 @@
 
 
     //Mensagens do admin
-   $router->get('/admin/mensagens',array('controller' => 'ContactsController' , 'action' => 'show')); 
+   $router->get('/admin/mensagens',array('controller' => 'ContactsController' , 'action' => 'show'));     
+   $router->get('/admin/mensagens/ler/:id',array('controller' => 'ContactsController' , 'action' => 'view'));
+   $router->post('/admin/mensagens/deletar/:id',array('controller' => 'ContactsController' , 'action' => 'delete'));
 
-    $router->load();
+   $router->load();
 ?>

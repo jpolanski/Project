@@ -1,0 +1,24 @@
+<?php
+    $row = pg_fetch_assoc($result) ;
+?>
+<article class="col-md-12">
+    <dl>
+        <dt>Remetente:</dt>
+        <dd><?= $row['name'] ?></dd>
+
+        <dt>E-mail:</dt>
+        <dd><?= $row['email'] ?></dd>
+        
+        <dt>Criação:</dt>
+        <dd><?= $row['created_at'] ?></dd>
+
+        <dt>Content:</dt>
+        <dd><?= $row['content'] ?></dd>
+    </dl>
+    
+    <form action="<?= url_for('/admin/mensagens/deletar/' . $row['id'])?>" method="POST">
+    <?= link_to($this->back(),'Voltar',"class='btn btn-primary'")?>
+    <button class="btn btn-success">Excluir</button>
+    </form> 
+</article>
+

@@ -44,7 +44,11 @@
      }
 
 
-    
+        public static function delete($table,$where){
+        $db_con = Database::getConnection();
+        $delete = "DELETE FROM $table WHERE {$where} " ;
+        return pg_query($db_con,$delete);
+    }
     
     }
 ?>
