@@ -1,11 +1,11 @@
 <?php
     namespace Admin ;
-    class ApplicationController extends BaseController {
+    class ApplicationController extends \BaseController {
   private $currentUser;
 
   public function currentUser() {
     if ($this->currentUser == null) {
-      $this->currentUser = User::findById($_SESSION['user']['id']);
+      $this->currentUser = \User::findById($_SESSION['user']['id']);
     }
     return $this->currentUser;
   }

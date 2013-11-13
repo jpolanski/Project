@@ -50,5 +50,10 @@
             return $result ;
         }
 
+        public static function listFree(){
+            $rooms = Interage::select('rooms',array('numberic'), "status = 'f' ");            
+            return $rooms ;
+        }
+
     } 
 ?>

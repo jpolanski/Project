@@ -4,7 +4,7 @@
 <?php extract($action);?>
 
     <?php if(!isset($method)) {?>
-    <?= link_to(Presents::makeUrl($url,$values[$id]),$view)?> 
+    <?= link_to(Presents::makeUrl($url,$values[$id]),$view)?>     
     <?php } else {?>
     
     <button class="btn btn-link"><?= $view ?></button>    

@@ -17,9 +17,18 @@
               $select .= "WHERE {$where}" ;
             }
 
-        $db_con = Database::getConnection() ;
-        $result =  pg_query($db_con,$select) or die('SQL');        
-        return $result ;
+        $db_con = \Database::getConnection() ;
+        $result =  pg_query($db_con,$select);
+
+        while($row = pg_fetch_assoc($result)){
+            $tuplas[] = $row ;
+        }
+        if (!empty($tuplas)){   
+            return $tuplas ;
+        }
+        else {
+            return null ;
+        }
 
     
      }
@@ -38,17 +47,29 @@
          $text = '(' . $text . ')' ;
          $text2 = '(' . $text2 . ')' ;
          
-         $insert = "INSERT INTO $table {$text} VALUES {$text2} " ;
-         $db_con = Database::getConnection(); 
+         $insert = "INSERT INTO $table {$text} VALUES {$text2} " ;         
+         $db_con = \Database::getConnection(); 
         return pg_query($db_con,$insert) or die('SQL');        
      }
 
 
         public static function delete($table,$where){
-        $db_con = Database::getConnection();
-        $delete = "DELETE FROM $table WHERE {$where} " ;
-        return pg_query($db_con,$delete);
-    }
+            $db_con = \Database::getConnection();
+            $delete = "DELETE FROM $table WHERE {$where} " ;
+            return pg_query($db_con,$delete);
+        }
+
+        public static function update($table,$set = array(), $where) {
+            foreach($set as $field => $value){
+                is_string($value)? $value = "'$value'" : $value ;
+                $text[$field] = $value  ;             
+            }
+              
+            
+
+            $update = "UPDATE $table SET " ;
+               
+        }
     
     }
 ?>

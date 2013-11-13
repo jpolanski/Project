@@ -83,4 +83,17 @@
 
        return $img ;
    }
+
+   /*
+   *  Função para marcar um campo de um select como selecionado   
+   */
+
+   function selected($value, $test){
+    if ($value == $test){
+      return "selected" ;
+    }
+    else {
+      return "" ;
+    }
+   }
 ?>

@@ -21,19 +21,21 @@
    //Admin
    $router->get('/admin',array('controller' => 'AdminController' , 'action' => 'index')); 
 
-   //Cadastrar
+   
 
-   $router->get('/admin/cadastrar',array('controller' => 'RegisterController' , 'action' => 'index')); 
-   $router->get('/admin/cadastrar/:form',array('controller' => 'RegisterController' , 'action' => 'index')); 
-
-   //Efetuando cadastros especificos
-   $router->post('/admin/cadastrar/tipo-de-quarto',array('controller' => 'RoomController' , 'action' => 'create'));
-
-
+   
     //Mensagens do admin
-   $router->get('/admin/mensagens',array('controller' => 'ContactsController' , 'action' => 'show'));     
-   $router->get('/admin/mensagens/ler/:id',array('controller' => 'ContactsController' , 'action' => 'view'));
-   $router->post('/admin/mensagens/deletar/:id',array('controller' => 'ContactsController' , 'action' => 'delete'));
+   $router->get('/admin/mensagens',array('controller' => 'Admin\ContactsController' , 'action' => 'index'));     
+   $router->get('/admin/mensagens/ler/:id',array('controller' => 'Admin\ContactsController' , 'action' => 'show'));
+   $router->post('/admin/mensagens/deletar/:id',array('controller' => 'Admin\ContactsController' , 'action' => 'delete'));
 
+   //Reservas
+   $router->get('/admin/reservas',array('controller' => 'Admin\ReservesController' , 'action' => 'index'));
+   $router->get('/admin/reservas/detalhes/:id',array('controller' => 'Admin\ReservesController' , 'action' => 'show'));
+   $router->get('/admin/reservas/nova',array('controller' => 'Admin\ReservesController' , 'action' => '_new'));
+   $router->post('/admin/reservas/nova',array('controller' => 'Admin\ReservesController' , 'action' => 'create'));
+   $router->get('/admin/reservas/:id/editar',array('controller' => 'Admin\ReservesController' , 'action' => 'edit'));
+   $router->get('/admin/reservas/:id/cancelar',array('controller' => 'Admin\ReservesController' , 'action' => 'destroy'));
+   $router->post('/admin/reservas/update',array('controller' => 'Admin\ReservesController' , 'action' => 'update'));
    $router->load();
 ?>

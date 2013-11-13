@@ -1,0 +1,30 @@
+<h3>Listagem de Reservas</h3>
+<?php if(!empty($reserves)) {?>
+
+
+<table class="table">
+	<tr>
+		<td>Quarto</td>		
+		<td>Entrada</td>
+		<td>Saída</td>
+	</tr>
+	
+<?php foreach($reserves as $reserve) {?>
+	<tr>
+		<td><?= $reserve['room_numberic'] ?></td>		
+		<td><?= $reserve['data_input'] ?></td>
+		<td><?= $reserve['data_output'] ?></td>
+		<td>
+			<?= link_to("/admin/reservas/{$reserve['id']}/editar", "Editar", "class='btn btn-primary'") ?>
+			<?= link_to("/admin/reservas/{$reserve['id']}/cancelar", "Cancelar", "class='btn btn-primary'") ?>
+		</td>
+	</tr>
+<?php }?>
+	
+</table>
+
+<?php } else {?>
+	<p>Não existem reservas atualmente</p>
+<?php }?>
+<?= link_to('/admin/reservas/nova', 'Nova Reserva', "class='btn btn-success'") ?>
+

@@ -1,0 +1,45 @@
+<form action="<?= $url ?>" method="POST">
+
+<input type="hidden" name="reserve[operator_id]" value="<?= $_SESSION['user']['id']?>">
+
+<label for="">Buscar dados do cliente</label>
+<input type="text" name="" placeholder="Nome do Cliente"/>
+<button>Buscar</button>
+
+<br />
+<?= link_to('#', 'Novo Cliente')?>
+
+<br />
+
+
+
+
+<br />
+<label for="">Data da Entrada</label>
+<input type="date" name="reserve[data_input]" value="<?= $reserve->getDataInput() ?>"/>
+
+<br />
+<label for="">Data da Saída</label>
+<input type="date" name="reserve[data_output]" value="<?= $reserve->getDataOutput() ?>"/>
+
+<br />
+Tipo de Quarto
+<select name="room[typeroom]">
+	<option value="Individual" >Individual</option>
+	<option value="Duplo">Duplo</option>
+	<option value="Triplo">Triplo</option>
+</select>
+
+
+<br />
+Quartos Disponiveis
+<select name="reserve[room_numberic]">
+	<?php foreach($rooms as $room) {?>
+		<option value="<?= $room['numberic']?>"> <?= $room['numberic'] ?></option>
+	<?php }?>
+</select>
+
+
+
+	<button class="btn btn-success"><?= $submit ?></button>
+</form>

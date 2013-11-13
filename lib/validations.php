@@ -35,5 +35,16 @@
     }
     return true;
   }
+  
+  public static function roomAvalible(){
+    $db_conn = \Database::getConnection();
+    $sql = "SELECT COUNT(numberic) as number FROM rooms WHERE status = 'f' " ;
+    $result = pg_query($db_conn, $sql) ;
+    $value = pg_fetch_assoc($result) ;
+
+    return ($value['number'] > 0) ;  
+
+  }
+  
 }
 ?>

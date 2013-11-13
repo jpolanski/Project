@@ -1,10 +1,10 @@
-<?php
+<?php	
     if($result != null) {
         $fields = array('name' => 'Remetente', 'email' => 'Email' , 'content' => 'Mensagem' ,'created_at' => 'Criação');    
         $actions = array('get' => array('url' => 'ler', 'view' => 'Ler' , 'id' => 'id' , ),
          'POST' => array('url' => 'delete','view'=>'Deletar','id'=>'id' , 'for' => '/admin/mensagens/deletar/', 'method' => 'POST')
         );
-    Presents::table($result,$fields,$actions);
+    \Presents::table($result,$fields,$actions);
 } else {?>
 
 <h1>Não há mensagens</h1>

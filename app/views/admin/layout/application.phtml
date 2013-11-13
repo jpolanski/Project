@@ -44,8 +44,9 @@
 
       <li class="<?= activeClass('/sobre') ?>"><?= link_to ('/sobre', "Sobre") ?></li>
       <li><a href="#">Localização</a></li>
-      <li class="<?= activeClass('/fale-conosco') ?>"><?= link_to('/fale-conosco', 'Fale Conosco') ?></li>       
-      <li><?= link_to('/admin','Área Administrativa') ?></li>      
+      <li class="<?= activeClass('/fale-conosco') ?>"><?= link_to('/fale-conosco', 'Fale Conosco') ?></li> 
+      <li><?= link_to('/admin','Área Administrativa') ?></li>
+      <li><?= link_to('/logout','Seja Bem Vindo(a) ' . $this->currentUser()->getName() . '| Logout')?></li>
     </ul>
  </div><!-- /.navbar-collapse -->
 </nav>

@@ -42,9 +42,9 @@
 // Funções para apresentação de conteúdo
 
  public static function table($content,$fieldsNew = null,$actions = null) {
-
+            
             $columns = pg_num_fields($content) ;
-            while($row = pg_fetch_assoc($content)) {
+            while($row = pg_fetch_assoc($content)) {            
                 foreach($row as $key => $value) {
                   $fields[] = $key ;
                   $values[$key] = $value ;                  
@@ -54,7 +54,7 @@
             }
             if ($fieldsNew != null){
                 Presents::alterNameFields($fieldsNew,$fields) ;
-            }
+            }            
             require 'templates/_table.phtml' ;
      }
 
