@@ -1,6 +1,4 @@
-<?php
-    $row = pg_fetch_assoc($result) ;
-?>
+<?php foreach($result as $row) {?>
 <article class="col-md-12">
     <dl>
         <dt>Remetente:</dt>
@@ -16,9 +14,10 @@
         <dd><?= $row['content'] ?></dd>
     </dl>
     
-    <form action="<?= url_for('/admin/mensagens/deletar/' . $row['id'])?>" method="POST">
+    
     <?= link_to($this->back(),'Voltar',"class='btn btn-primary'")?>
-    <button class="btn btn-success">Excluir</button>
+    <?= link_to("/admin/mensagens/deletar/{$row['id']}",'Deletar',"class='btn btn-danger'")?>
     </form> 
 </article>
+<?php }?>
 

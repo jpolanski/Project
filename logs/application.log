@@ -6973,3 +6973,138 @@
 [13.11.2013 - 16:07:19][NOTICE] - match: /admin/reservas/nova with /admin/reservas/nova
 [13.11.2013 - 16:07:19][NOTICE] - Aberta conexão com banco de dados!
 [13.11.2013 - 16:07:19][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:16:38][NOTICE] - /hotel/admin/reservas/nova
+[13.11.2013 - 16:16:38][NOTICE] - match: /admin/reservas/nova with /admin/reservas/nova
+[13.11.2013 - 16:16:38][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:16:38][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:16:41][NOTICE] - /hotel/
+[13.11.2013 - 16:16:41][NOTICE] - match: / with /
+[13.11.2013 - 16:16:42][NOTICE] - /hotel/fale-conosco
+[13.11.2013 - 16:16:42][NOTICE] - match: /fale-conosco with /fale-conosco
+[13.11.2013 - 16:16:44][NOTICE] - /hotel/admin
+[13.11.2013 - 16:16:44][NOTICE] - match: /admin with /admin
+[13.11.2013 - 16:16:44][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:16:46][NOTICE] - /hotel/admin/reservas
+[13.11.2013 - 16:16:46][NOTICE] - match: /admin/reservas with /admin/reservas
+[13.11.2013 - 16:16:46][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:16:49][NOTICE] - /hotel/admin
+[13.11.2013 - 16:16:49][NOTICE] - match: /admin with /admin
+[13.11.2013 - 16:16:49][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:16:52][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:16:52][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:16:52][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:18:36][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:18:36][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:18:36][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:18:36][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:19:52][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:19:52][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:19:52][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:19:52][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:19:53][NOTICE] - /hotel/
+[13.11.2013 - 16:19:53][NOTICE] - match: / with /
+[13.11.2013 - 16:19:55][NOTICE] - /hotel/admin
+[13.11.2013 - 16:19:55][NOTICE] - match: /admin with /admin
+[13.11.2013 - 16:19:55][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:19:57][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:19:57][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:19:57][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:19:57][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:20:29][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:20:29][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:20:29][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:20:29][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:27:37][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:27:37][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:27:37][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:27:37][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:27:37][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:27:37][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:27:37][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:27:37][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:28:10][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:28:10][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:28:10][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:28:10][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:29:23][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:29:23][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:29:23][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:29:23][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:29:24][NOTICE] - /hotel/fale-conosco
+[13.11.2013 - 16:29:24][NOTICE] - match: /fale-conosco with /fale-conosco
+[13.11.2013 - 16:29:32][NOTICE] - /hotel/fale-conosco
+[13.11.2013 - 16:29:32][NOTICE] - match: /fale-conosco with /fale-conosco
+[13.11.2013 - 16:29:32][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:29:32][NOTICE] - /hotel/
+[13.11.2013 - 16:29:32][NOTICE] - match: / with /
+[13.11.2013 - 16:29:35][NOTICE] - /hotel/admin
+[13.11.2013 - 16:29:35][NOTICE] - match: /admin with /admin
+[13.11.2013 - 16:29:35][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:29:36][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:29:36][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:29:36][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:29:36][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:30:31][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:30:31][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:30:31][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:30:31][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:33:06][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:33:06][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:33:06][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:33:06][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:33:48][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:33:48][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:33:48][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:33:48][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:34:26][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:34:26][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:34:26][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:34:26][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:36:30][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:36:30][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:36:30][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:36:30][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:36:34][NOTICE] - /hotel/admin/admin/mensagens/ler/4
+[13.11.2013 - 16:36:34][!!ERROR!!] - URL NOT FOUND: /hotel/admin/admin/mensagens/ler/4
+[13.11.2013 - 16:36:34][NOTICE] - /hotel/
+[13.11.2013 - 16:36:34][NOTICE] - match: / with /
+[13.11.2013 - 16:36:43][NOTICE] - /hotel/admin
+[13.11.2013 - 16:36:43][NOTICE] - match: /admin with /admin
+[13.11.2013 - 16:36:43][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:36:45][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:36:45][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:36:45][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:36:45][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:37:05][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:37:05][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:37:05][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:37:05][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:37:08][NOTICE] - /hotel/admin/mensagens/ler/4
+[13.11.2013 - 16:37:08][NOTICE] - match: /admin/mensagens/ler/:id with /admin/mensagens/ler/4
+[13.11.2013 - 16:37:08][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:37:53][NOTICE] - /hotel/admin/mensagens/ler/4
+[13.11.2013 - 16:37:53][NOTICE] - match: /admin/mensagens/ler/:id with /admin/mensagens/ler/4
+[13.11.2013 - 16:37:53][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:38:28][NOTICE] - /hotel/admin/mensagens/ler/4
+[13.11.2013 - 16:38:28][NOTICE] - match: /admin/mensagens/ler/:id with /admin/mensagens/ler/4
+[13.11.2013 - 16:38:28][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:38:58][NOTICE] - /hotel/admin/mensagens/ler/4
+[13.11.2013 - 16:38:58][NOTICE] - match: /admin/mensagens/ler/:id with /admin/mensagens/ler/4
+[13.11.2013 - 16:38:58][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:40:14][NOTICE] - /hotel/admin/mensagens/ler/4
+[13.11.2013 - 16:40:14][NOTICE] - match: /admin/mensagens/ler/:id with /admin/mensagens/ler/4
+[13.11.2013 - 16:40:14][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:40:35][NOTICE] - /hotel/admin/mensagens/deletar/4
+[13.11.2013 - 16:40:35][NOTICE] - match: /admin/mensagens/deletar/:id with /admin/mensagens/deletar/4
+[13.11.2013 - 16:40:35][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:40:35][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:40:35][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:40:35][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:40:35][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:40:39][NOTICE] - /hotel/admin/mensagens/ler/5
+[13.11.2013 - 16:40:39][NOTICE] - match: /admin/mensagens/ler/:id with /admin/mensagens/ler/5
+[13.11.2013 - 16:40:39][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:40:41][NOTICE] - /hotel/admin/mensagens
+[13.11.2013 - 16:40:41][NOTICE] - match: /admin/mensagens with /admin/mensagens
+[13.11.2013 - 16:40:41][NOTICE] - Aberta conexão com banco de dados!
+[13.11.2013 - 16:40:41][NOTICE] - Aberta conexão com banco de dados!

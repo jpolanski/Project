@@ -1,0 +1,21 @@
+<table class="table">
+	<tr>
+		<td>Nome</td>
+		<td>Conteúdo</td>
+		<td>Enviada em</td>
+	</tr>
+
+
+	
+	<?php foreach ($result as $contact) {?>
+	<tr>
+		<td><?= $contact['name']?></td>
+		<td><?= $contact['content']?></td>
+		<td><?= $contact['created_at']?></td>
+		<td><?= link_to("/admin/mensagens/ler/{$contact['id']}", "Ler") ?></td>
+		<td><?= link_to("/admin/mensagens/deletar/{$contact['id']}", "Deletar") ?></td>
+	</tr>
+	<?php }?>
+	
+
+</table>

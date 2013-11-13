@@ -46,5 +46,15 @@
 
   }
   
+
+  public static function isEmptyContacts(){
+    $db_conn = \Database::getConnection();
+    $sql = "SELECT COUNT(id) as number FROM contacts ";
+    $result = pg_query($db_conn, $sql) ;
+    $value = pg_fetch_assoc($result) ;
+
+    return ($value['number'] == 0) ;  
+
+  }
 }
 ?>

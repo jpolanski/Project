@@ -10,7 +10,7 @@
 
         public function show(){
             $result = \Interage::select('contacts',array('*'),"id = {$this->params[':id']}");
-            $this->render(array('view' => 'admin/contacts/view.phtml', 'result' => $result));        
+            $this->render(array('view' => 'admin/contacts/show.phtml', 'result' => $result));        
         }
 
         public function delete(){

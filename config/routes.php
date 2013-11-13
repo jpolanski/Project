@@ -27,7 +27,7 @@
     //Mensagens do admin
    $router->get('/admin/mensagens',array('controller' => 'Admin\ContactsController' , 'action' => 'index'));     
    $router->get('/admin/mensagens/ler/:id',array('controller' => 'Admin\ContactsController' , 'action' => 'show'));
-   $router->post('/admin/mensagens/deletar/:id',array('controller' => 'Admin\ContactsController' , 'action' => 'delete'));
+   $router->get('/admin/mensagens/deletar/:id',array('controller' => 'Admin\ContactsController' , 'action' => 'delete'));
 
    //Reservas
    $router->get('/admin/reservas',array('controller' => 'Admin\ReservesController' , 'action' => 'index'));
