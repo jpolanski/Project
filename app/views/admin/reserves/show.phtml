@@ -1,14 +1,22 @@
 <h3>Listagem de dados da reserva, do cliente, e o nome do operador que fez a reserva</h3>
 
-<table>
-	<tr>
-		<td>Cliente</td>
-		<td><?= $client->getName() ?></td>
-	</tr>	
+<dl>
+	
+	<dt>Cliente</dt>
+	<dd><?= $reserve->getClient()->getName() .' '. $reserve->getClient()->getSurname() ?></dd>
+
+	<dt>CPF</dt>
+	<dd><?= $reserve->getClient()->getCpf()?></dd>
 
 
+	<dt>Quarto</dt>
+	<dd><?= $reserve->getRoom()->getNumberic()?></dd>
 
+	<dt>Tipo do quarto</dt>
+	<dd><?= $reserve->getRoom()->getType()?></dd>
 
-</table>
+	<dt>Operador</dt>
+	<dd><?= $reserve->getOperator()->getName()?></dd>
+</dl>
 
 <?= link_to('/admin/reservas', "Voltar") ?>

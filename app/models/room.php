@@ -35,6 +35,14 @@
          public function getDailyValue() {
             return $this->dailyValue ;
         }
+
+        public function setType($type){
+            $this->type = $type ;
+        }
+
+        public function getType(){
+            return $this->type ;
+        }
         
         public static function readRoom($type) {
             $db_conn = Database::getConnection();
@@ -50,9 +58,14 @@
             return $result ;
         }
 
-        public static function listFree(){
-            $rooms = Interage::select('rooms',array('numberic'), "status = 'f' ");            
+        public static function listFree($type){
+            $rooms = Interage::select('rooms',array('numberic'), "status = 'f' and type = '$type' ");            
             return $rooms ;
+        }
+
+        public static function findById($id){
+            $room = \Interage::select('rooms', array('*'), "numberic = $id");
+            return new Room($room[0]) ;
         }
 
     } 

@@ -1,45 +1,42 @@
 <form action="<?= $url ?>" method="POST">
 
 <input type="hidden" name="reserve[operator_id]" value="<?= $_SESSION['user']['id']?>">
+<input type="hidden" name="client[id]" value="<?= $client->getId() ?>">
 
-<label for="">Buscar dados do cliente</label>
-<input type="text" name="" placeholder="Nome do Cliente"/>
-<button>Buscar</button>
+<div class="form-group <?= $client->errors('name') ? 'has-error' : '' ?>">
+<label class="control-label" for="client[name]">Cliente:</label>
+	<input class="form-control" type="text" name="client[name]" disabled="disabled" value="<?= $client->getName() . ' '.  $client->getSurname () ?>"/>
+	<p class="help-block"><?= $client->errors('name') ?></p>
+</div>
 
-<br />
-<?= link_to('#', 'Novo Cliente')?>
+<div class="form-group <?= $reserve->errors('data input') ? 'has-error' : '' ?>">
+<label class="control-label" for="reserve[data_input]">Data da Entrada</label>
+	<input class="form-control" type="date" name="reserve[data_input]" value="<?= $reserve->getDataInput()?>"/>
+<p class="help-block"><?= $reserve->errors('data input') ?></p>
+</div>
 
-<br />
-
-
-
-
-<br />
-<label for="">Data da Entrada</label>
-<input type="date" name="reserve[data_input]" value="<?= $reserve->getDataInput() ?>"/>
-
-<br />
-<label for="">Data da Saída</label>
-<input type="date" name="reserve[data_output]" value="<?= $reserve->getDataOutput() ?>"/>
-
-<br />
-Tipo de Quarto
-<select name="room[typeroom]">
-	<option value="Individual" >Individual</option>
-	<option value="Duplo">Duplo</option>
-	<option value="Triplo">Triplo</option>
-</select>
+<div class="form-group <?= $reserve->errors('data output') ? 'has-error' : '' ?>">
+<label class="control-label" for="reserve[data_output]">Data da Saída</label>
+<input class="form-control" type="date" name="reserve[data_output]" value="<?= $reserve->getDataOutput() ?>"/>
+	<p class="help-block"><?= $reserve->errors('data output') ?></p>
+</div>
 
 
-<br />
-Quartos Disponiveis
-<select name="reserve[room_numberic]">
+
+
+<div>	
+<label for="reserve[room_numberic]">Quartos Disponiveis</label>
+<select class="form-control" name="reserve[room_numberic]">
+	<?php if(isset($edit)) {?>
+	<option value="<?= $reserve->getRoom()->getNumberic() ?>"><?= $reserve->getRoom()->getNumberic() ?></option>
+	<?php }?>
 	<?php foreach($rooms as $room) {?>
 		<option value="<?= $room['numberic']?>"> <?= $room['numberic'] ?></option>
 	<?php }?>
 </select>
+</div>
 
-
-
+<div class="form-group">
 	<button class="btn btn-success"><?= $submit ?></button>
+</div>
 </form>

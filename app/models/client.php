@@ -79,6 +79,7 @@
   }
 
   public function setAddressId($addressId){
+    //$this->address = \Address::findById($addressId) ;
     $this->addressId = $addressId ;
   }
 
@@ -91,8 +92,11 @@
 
   public static function findById($id){
     $new = \Interage::select('client',array('*'),"id = $id");
-    return new Client($new);
+    return new Client($new[0]);
   }
 
-  
+  public static function findByCpf($cpf){
+    $new = \Interage::select('client',array('*'),"cpf = '$cpf' ");      
+    return new Client($new[0]);
+  }  
 }?>

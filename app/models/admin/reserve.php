@@ -1,37 +1,39 @@
 <?php
+    
     namespace Admin ;
+
     class Reserve extends \Base {
         
-        private $operator_id ;
-        private $room_numberic ;
-        private $client_id ;
+        private $operator ;
+        private $room ;
+        private $client;        
         private $data_input ;
         private $data_output ;
         
         
-        public function getRoomNumberic(){
-            return $this->room_numberic ;
+        public function getRoom(){
+            return $this->room ;
         }
 
-        public function setRoomNumberic($room_numberic){
-            $this->room_numberic = $room_numberic ;
+        public function setRoomNumberic($room){
+            $this->room = \Room::findById($room) ;
         }
 
-        public function getOperatorId(){
-            return $this->operator_id ;
+        public function getOperator(){
+            return $this->operator ;
         }
 
-        public function setOperatorId($operator_id){
-            $this->operator_id = $operator_id ;
+        public function setOperatorId($operator){
+            $this->operator = \User::findById($operator) ;
 
         }
 
-        public function setClientId($client_id){
-            $this->client_id = $client_id ;
+        public function setClientId($client){            
+            $this->client = \Client::findById($client) ;
         }
 
-        public function getClientId(){
-            return $this->client_id ;
+        public function getClient(){
+            return $this->client ;
         }
 
         public function getDataOutput(){
@@ -46,39 +48,42 @@
             return $this->data_input ;
         }
 
-        public function setDataInput($data_input){
-            $this->data_input = $data_input ;
+        public function setDataInput($data_input){            
+            $this->data_input = $data_input ;        
         }
 
 
         
         public function validates() {
+            \Validations::validDate($this->data_input,'date input',$this->errors);
         }
 
         public function save(){
             if($this->isValid()){
-              $reserve =  \Interage::insert('reserves',array('operator_id' => $this->operator_id, 
-                    'room_numberic' => $this->room_numberic, 
-                    'client_id' => $this->client_id ,
+              $reserve =  \Interage::insert('reserves',array('operator_id' => $this->operator->getId(), 
+                    'room_numberic' => $this->room->getNumberic(), 
+                    'client_id' => $this->client->getId() ,
                     'data_input' => $this->data_input ,
                     'data_output' => $this->data_output
                 ));
-
                 $db_conn = \Database::getConnection();
-                $sql = "UPDATE rooms SET status = 't' WHERE numberic = $this->room_numberic " ;
+                $numberic = (int)$this->room->getNumberic() ;
+                $sql = "UPDATE rooms SET status = 't' WHERE numberic = $numberic " ;
                 return  pg_query($db_conn, $sql) ;
-
-              
             }
-            
         }
 
         public static function all(){            
             $all = \Interage::select('reserves',array('*')) ;
-                  
-            if($all != null)
-                {return $all;}
-            else {return false ;}            
+            if($all == null){
+                return null ;
+            }
+
+            foreach($all as $one){
+                $list[] = new Reserve($one) ;
+            }
+
+            return $list ;
         }
 
         public static function findById($id){
@@ -97,28 +102,11 @@
             
             return new Reserve($newObj);          
         }
-
-        public function searchDetails(){
-            if(!empty($this->client_id)){
-            $result = \Interage::select('client',array('*'), "id = $this->client_id");
-            $new['client'] = pg_fetch_assoc($result) ;
-            }
-
-            if(!empty($this->operator_id)){
-            $result = \Interage::select('operators',array('name'), "id = $this->operator_id");
-            $new['operator'] = pg_fetch_assoc($result) ;
-            }
-            if(!empty($this->room_numberic)){
-            $result = \Interage::select('rooms', array('typeroom', 'numberic'), "numberic = %this->room_numberic");
-            $new['room'] = pg_fetch_assoc($result) ;            
-            }
-            return $new ;
-        }
-
-        public function destroy(){
-                        
+        
+        public function destroy(){                        
             $db_conn = \Database::getConnection() ;
-            $sql = "UPDATE rooms SET status = 'f' WHERE numberic = $this->room_numberic " ;
+            $numberic = (int)$this->room->getNumberic() ;
+            $sql = "UPDATE rooms SET status = 'f' WHERE numberic = $numberic " ;
             $update = pg_query($db_conn,$sql);
             $delete = \Interage::delete('reserves', "id = $this->id");
 
@@ -128,6 +116,11 @@
             else {
                 return false ;
             }
+
+        }
+
+        public function update(){
+            
 
         }
     }

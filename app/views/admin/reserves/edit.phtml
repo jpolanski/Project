@@ -1,6 +1,7 @@
 <h3>Editar Reserva</h3>
 <?php
-	$url = url_for('/admin/reservas/') ;
+	$edit = " " ;
+	$url = url_for("/admin/reservas/{$reserve->getId()}/editar") ;
 	$submit = 'Finalizar' ;
 	require '_form.phtml' ;
 ?>

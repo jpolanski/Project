@@ -89,6 +89,7 @@
    */
 
    function selected($value, $test){
+    
     if ($value == $test){
       return "selected" ;
     }
@@ -96,4 +97,17 @@
       return "" ;
     }
    }
+
+
+   // Captura a data atual
+
+   function now(){
+    return date("Y-m-d") ; 
+   }
+
+   function tomorrow(){
+    return date("Y-m-d", mktime(0,0,0,date("m"),(date("d")+1),date("Y")));
+   }
+
+
 ?>

@@ -36,6 +36,7 @@
     return true;
   }
   
+  //Verifica se existem quartos vagos
   public static function roomAvalible(){
     $db_conn = \Database::getConnection();
     $sql = "SELECT COUNT(numberic) as number FROM rooms WHERE status = 'f' " ;
@@ -47,6 +48,7 @@
   }
   
 
+  //Verifica se existem mensagens ao admin
   public static function isEmptyContacts(){
     $db_conn = \Database::getConnection();
     $sql = "SELECT COUNT(id) as number FROM contacts ";
@@ -56,5 +58,15 @@
     return ($value['number'] == 0) ;  
 
   }
+
+  //Verifica se as datas são validas
+  public static function validDate($date, $key = null, &$errors = null){
+    $datas = explode('-',$date) ;
+    if(!checkdate($datas[1], $datas[2], $datas[0])){
+      $errors[$key] = "Data inválida" ;
+    }    
+  }
+
+  
 }
 ?>

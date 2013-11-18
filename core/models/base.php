@@ -70,4 +70,15 @@ abstract class Base {
          $this->$method(strip_tags(trim($value)));
       }
     }
+
+
+
+   public function now(){
+    return date("Y-m-d") ; 
+   }
+
+   public function tomorrow(){
+    return date("Y-m-d", mktime(0,0,0,date("m"),(date("d")+1),date("Y")));
+   }
+
 } ?>

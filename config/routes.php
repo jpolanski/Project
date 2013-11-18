@@ -31,11 +31,14 @@
 
    //Reservas
    $router->get('/admin/reservas',array('controller' => 'Admin\ReservesController' , 'action' => 'index'));
-   $router->get('/admin/reservas/detalhes/:id',array('controller' => 'Admin\ReservesController' , 'action' => 'show'));
+   $router->get('/admin/reservas/:id/detalhes',array('controller' => 'Admin\ReservesController' , 'action' => 'show'));
    $router->get('/admin/reservas/nova',array('controller' => 'Admin\ReservesController' , 'action' => '_new'));
    $router->post('/admin/reservas/nova',array('controller' => 'Admin\ReservesController' , 'action' => 'create'));
    $router->get('/admin/reservas/:id/editar',array('controller' => 'Admin\ReservesController' , 'action' => 'edit'));
    $router->get('/admin/reservas/:id/cancelar',array('controller' => 'Admin\ReservesController' , 'action' => 'destroy'));
-   $router->post('/admin/reservas/update',array('controller' => 'Admin\ReservesController' , 'action' => 'update'));
+   $router->post('/admin/reservas/:id/editar',array('controller' => 'Admin\ReservesController' , 'action' => 'update'));
+
+   //Busca os dados do cliente para uma reserva
+   $router->post('/admin/reservas/buscar',array('controller' => 'Admin\ReservesController' , 'action' => 'search'));
    $router->load();
 ?>
