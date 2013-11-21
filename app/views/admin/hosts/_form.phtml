@@ -1,0 +1,43 @@
+<form action="<?= $url ?>" method="POST">
+
+<input type="hidden" name="reserve[operator_id]" value="<?= $_SESSION['user']['id']?>">
+<input type="hidden" name="reserve[client_id]" value="<?= $client->getId() ?>">
+<input type="hidden" name="room[type]" value="<?= $type ?>">
+
+<div class="form-group <?= $client->errors('name') ? 'has-error' : '' ?>">
+<label class="control-label" for="client[name]">Cliente:</label>
+	<input class="form-control" type="text" name="client[name]" disabled="disabled" value="<?= $client->getName() . ' '.  $client->getSurname () ?>"/>
+	<p class="help-block"><?= $client->errors('name') ?></p>
+</div>
+
+<div class="form-group <?= $reserve->errors('data input') ? 'has-error' : '' ?>">
+<label class="control-label" for="reserve[dataInput]">Data da Entrada</label>
+	<input class="form-control" type="date" name="reserve[dataInput]" value="<?= $reserve->getDataInput()?>"/>
+<p class="help-block"><?= $reserve->errors('data input') ?></p>
+</div>
+
+<div class="form-group <?= $reserve->errors('data output') ? 'has-error' : '' ?>">
+<label class="control-label" for="reserve[dataOutput]">Data da Saída</label>
+<input class="form-control" type="date" name="reserve[dataOutput]" value="<?= $reserve->getDataOutput() ?>"/>
+	<p class="help-block"><?= $reserve->errors('data output') ?></p>
+</div>
+
+
+
+
+<div>	
+<label for="reserve[room_numberic]">Quartos Disponiveis</label>
+<select class="form-control" name="reserve[room_numberic]">
+	<?php if(isset($edit)) {?>
+	<option value="<?= $reserve->getRoom()->getNumberic() ?>"><?= $reserve->getRoom()->getNumberic() ?></option>
+	<?php }?>
+	<?php foreach($rooms as $room) {?>
+		<option value="<?= $room['numberic']?>"> <?= $room['numberic'] ?></option>
+	<?php }?>
+</select>
+</div>
+
+<div class="form-group">
+	<button class="btn btn-success"><?= $submit ?></button>
+</div>
+</form>

@@ -2,6 +2,7 @@
 
 <input type="hidden" name="reserve[operator_id]" value="<?= $_SESSION['user']['id']?>">
 <input type="hidden" name="client[id]" value="<?= $client->getId() ?>">
+<input type="hidden" name="room[type]" value="<?= $type ?>">
 
 <div class="form-group <?= $client->errors('name') ? 'has-error' : '' ?>">
 <label class="control-label" for="client[name]">Cliente:</label>
@@ -10,14 +11,14 @@
 </div>
 
 <div class="form-group <?= $reserve->errors('data input') ? 'has-error' : '' ?>">
-<label class="control-label" for="reserve[data_input]">Data da Entrada</label>
-	<input class="form-control" type="date" name="reserve[data_input]" value="<?= $reserve->getDataInput()?>"/>
+<label class="control-label" for="reserve[dataInput]">Data da Entrada</label>
+	<input class="form-control" type="date" name="reserve[dataInput]" value="<?= $reserve->getDataInput()?>"/>
 <p class="help-block"><?= $reserve->errors('data input') ?></p>
 </div>
 
 <div class="form-group <?= $reserve->errors('data output') ? 'has-error' : '' ?>">
-<label class="control-label" for="reserve[data_output]">Data da Saída</label>
-<input class="form-control" type="date" name="reserve[data_output]" value="<?= $reserve->getDataOutput() ?>"/>
+<label class="control-label" for="reserve[dataOutput]">Data da Saída</label>
+<input class="form-control" type="date" name="reserve[dataOutput]" value="<?= $reserve->getDataOutput() ?>"/>
 	<p class="help-block"><?= $reserve->errors('data output') ?></p>
 </div>
 

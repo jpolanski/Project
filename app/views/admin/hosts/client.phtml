@@ -1,0 +1,25 @@
+<form action="<?= url_for('/admin/hospedagens/nova') ?>" method="POST">
+
+	<div>
+		<label for="">Digite o CPF do cliente</label>
+		<input type="text" name="cpf" />
+		
+	</div>
+
+	<div>
+	<label for="typeroom">Tipo de Quarto</label>
+		<select class="form-control" name="typeroom">
+		<option value="Individual" >Individual</option>
+		<option value="Duplo">Duplo</option>
+		<option value="Triplo">Triplo</option>
+	</select>
+	</div>
+	
+<div>	
+<button type="submit" class="btn btn-info">Buscar
+	<span class="glyphicon glyphicon-search"></span>
+</button>
+</div>
+</form>	
+
+<?= link_to('/admin/cliente/novo', "Novo Cliente")?>

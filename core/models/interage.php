@@ -1,7 +1,5 @@
 <?php
-    /* Classe responsável pela interação com o banco de dados
-    *  by: Vinícius Alonso
-    * ---------*/
+    
     class Interage {
         
         public static function select($table,$attributes = array(),$where = null){
@@ -16,6 +14,7 @@
             if ($where != null){
               $select .= "WHERE {$where}" ;
             }
+            
 
         $db_con = \Database::getConnection() ;
         $result =  pg_query($db_con,$select);
@@ -23,6 +22,7 @@
         while($row = pg_fetch_assoc($result)){
             $tuplas[] = $row ;
         }
+        
         if (!empty($tuplas)){   
             return $tuplas ;
         }
@@ -34,7 +34,7 @@
      }
 
 
-         public static function insert($table, $values = array()){
+         public static function insert($table, $values = array(),$other = ""){
          foreach($values as $camp => $value){
              is_string($value)? $value = "'$value'" : $value ;
             $text[] = $camp  ;
@@ -47,7 +47,7 @@
          $text = '(' . $text . ')' ;
          $text2 = '(' . $text2 . ')' ;
          
-         $insert = "INSERT INTO $table {$text} VALUES {$text2} " ;         
+         $insert = "INSERT INTO $table {$text} VALUES {$text2} {$other}" ;         
          $db_con = \Database::getConnection(); 
         return pg_query($db_con,$insert) or die('SQL');        
      }

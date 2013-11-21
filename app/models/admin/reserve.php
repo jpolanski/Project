@@ -7,10 +7,12 @@
         private $operator ;
         private $room ;
         private $client;        
-        private $data_input ;
-        private $data_output ;
+        private $dataInput ;
+        private $dataOutput ;
+        private $visible ;
         
-        
+
+
         public function getRoom(){
             return $this->room ;
         }
@@ -40,8 +42,8 @@
             return $this->data_output ;
         }
 
-        public function setDataOutput($data_output){
-            $this->data_output = $data_output ;
+        public function setDataOutput($data_output){            
+                $this->data_output = $data_output ;
         }
 
         public function getDataInput(){
@@ -51,7 +53,15 @@
         public function setDataInput($data_input){            
             $this->data_input = $data_input ;        
         }
-
+        
+        public function getVisible(){
+            return $this->visible ;
+        }
+        
+        public function setVisible($visible){
+            $this->visible = $visible ;
+        }
+        
 
         
         public function validates() {
@@ -65,6 +75,7 @@
                     'client_id' => $this->client->getId() ,
                     'data_input' => $this->data_input ,
                     'data_output' => $this->data_output
+                    
                 ));
                 $db_conn = \Database::getConnection();
                 $numberic = (int)$this->room->getNumberic() ;
@@ -73,8 +84,8 @@
             }
         }
 
-        public static function all(){            
-            $all = \Interage::select('reserves',array('*')) ;
+        public static function all($visible = 't'){            
+            $all = \Interage::select('reserves',array('*'), "visible = '$visible' ") ;
             if($all == null){
                 return null ;
             }
@@ -87,27 +98,16 @@
         }
 
         public static function findById($id){
-            $db_conn = \Database::getConnection() ;
-            $sql = "SELECT * FROM  reserves WHERE id = $id " ;
-            $new = pg_query($db_conn,$sql);
+            $new = \Interage::select('reserves', array('*'),"id = $id");
             
-            while($row = pg_fetch_array($new)){
-                foreach($row as $field => $value){
-                    if(!is_numeric($field)){
-                        $newObj[$field] = $value ;
-                    }
-                }
-            }
-            
-            
-            return new Reserve($newObj);          
+            return new Reserve($new[0]);
         }
         
         public function destroy(){                        
             $db_conn = \Database::getConnection() ;
             $numberic = (int)$this->room->getNumberic() ;
             $sql = "UPDATE rooms SET status = 'f' WHERE numberic = $numberic " ;
-            $update = pg_query($db_conn,$sql);
+            $update = pg_query($db_conn,$sql);            
             $delete = \Interage::delete('reserves', "id = $this->id");
 
             if ($update != null && $delete != null){
@@ -119,9 +119,33 @@
 
         }
 
+        public function notVisible(){
+            $db_con = \Database::getConnection();
+            $id = (int)$this->getId();
+            $sql = "UPDATE reserve SET visible = 'f' WHERE id = $id ";
+            return pg_query($db_con,$sql);
+        }
+
         public function update(){
             
 
+        }
+
+        public function saveAndReturnningId(){
+            if($this->isValid()){
+              $id = $reserve =  \Interage::insert('reserves',array('operator_id' => $this->operator->getId(), 
+                    'room_numberic' => $this->room->getNumberic(), 
+                    'client_id' => $this->client->getId() ,
+                    'data_input' => $this->data_input ,
+                    'data_output' => $this->data_output), "RETURNING id ");
+                $db_conn = \Database::getConnection();
+                $numberic = (int)$this->room->getNumberic() ;
+                $sql = "UPDATE rooms SET status = 't' WHERE numberic = $numberic " ;
+                $result = pg_query($db_conn, $sql) ;
+                
+                $id = \Interage::select('reserves', array("MAX(id)"));
+                return $id[0]['max'] ;
+            }
         }
     }
 ?>

@@ -1,6 +1,8 @@
 <h3>Nova Reserva</h3>
 <?php
 	$url = url_for('/admin/reservas/nova') ;
+	$reserve->setDataInput(now());
+	$reserve->setDataOutput(tomorrow());
 	$submit = 'Finalizar' ;
 	require '_form.phtml' ;
 ?>

@@ -11,6 +11,7 @@
 	</tr>
 	
 <?php foreach($reserves as $reserve) {?>
+	<?php if($reserve->getVisible() == 't') {?>
 	<tr>
 		<td><?= $reserve->getRoom()->getNumberic() ?></td>		
 		<td><?= $reserve->getClient()->getName() .' '. $reserve->getClient()->getSurname()?></td>
@@ -23,6 +24,7 @@
 			<?= link_to("#", "Confirmar Hospedagem", "class='btn btn-success'") ?>
 		</td>
 	</tr>
+	<?php }?>
 <?php }?>
 	
 </table>

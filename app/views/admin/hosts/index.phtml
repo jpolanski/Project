@@ -1,0 +1,35 @@
+<h3>Listagem de Hospedes</h3>
+<?php if(!empty($hosts)) {?>
+
+
+<table class="table">
+	<tr>
+		<td>Quarto</td>		
+		<td>Cliente</td>
+		<td>Entrada</td>
+		<td>Saída</td>
+	</tr>
+	
+<?php foreach($hosts as $host) {?>
+	<tr>
+		<td><?= $host->getReserve()->getRoom()->getNumberic() ?></td>		
+		<td><?= $host->getReserve()->getClient()->getName() .' '. $host->getReserve()->getClient()->getSurname()?></td>
+		<td><?= $host->getReserve()->getDataInput() ?></td>
+		<td><?= $host->getReserve()->getDataOutput() ?></td>
+		<td>
+			<?= link_to("/admin/hospedagens/{$host->getId()}/detalhes", "Detalhes", "class='btn btn-primary'") ?>
+			<!--
+			<?= link_to("/admin/hospedagens/{$host->getReserve()->getId()}/editar", "Editar", "class='btn btn-primary'") ?>
+		-->
+			<?= link_to("/admin/hospedagens/{$host->getId()}/cancelar", "Cancelar", "class='btn btn-primary'") ?>	
+			
+		</td>
+	</tr>
+<?php }?>
+	
+</table>
+<?php } else {?>
+	<p>Não existem hospedagens atualmente</p>
+<?php }?>
+<?= link_to('/admin/hospedagens/buscar', 'Nova Hospegem', "class='btn btn-success'") ?>
+

@@ -8,9 +8,7 @@
                  'reserves' => Reserve::all())) ;
         }
 
-
-
-        public function show(){
+        public function show(){     
         	$reserve = Reserve::findById($this->params[':id']) ;
         	$this->render(array('view' => 'admin/reserves/show.phtml','reserve' => $reserve));
         }
@@ -90,7 +88,8 @@
             if (!empty($rooms)) {
             $this->render(array('view' => 'admin/reserves/new.phtml',
                                 'client' => $client,
-                                'rooms' => $rooms ,                                 
+                                'rooms' => $rooms ,
+                                'type' => $this->params['typeroom'] ,                                 
                                 'reserve' => new Reserve() 
 
             ));

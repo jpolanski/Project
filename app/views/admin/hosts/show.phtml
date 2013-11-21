@@ -1,0 +1,22 @@
+<h3>Dados da Hospedagem</h3>
+
+<dl>
+	
+	<dt>Cliente</dt>
+	<dd><?= $host->getReserve()->getClient()->getName() .' '. $host->getReserve()->getClient()->getSurname() ?></dd>
+
+	<dt>CPF</dt>
+	<dd><?= $host->getReserve()->getClient()->getCpf()?></dd>
+
+
+	<dt>Quarto</dt>
+	<dd><?= $host->getReserve()->getRoom()->getNumberic()?></dd>
+
+	<dt>Tipo do quarto</dt>
+	<dd><?= $host->getReserve()->getRoom()->getType()?></dd>
+
+	<dt>Operador</dt>
+	<dd><?= $host->getReserve()->getOperator()->getName()?></dd>
+</dl>
+
+<?= link_to('/admin/hospedagens', "Voltar") ?>

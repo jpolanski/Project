@@ -1,0 +1,8 @@
+<h3>Nova Hospedagem</h3>
+<?php
+	$url = url_for('/admin/hospedagens/criar');
+	$submit = "Finalizar" ;
+	$reserve->setDataInput(now());
+	$reserve->setDataOutput(tomorrow());
+	require "_form.phtml" ;
+?>

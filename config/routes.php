@@ -40,5 +40,16 @@
 
    //Busca os dados do cliente para uma reserva
    $router->post('/admin/reservas/buscar',array('controller' => 'Admin\ReservesController' , 'action' => 'search'));
+
+   #Hospedagens
+   $router->get('/admin/hospedagens',array('controller' => 'Admin\HostsController' , 'action' => 'index'));
+   $router->post('/admin/hospedagens/nova',array('controller' => 'Admin\HostsController' , 'action' => '_new'));
+   $router->post('/admin/hospedagens/criar',array('controller' => 'Admin\HostsController' , 'action' => 'create'));
+   $router->get('/admin/hospedagens/:id/detalhes',array('controller' => 'Admin\HostsController' , 'action' => 'show'));
+   $router->get('/admin/hospedagens/:id/cancelar',array('controller' => 'Admin\HostsController' , 'action' => 'destroy'));
+
+   #Busca os dados do cliente
+   $router->get('/admin/hospedagens/buscar',array('controller' => 'Admin\HostsController' , 'action' => 'search'));
+   
    $router->load();
 ?>

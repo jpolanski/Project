@@ -91,12 +91,12 @@
 
 
   public static function findById($id){
-    $new = \Interage::select('client',array('*'),"id = $id");
+    $new = \Interage::select('clients',array('*'),"id = $id");
     return new Client($new[0]);
   }
 
   public static function findByCpf($cpf){
-    $new = \Interage::select('client',array('*'),"cpf = '$cpf' ");      
+    $new = \Interage::select('clients',array('*'),"cpf = '$cpf' ");      
     return new Client($new[0]);
   }  
 }?>
